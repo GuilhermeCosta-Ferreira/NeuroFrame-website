@@ -1,0 +1,8636 @@
+{
+  "brain_locations": [
+    {
+      "acronym": "root",
+      "name": "Root",
+      "id": 997.0,
+      "mci_coords": {
+        "x": -2.473,
+        "y": -0.207,
+        "z": -4.67
+      },
+      "wt_coords": {
+        "x": -0.625,
+        "y": -2.825,
+        "z": -5.55
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0002,
+        "z": 0.0001
+      },
+      "mci_volume": 0.0,
+      "wt_volume": 1.658,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/root/coronal_.png"
+    },
+    {
+      "acronym": "Isocortex",
+      "name": "Isocortex",
+      "id": 315.0,
+      "mci_coords": {
+        "x": -3.156,
+        "y": -2.788,
+        "z": -2.862
+      },
+      "wt_coords": {
+        "x": -1.225,
+        "y": 3.3,
+        "z": -1.825
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.001,
+        "z": 0.0
+      },
+      "mci_volume": 0.0,
+      "wt_volume": 0.501,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "FRP",
+      "name": "Frontal Pole, Cerebral Cortex",
+      "id": 184.0,
+      "mci_coords": {
+        "x": -0.736,
+        "y": 3.4,
+        "z": -1.418
+      },
+      "wt_coords": {
+        "x": -2.625,
+        "y": 1.65,
+        "z": -2.05
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0101,
+        "z": 0.0137
+      },
+      "mci_volume": 0.312,
+      "wt_volume": 5.577,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/FRP/coronal_.png"
+    },
+    {
+      "acronym": "MO",
+      "name": "Somatomotor Areas",
+      "id": 500.0,
+      "mci_coords": {
+        "x": -2.368,
+        "y": 1.034,
+        "z": -1.65
+      },
+      "wt_coords": {
+        "x": -1.5,
+        "y": 2.1,
+        "z": -1.55
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.857,
+      "wt_volume": 6.505,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "MOp",
+      "name": "Primary Motor Area",
+      "id": 985.0,
+      "mci_coords": {
+        "x": -2.115,
+        "y": 2.0,
+        "z": -1.718
+      },
+      "wt_coords": {
+        "x": -3.725,
+        "y": -0.275,
+        "z": -1.95
+      },
+      "significance_coords": {
+        "x": 0.0486,
+        "y": 0.0,
+        "z": 0.0188
+      },
+      "mci_volume": 7.194,
+      "wt_volume": 1.538,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MOp/coronal_.png"
+    },
+    {
+      "acronym": "MOs",
+      "name": "Secondary Motor Area",
+      "id": 993.0,
+      "mci_coords": {
+        "x": -1.148,
+        "y": 2.511,
+        "z": -1.159
+      },
+      "wt_coords": {
+        "x": -3.375,
+        "y": -1.225,
+        "z": -1.375
+      },
+      "significance_coords": {
+        "x": 0.0267,
+        "y": 0.0,
+        "z": 0.0035
+      },
+      "mci_volume": 4.273,
+      "wt_volume": 3.235,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MOs/coronal_.png"
+    },
+    {
+      "acronym": "SSp-n",
+      "name": "Primary Somatosensory Area, Nose",
+      "id": 353.0,
+      "mci_coords": {
+        "x": -3.63,
+        "y": 0.205,
+        "z": -2.02
+      },
+      "wt_coords": {
+        "x": -1.75,
+        "y": -0.725,
+        "z": -0.55
+      },
+      "significance_coords": {
+        "x": 0.0233,
+        "y": 0.0012,
+        "z": 0.1084
+      },
+      "mci_volume": 1.207,
+      "wt_volume": 1.097,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SSp-n/coronal_.png"
+    },
+    {
+      "acronym": "SSp-bfd",
+      "name": "Primary Somatosensory Area, Barrel Field",
+      "id": 329.0,
+      "mci_coords": {
+        "x": -3.284,
+        "y": -0.709,
+        "z": -1.482
+      },
+      "wt_coords": {
+        "x": -3.375,
+        "y": 0.725,
+        "z": -2.275
+      },
+      "significance_coords": {
+        "x": 0.2074,
+        "y": 0.0,
+        "z": 0.0001
+      },
+      "mci_volume": 2.36,
+      "wt_volume": 3.094,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SSp-bfd/coronal_.png"
+    },
+    {
+      "acronym": "SSp-ll",
+      "name": "Primary Somatosensory Area, Lower Limb",
+      "id": 337.0,
+      "mci_coords": {
+        "x": -1.659,
+        "y": -0.573,
+        "z": -0.595
+      },
+      "wt_coords": {
+        "x": -2.4,
+        "y": -0.025,
+        "z": -1.0
+      },
+      "significance_coords": {
+        "x": 0.0112,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.872,
+      "wt_volume": 1.813,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SSp-ll/coronal_.png"
+    },
+    {
+      "acronym": "SSp-m",
+      "name": "Primary Somatosensory Area, Mouth",
+      "id": 345.0,
+      "mci_coords": {
+        "x": -3.334,
+        "y": 1.168,
+        "z": -2.425
+      },
+      "wt_coords": {
+        "x": -1.5,
+        "y": -1.35,
+        "z": -0.325
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0004,
+        "z": 0.0
+      },
+      "mci_volume": 2.351,
+      "wt_volume": 0.68,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SSp-m/coronal_.png"
+    },
+    {
+      "acronym": "SSp-ul",
+      "name": "Primary Somatosensory Area, Upper Limb",
+      "id": 369.0,
+      "mci_coords": {
+        "x": -2.523,
+        "y": 0.334,
+        "z": -1.214
+      },
+      "wt_coords": {
+        "x": -3.025,
+        "y": -0.225,
+        "z": -1.025
+      },
+      "significance_coords": {
+        "x": 0.3355,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.409,
+      "wt_volume": 0.591,
+      "significance_volume": 0.0662,
+      "src": "src/assets/Centers/SSp-ul/coronal_.png"
+    },
+    {
+      "acronym": "SSp-tr",
+      "name": "Primary Somatosensory Area, Trunk",
+      "id": 361.0,
+      "mci_coords": {
+        "x": -1.882,
+        "y": -1.223,
+        "z": -0.568
+      },
+      "wt_coords": {
+        "x": -4.25,
+        "y": -0.95,
+        "z": -2.775
+      },
+      "significance_coords": {
+        "x": 0.0009,
+        "y": 0.0,
+        "z": 0.0001
+      },
+      "mci_volume": 0.567,
+      "wt_volume": 4.639,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SSp-tr/coronal_.png"
+    },
+    {
+      "acronym": "SSp-un",
+      "name": "Primary Somatosensory Area, Unassigned",
+      "id": 50081.0,
+      "mci_coords": {
+        "x": -3.075,
+        "y": 0.18,
+        "z": -1.314
+      },
+      "wt_coords": {
+        "x": -4.025,
+        "y": 0.75,
+        "z": -4.0
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.63,
+      "wt_volume": 0.891,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "SSs",
+      "name": "Supplemental Somatosensory Area",
+      "id": 378.0,
+      "mci_coords": {
+        "x": -4.102,
+        "y": 0.123,
+        "z": -2.943
+      },
+      "wt_coords": {
+        "x": -4.65,
+        "y": -1.025,
+        "z": -3.975
+      },
+      "significance_coords": {
+        "x": 0.0072,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 2.23,
+      "wt_volume": 1.141,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SSs/coronal_.png"
+    },
+    {
+      "acronym": "GU",
+      "name": "Gustatory Areas",
+      "id": 1057.0,
+      "mci_coords": {
+        "x": -3.205,
+        "y": 1.87,
+        "z": -3.107
+      },
+      "wt_coords": {
+        "x": -4.275,
+        "y": -2.4,
+        "z": -1.675
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0067
+      },
+      "mci_volume": 1.096,
+      "wt_volume": 0.664,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/GU/coronal_.png"
+    },
+    {
+      "acronym": "VISC",
+      "name": "Visceral Area",
+      "id": 677.0,
+      "mci_coords": {
+        "x": -4.516,
+        "y": -0.323,
+        "z": -3.72
+      },
+      "wt_coords": {
+        "x": -4.525,
+        "y": -2.55,
+        "z": -2.4
+      },
+      "significance_coords": {
+        "x": 0.0002,
+        "y": 0.0,
+        "z": 0.0001
+      },
+      "mci_volume": 0.753,
+      "wt_volume": 1.125,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VISC/coronal_.png"
+    },
+    {
+      "acronym": "AUDd",
+      "name": "Dorsal Auditory Area",
+      "id": 1011.0,
+      "mci_coords": {
+        "x": -3.907,
+        "y": -1.584,
+        "z": -1.955
+      },
+      "wt_coords": {
+        "x": -4.175,
+        "y": -2.95,
+        "z": -1.7
+      },
+      "significance_coords": {
+        "x": 0.0935,
+        "y": 0.3208,
+        "z": 0.0
+      },
+      "mci_volume": 1.551,
+      "wt_volume": 0.326,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AUDd/coronal_.png"
+    },
+    {
+      "acronym": "AUDp",
+      "name": "Primary Auditory Area",
+      "id": 1002.0,
+      "mci_coords": {
+        "x": -4.359,
+        "y": -2.091,
+        "z": -2.23
+      },
+      "wt_coords": {
+        "x": -4.675,
+        "y": -1.8,
+        "z": -3.05
+      },
+      "significance_coords": {
+        "x": 0.0094,
+        "y": 0.0,
+        "z": 0.1516
+      },
+      "mci_volume": 0.957,
+      "wt_volume": 0.921,
+      "significance_volume": 0.0012,
+      "src": "src/assets/Centers/AUDp/coronal_.png"
+    },
+    {
+      "acronym": "AUDpo",
+      "name": "Posterior Auditory Area",
+      "id": 1027.0,
+      "mci_coords": {
+        "x": -4.259,
+        "y": -3.005,
+        "z": -2.45
+      },
+      "wt_coords": {
+        "x": -3.725,
+        "y": -2.9,
+        "z": -1.25
+      },
+      "significance_coords": {
+        "x": 0.0066,
+        "y": 0.0,
+        "z": 0.031
+      },
+      "mci_volume": 0.082,
+      "wt_volume": 0.405,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AUDpo/coronal_.png"
+    },
+    {
+      "acronym": "AUDv",
+      "name": "Ventral Auditory Area",
+      "id": 1018.0,
+      "mci_coords": {
+        "x": -4.525,
+        "y": -1.011,
+        "z": -2.975
+      },
+      "wt_coords": {
+        "x": -1.6,
+        "y": -2.45,
+        "z": -0.25
+      },
+      "significance_coords": {
+        "x": 0.1112,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.99,
+      "wt_volume": 0.394,
+      "significance_volume": 0.6878,
+      "src": "src/assets/Centers/AUDv/coronal_.png"
+    },
+    {
+      "acronym": "VISal",
+      "name": "Anterolateral Visual Area",
+      "id": 402.0,
+      "mci_coords": {
+        "x": -3.605,
+        "y": -2.385,
+        "z": -1.335
+      },
+      "wt_coords": {
+        "x": -3.625,
+        "y": -3.55,
+        "z": -1.35
+      },
+      "significance_coords": {
+        "x": 0.0566,
+        "y": 0.0,
+        "z": 0.4938
+      },
+      "mci_volume": 0.339,
+      "wt_volume": 0.648,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VISal/coronal_.png"
+    },
+    {
+      "acronym": "VISam",
+      "name": "Anteromedial Visual Area",
+      "id": 394.0,
+      "mci_coords": {
+        "x": -1.643,
+        "y": -1.861,
+        "z": -0.477
+      },
+      "wt_coords": {
+        "x": -2.675,
+        "y": -3.5,
+        "z": -0.825
+      },
+      "significance_coords": {
+        "x": 0.2213,
+        "y": 0.0036,
+        "z": 0.0035
+      },
+      "mci_volume": 0.39,
+      "wt_volume": 3.603,
+      "significance_volume": 0.0044,
+      "src": "src/assets/Centers/VISam/coronal_.png"
+    },
+    {
+      "acronym": "VISl",
+      "name": "Lateral Visual Area",
+      "id": 409.0,
+      "mci_coords": {
+        "x": -3.559,
+        "y": -3.13,
+        "z": -1.377
+      },
+      "wt_coords": {
+        "x": -3.45,
+        "y": -4.75,
+        "z": -1.875
+      },
+      "significance_coords": {
+        "x": 0.3726,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.518,
+      "wt_volume": 0.405,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VISl/coronal_.png"
+    },
+    {
+      "acronym": "VISp",
+      "name": "Primary Visual Area",
+      "id": 385.0,
+      "mci_coords": {
+        "x": -2.609,
+        "y": -3.341,
+        "z": -0.936
+      },
+      "wt_coords": {
+        "x": -1.625,
+        "y": -3.05,
+        "z": -0.3
+      },
+      "significance_coords": {
+        "x": 0.9168,
+        "y": 0.0,
+        "z": 0.0004
+      },
+      "mci_volume": 3.335,
+      "wt_volume": 0.508,
+      "significance_volume": 0.1548,
+      "src": "src/assets/Centers/VISp/coronal_.png"
+    },
+    {
+      "acronym": "VISpl",
+      "name": "Posterolateral Visual Area",
+      "id": 425.0,
+      "mci_coords": {
+        "x": -3.484,
+        "y": -4.189,
+        "z": -1.675
+      },
+      "wt_coords": {
+        "x": -4.0,
+        "y": -4.1,
+        "z": -1.875
+      },
+      "significance_coords": {
+        "x": 0.006,
+        "y": 0.0,
+        "z": 0.0008
+      },
+      "mci_volume": 0.295,
+      "wt_volume": 0.257,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VISpl/coronal_.png"
+    },
+    {
+      "acronym": "VISpm",
+      "name": "Posteromedial Visual Area",
+      "id": 533.0,
+      "mci_coords": {
+        "x": -1.627,
+        "y": -2.557,
+        "z": -0.407
+      },
+      "wt_coords": {
+        "x": -4.175,
+        "y": -4.225,
+        "z": -2.4
+      },
+      "significance_coords": {
+        "x": 0.0016,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.529,
+      "wt_volume": 0.678,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VISpm/coronal_.png"
+    },
+    {
+      "acronym": "VISli",
+      "name": "Laterointermediate Area",
+      "id": 44790.0,
+      "mci_coords": {
+        "x": -3.859,
+        "y": -3.475,
+        "z": -1.72
+      },
+      "wt_coords": {
+        "x": -0.3,
+        "y": 1.425,
+        "z": -1.45
+      },
+      "significance_coords": {
+        "x": 0.0255,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.219,
+      "wt_volume": 1.484,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "VISpor",
+      "name": "Postrhinal Area",
+      "id": 44844.0,
+      "mci_coords": {
+        "x": -4.045,
+        "y": -3.734,
+        "z": -2.202
+      },
+      "wt_coords": {
+        "x": -0.35,
+        "y": 1.025,
+        "z": -2.075
+      },
+      "significance_coords": {
+        "x": 0.1669,
+        "y": 0.0004,
+        "z": 0.0
+      },
+      "mci_volume": 0.491,
+      "wt_volume": 1.152,
+      "significance_volume": 0.0234,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "ACAd",
+      "name": "Anterior Cingulate Area, Dorsal Part",
+      "id": 39.0,
+      "mci_coords": {
+        "x": -0.24,
+        "y": 0.402,
+        "z": -0.822
+      },
+      "wt_coords": {
+        "x": -0.45,
+        "y": 2.025,
+        "z": -2.15
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.993,
+      "wt_volume": 1.201,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ACAd/coronal_.png"
+    },
+    {
+      "acronym": "ACAv",
+      "name": "Anterior Cingulate Area, Ventral Part",
+      "id": 48.0,
+      "mci_coords": {
+        "x": -0.282,
+        "y": 0.682,
+        "z": -1.655
+      },
+      "wt_coords": {
+        "x": -0.275,
+        "y": 2.0,
+        "z": -2.975
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.932,
+      "wt_volume": 0.41,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ACAv/coronal_.png"
+    },
+    {
+      "acronym": "PL",
+      "name": "Prelimbic Area",
+      "id": 972.0,
+      "mci_coords": {
+        "x": -0.275,
+        "y": 2.209,
+        "z": -1.689
+      },
+      "wt_coords": {
+        "x": -1.5,
+        "y": 2.375,
+        "z": -3.2
+      },
+      "significance_coords": {
+        "x": 0.0017,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.627,
+      "wt_volume": 1.401,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PL/coronal_.png"
+    },
+    {
+      "acronym": "ILA",
+      "name": "Infralimbic Area",
+      "id": 44.0,
+      "mci_coords": {
+        "x": -0.577,
+        "y": 2.186,
+        "z": -2.757
+      },
+      "wt_coords": {
+        "x": -0.225,
+        "y": 2.65,
+        "z": -2.7
+      },
+      "significance_coords": {
+        "x": 0.3276,
+        "y": 0.1354,
+        "z": 0.0
+      },
+      "mci_volume": 0.675,
+      "wt_volume": 0.679,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ILA/coronal_.png"
+    },
+    {
+      "acronym": "ORBl",
+      "name": "Orbital Area, Lateral Part",
+      "id": 723.0,
+      "mci_coords": {
+        "x": -1.355,
+        "y": 2.738,
+        "z": -2.5
+      },
+      "wt_coords": {
+        "x": -0.825,
+        "y": 2.75,
+        "z": -2.875
+      },
+      "significance_coords": {
+        "x": 0.3369,
+        "y": 0.142,
+        "z": 0.0
+      },
+      "mci_volume": 0.634,
+      "wt_volume": 0.889,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ORBl/coronal_.png"
+    },
+    {
+      "acronym": "ORBm",
+      "name": "Orbital Area, Medial Part",
+      "id": 731.0,
+      "mci_coords": {
+        "x": -0.17,
+        "y": 2.732,
+        "z": -1.966
+      },
+      "wt_coords": {
+        "x": -2.925,
+        "y": 1.95,
+        "z": -3.8
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.471,
+      "wt_volume": 1.843,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ORBm/coronal_.png"
+    },
+    {
+      "acronym": "ORBvl",
+      "name": "Orbital Area, Ventrolateral Part",
+      "id": 746.0,
+      "mci_coords": {
+        "x": -0.88,
+        "y": 2.645,
+        "z": -2.491
+      },
+      "wt_coords": {
+        "x": -4.325,
+        "y": -0.3,
+        "z": -4.65
+      },
+      "significance_coords": {
+        "x": 0.0001,
+        "y": 0.0227,
+        "z": 0.0
+      },
+      "mci_volume": 0.56,
+      "wt_volume": 1.205,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ORBvl/coronal_.png"
+    },
+    {
+      "acronym": "AId",
+      "name": "Agranular Insular Area, Dorsal Part",
+      "id": 104.0,
+      "mci_coords": {
+        "x": -2.275,
+        "y": 2.557,
+        "z": -3.225
+      },
+      "wt_coords": {
+        "x": -2.275,
+        "y": 2.0,
+        "z": -4.025
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0001,
+        "z": 0.0001
+      },
+      "mci_volume": 1.087,
+      "wt_volume": 0.87,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AId/coronal_.png"
+    },
+    {
+      "acronym": "AIp",
+      "name": "Agranular Insular Area, Posterior Part",
+      "id": 111.0,
+      "mci_coords": {
+        "x": -4.134,
+        "y": -0.186,
+        "z": -4.186
+      },
+      "wt_coords": {
+        "x": -1.0,
+        "y": -2.45,
+        "z": -0.175
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0238,
+        "z": 0.0079
+      },
+      "mci_volume": 0.647,
+      "wt_volume": 1.112,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AIp/coronal_.png"
+    },
+    {
+      "acronym": "AIv",
+      "name": "Agranular Insular Area, Ventral Part",
+      "id": 119.0,
+      "mci_coords": {
+        "x": -3.023,
+        "y": 1.836,
+        "z": -3.911
+      },
+      "wt_coords": {
+        "x": -0.65,
+        "y": -1.975,
+        "z": -0.125
+      },
+      "significance_coords": {
+        "x": 0.6387,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.621,
+      "wt_volume": 1.442,
+      "significance_volume": 0.0033,
+      "src": "src/assets/Centers/AIv/coronal_.png"
+    },
+    {
+      "acronym": "RSPagl",
+      "name": "Retrosplenial Area, Lateral Agranular Part",
+      "id": 894.0,
+      "mci_coords": {
+        "x": -1.195,
+        "y": -2.141,
+        "z": -0.234
+      },
+      "wt_coords": {
+        "x": -0.45,
+        "y": -2.875,
+        "z": -0.825
+      },
+      "significance_coords": {
+        "x": 0.0274,
+        "y": 0.0,
+        "z": 0.4713
+      },
+      "mci_volume": 0.684,
+      "wt_volume": 2.02,
+      "significance_volume": 0.0312,
+      "src": "src/assets/Centers/RSPagl/coronal_.png"
+    },
+    {
+      "acronym": "RSPd",
+      "name": "Retrosplenial Area, Dorsal Part",
+      "id": 879.0,
+      "mci_coords": {
+        "x": -0.659,
+        "y": -1.539,
+        "z": -0.209
+      },
+      "wt_coords": {
+        "x": -2.2,
+        "y": -2.075,
+        "z": -0.475
+      },
+      "significance_coords": {
+        "x": 0.0004,
+        "y": 0.0,
+        "z": 0.0007
+      },
+      "mci_volume": 1.602,
+      "wt_volume": 0.704,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/RSPd/coronal_.png"
+    },
+    {
+      "acronym": "RSPv",
+      "name": "Retrosplenial Area, Ventral Part",
+      "id": 886.0,
+      "mci_coords": {
+        "x": -0.261,
+        "y": -2.316,
+        "z": -0.811
+      },
+      "wt_coords": {
+        "x": -3.275,
+        "y": -2.65,
+        "z": -0.825
+      },
+      "significance_coords": {
+        "x": 0.1283,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 2.464,
+      "wt_volume": 0.528,
+      "significance_volume": 0.0147,
+      "src": "src/assets/Centers/RSPv/coronal_.png"
+    },
+    {
+      "acronym": "VISa",
+      "name": "Anterior Area",
+      "id": 44762.0,
+      "mci_coords": {
+        "x": -2.355,
+        "y": -1.638,
+        "z": -0.612
+      },
+      "wt_coords": {
+        "x": -4.7,
+        "y": -1.8,
+        "z": -3.65
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.287,
+      "wt_volume": 1.604,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "VISrl",
+      "name": "Rostrolateral Visual Area",
+      "id": 417.0,
+      "mci_coords": {
+        "x": -3.223,
+        "y": -2.032,
+        "z": -1.02
+      },
+      "wt_coords": {
+        "x": -4.75,
+        "y": -1.6,
+        "z": -4.55
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.489,
+      "wt_volume": 0.394,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "TEa",
+      "name": "Temporal Association Areas",
+      "id": 541.0,
+      "mci_coords": {
+        "x": -4.427,
+        "y": -3.305,
+        "z": -2.295
+      },
+      "wt_coords": {
+        "x": -4.325,
+        "y": -1.925,
+        "z": -4.2
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.225,
+      "wt_volume": 0.836,
+      "significance_volume": 0.1092,
+      "src": "src/assets/Centers/TEa/coronal_.png"
+    },
+    {
+      "acronym": "PERI",
+      "name": "Perirhinal Area",
+      "id": 922.0,
+      "mci_coords": {
+        "x": -4.184,
+        "y": -1.111,
+        "z": -4.02
+      },
+      "wt_coords": {
+        "x": 1.15,
+        "y": 3.9,
+        "z": -3.4
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.878,
+      "wt_volume": 2.409,
+      "significance_volume": 0.0002,
+      "src": "src/assets/Centers/PERI/coronal_.png"
+    },
+    {
+      "acronym": "ECT",
+      "name": "Ectorhinal Area",
+      "id": 895.0,
+      "mci_coords": {
+        "x": -4.616,
+        "y": -3.477,
+        "z": -2.877
+      },
+      "wt_coords": {
+        "x": -0.9,
+        "y": 4.525,
+        "z": -3.475
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.861,
+      "wt_volume": 9.423,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ECT/coronal_.png"
+    },
+    {
+      "acronym": "OLF",
+      "name": "Olfactory Areas",
+      "id": 698.0,
+      "mci_coords": {
+        "x": -1.055,
+        "y": 1.418,
+        "z": -4.686
+      },
+      "wt_coords": {
+        "x": -1.1,
+        "y": 3.475,
+        "z": -2.725
+      },
+      "significance_coords": {
+        "x": 0.58,
+        "y": 0.377,
+        "z": 0.0
+      },
+      "mci_volume": 1.856,
+      "wt_volume": 0.381,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/OLF/coronal_.png"
+    },
+    {
+      "acronym": "MOB",
+      "name": "Main Olfactory Bulb",
+      "id": 507.0,
+      "mci_coords": {
+        "x": -0.557,
+        "y": 3.936,
+        "z": -2.539
+      },
+      "wt_coords": {
+        "x": -1.05,
+        "y": 2.525,
+        "z": -5.15
+      },
+      "significance_coords": {
+        "x": 0.0051,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 5.283,
+      "wt_volume": 2.329,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MOB/coronal_.png"
+    },
+    {
+      "acronym": "AOB",
+      "name": "Accessory Olfactory Bulb",
+      "id": 151.0,
+      "mci_coords": {
+        "x": -1.125,
+        "y": 3.432,
+        "z": -2.223
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.241,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/AOB/coronal_.png"
+    },
+    {
+      "acronym": "AON",
+      "name": "Anterior Olfactory Nucleus",
+      "id": 159.0,
+      "mci_coords": {
+        "x": -1.232,
+        "y": 2.793,
+        "z": -3.959
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 1.784,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/AON/coronal_.png"
+    },
+    {
+      "acronym": "TT",
+      "name": "Taenia Tecta",
+      "id": 589.0,
+      "mci_coords": {
+        "x": -0.436,
+        "y": 2.514,
+        "z": -4.552
+      },
+      "wt_coords": {
+        "x": -0.425,
+        "y": 2.125,
+        "z": -3.925
+      },
+      "significance_coords": {
+        "x": 0.7592,
+        "y": 0.0062,
+        "z": 0.0
+      },
+      "mci_volume": 0.755,
+      "wt_volume": 0.252,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/TT/coronal_.png"
+    },
+    {
+      "acronym": "DP",
+      "name": "Dorsal Peduncular Area",
+      "id": 814.0,
+      "mci_coords": {
+        "x": -0.445,
+        "y": 2.225,
+        "z": -3.311
+      },
+      "wt_coords": {
+        "x": -4.275,
+        "y": -2.075,
+        "z": -5.55
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.1,
+      "wt_volume": 5.551,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/DP/coronal_.png"
+    },
+    {
+      "acronym": "PIR",
+      "name": "Piriform Area",
+      "id": 961.0,
+      "mci_coords": {
+        "x": -3.257,
+        "y": -0.23,
+        "z": -5.207
+      },
+      "wt_coords": {
+        "x": -2.125,
+        "y": -0.3,
+        "z": -6.375
+      },
+      "significance_coords": {
+        "x": 0.2805,
+        "y": 0.0151,
+        "z": 0.0
+      },
+      "mci_volume": 6.352,
+      "wt_volume": 0.154,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PIR/coronal_.png"
+    },
+    {
+      "acronym": "NLOT",
+      "name": "Nucleus Of The Lateral Olfactory Tract",
+      "id": 619.0,
+      "mci_coords": {
+        "x": -2.073,
+        "y": -0.423,
+        "z": -5.784
+      },
+      "wt_coords": {
+        "x": -2.6,
+        "y": -0.6,
+        "z": -6.55
+      },
+      "significance_coords": {
+        "x": 0.0088,
+        "y": 0.7767,
+        "z": 0.0
+      },
+      "mci_volume": 0.225,
+      "wt_volume": 0.365,
+      "significance_volume": 0.1505,
+      "src": "src/assets/Centers/NLOT/coronal_.png"
+    },
+    {
+      "acronym": "COAa",
+      "name": "Cortical Amygdalar Area, Anterior Part",
+      "id": 639.0,
+      "mci_coords": {
+        "x": -2.457,
+        "y": -0.614,
+        "z": -6.034
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.35,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/COAa/coronal_.png"
+    },
+    {
+      "acronym": "COAp",
+      "name": "Cortical Amygdalar Area, Posterior Part",
+      "id": 647.0,
+      "mci_coords": {
+        "x": -2.564,
+        "y": -1.986,
+        "z": -5.768
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 1.157,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/COAp/coronal_.png"
+    },
+    {
+      "acronym": "PAA",
+      "name": "Piriform-amygdalar Area",
+      "id": 788.0,
+      "mci_coords": {
+        "x": -3.134,
+        "y": -1.53,
+        "z": -5.991
+      },
+      "wt_coords": {
+        "x": -3.2,
+        "y": -0.875,
+        "z": -6.7
+      },
+      "significance_coords": {
+        "x": 0.2167,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.414,
+      "wt_volume": 0.547,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PAA/coronal_.png"
+    },
+    {
+      "acronym": "TR",
+      "name": "Postpiriform Transition Area",
+      "id": 566.0,
+      "mci_coords": {
+        "x": -3.698,
+        "y": -2.589,
+        "z": -5.027
+      },
+      "wt_coords": {
+        "x": -3.825,
+        "y": -2.85,
+        "z": -5.8
+      },
+      "significance_coords": {
+        "x": 0.0138,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.492,
+      "wt_volume": 0.693,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/TR/coronal_.png"
+    },
+    {
+      "acronym": "HPF",
+      "name": "Hippocampal Formation",
+      "id": 1089.0,
+      "mci_coords": {
+        "x": -3.714,
+        "y": -4.436,
+        "z": -2.095
+      },
+      "wt_coords": {
+        "x": -3.575,
+        "y": -4.125,
+        "z": -2.775
+      },
+      "significance_coords": {
+        "x": 0.0045,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.269,
+      "wt_volume": 0.186,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/HPF/coronal_.png"
+    },
+    {
+      "acronym": "CA1",
+      "name": "Field Ca1",
+      "id": 382.0,
+      "mci_coords": {
+        "x": -3.657,
+        "y": -2.705,
+        "z": -3.339
+      },
+      "wt_coords": {
+        "x": -3.35,
+        "y": -2.925,
+        "z": -4.85
+      },
+      "significance_coords": {
+        "x": 0.0276,
+        "y": 0.0147,
+        "z": 0.0
+      },
+      "mci_volume": 3.506,
+      "wt_volume": 5.341,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/CA1/coronal_.png"
+    },
+    {
+      "acronym": "CA2",
+      "name": "Field Ca2",
+      "id": 423.0,
+      "mci_coords": {
+        "x": -3.502,
+        "y": -1.98,
+        "z": -3.364
+      },
+      "wt_coords": {
+        "x": -3.675,
+        "y": -2.425,
+        "z": -2.975
+      },
+      "significance_coords": {
+        "x": 0.0113,
+        "y": 0.0,
+        "z": 0.0134
+      },
+      "mci_volume": 0.531,
+      "wt_volume": 0.241,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/CA2/coronal_.png"
+    },
+    {
+      "acronym": "CA3",
+      "name": "Field Ca3",
+      "id": 463.0,
+      "mci_coords": {
+        "x": -3.125,
+        "y": -2.161,
+        "z": -3.341
+      },
+      "wt_coords": {
+        "x": -3.2,
+        "y": -2.525,
+        "z": -3.75
+      },
+      "significance_coords": {
+        "x": 0.133,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 2.721,
+      "wt_volume": 3.263,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/CA3/coronal_.png"
+    },
+    {
+      "acronym": "DG",
+      "name": "Dentate Gyrus",
+      "id": 726.0,
+      "mci_coords": {
+        "x": -2.202,
+        "y": -2.427,
+        "z": -2.13
+      },
+      "wt_coords": {
+        "x": -1.65,
+        "y": -2.15,
+        "z": -1.85
+      },
+      "significance_coords": {
+        "x": 0.0002,
+        "y": 0.0309,
+        "z": 0.0
+      },
+      "mci_volume": 3.325,
+      "wt_volume": 3.3,
+      "significance_volume": 0.4475,
+      "src": "src/assets/Centers/DG/coronal_.png"
+    },
+    {
+      "acronym": "FC",
+      "name": "Fasciola Cinerea",
+      "id": 982.0,
+      "mci_coords": {
+        "x": -0.134,
+        "y": -1.014,
+        "z": -1.725
+      },
+      "wt_coords": {
+        "x": -0.1,
+        "y": -1.4,
+        "z": -1.725
+      },
+      "significance_coords": {
+        "x": 0.2304,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "mci_volume": 0.024,
+      "wt_volume": 0.021,
+      "significance_volume": 0.0027,
+      "src": "src/assets/Centers/FC/coronal_.png"
+    },
+    {
+      "acronym": "IG",
+      "name": "Induseum Griseum",
+      "id": 19.0,
+      "mci_coords": {
+        "x": 0.002,
+        "y": 1.089,
+        "z": -2.541
+      },
+      "wt_coords": {
+        "x": 0.1,
+        "y": 0.9,
+        "z": -2.4
+      },
+      "significance_coords": {
+        "x": 0.0368,
+        "y": 0.0597,
+        "z": 0.2425
+      },
+      "mci_volume": 0.009,
+      "wt_volume": 0.134,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IG/coronal_.png"
+    },
+    {
+      "acronym": "ENTl",
+      "name": "Entorhinal Area, Lateral Part",
+      "id": 918.0,
+      "mci_coords": {
+        "x": -4.275,
+        "y": -3.055,
+        "z": -4.13
+      },
+      "wt_coords": {
+        "x": -4.45,
+        "y": -3.85,
+        "z": -4.275
+      },
+      "significance_coords": {
+        "x": 0.0012,
+        "y": 0.0,
+        "z": 0.0246
+      },
+      "mci_volume": 3.572,
+      "wt_volume": 3.328,
+      "significance_volume": 0.0005,
+      "src": "src/assets/Centers/ENTl/coronal_.png"
+    },
+    {
+      "acronym": "ENTm",
+      "name": "Entorhinal Area, Medial Part, Dorsal Zone",
+      "id": 926.0,
+      "mci_coords": {
+        "x": -3.123,
+        "y": -4.08,
+        "z": -3.009
+      },
+      "wt_coords": {
+        "x": -3.325,
+        "y": -4.375,
+        "z": -3.25
+      },
+      "significance_coords": {
+        "x": 0.0001,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.261,
+      "wt_volume": 2.588,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ENTm/coronal_.png"
+    },
+    {
+      "acronym": "ENTmv",
+      "name": "Entorhinal Area, Medial Part, Ventral Zone",
+      "id": 934.0,
+      "mci_coords": {
+        "x": -3.118,
+        "y": -2.914,
+        "z": -5.316
+      },
+      "wt_coords": {
+        "x": -2.8,
+        "y": -4.075,
+        "z": -3.55
+      },
+      "significance_coords": {
+        "x": 0.6858,
+        "y": 0.0,
+        "z": 0.0142
+      },
+      "mci_volume": 0.109,
+      "wt_volume": 0.487,
+      "significance_volume": 0.0323,
+      "src": "src/assets/Centers/ENTmv/coronal_.png"
+    },
+    {
+      "acronym": "PAR",
+      "name": "Parasubiculum",
+      "id": 843.0,
+      "mci_coords": {
+        "x": -2.782,
+        "y": -3.675,
+        "z": -3.4
+      },
+      "wt_coords": {
+        "x": -2.3,
+        "y": -4.025,
+        "z": -2.1
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.469,
+      "wt_volume": 0.585,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PAR/coronal_.png"
+    },
+    {
+      "acronym": "POST",
+      "name": "Postsubiculum",
+      "id": 1037.0,
+      "mci_coords": {
+        "x": -1.998,
+        "y": -3.443,
+        "z": -1.532
+      },
+      "wt_coords": {
+        "x": -2.575,
+        "y": -3.9,
+        "z": -2.725
+      },
+      "significance_coords": {
+        "x": 0.3101,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.334,
+      "wt_volume": 0.475,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/POST/coronal_.png"
+    },
+    {
+      "acronym": "PRE",
+      "name": "Presubiculum",
+      "id": 1084.0,
+      "mci_coords": {
+        "x": -2.539,
+        "y": -3.602,
+        "z": -2.395
+      },
+      "wt_coords": {
+        "x": -3.175,
+        "y": -3.7,
+        "z": -4.675
+      },
+      "significance_coords": {
+        "x": 0.0398,
+        "y": 0.0,
+        "z": 0.2793
+      },
+      "mci_volume": 0.504,
+      "wt_volume": 1.158,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PRE/coronal_.png"
+    },
+    {
+      "acronym": "SUB",
+      "name": "Subiculum",
+      "id": 502.0,
+      "mci_coords": {
+        "x": -2.982,
+        "y": -3.186,
+        "z": -4.461
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 2.008,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/SUB/coronal_.png"
+    },
+    {
+      "acronym": "CTXsp",
+      "name": "Cortical Subplate",
+      "id": 703.0,
+      "mci_coords": {
+        "x": -1.32,
+        "y": 2.114,
+        "z": -3.543
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.818,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/CTXsp/coronal_.png"
+    },
+    {
+      "acronym": "EPd",
+      "name": "Endopiriform Nucleus, Dorsal Part",
+      "id": 952.0,
+      "mci_coords": {
+        "x": -3.339,
+        "y": -0.145,
+        "z": -4.3
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.626,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/EPd/coronal_.png"
+    },
+    {
+      "acronym": "EPv",
+      "name": "Endopiriform Nucleus, Ventral Part",
+      "id": 966.0,
+      "mci_coords": {
+        "x": -2.925,
+        "y": -0.418,
+        "z": -5.005
+      },
+      "wt_coords": {
+        "x": -3.525,
+        "y": 0.375,
+        "z": -4.55
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.163,
+      "wt_volume": 0.441,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/EPv/coronal_.png"
+    },
+    {
+      "acronym": "LA",
+      "name": "Lateral Amygdalar Nucleus",
+      "id": 131.0,
+      "mci_coords": {
+        "x": -3.386,
+        "y": -1.359,
+        "z": -4.18
+      },
+      "wt_coords": {
+        "x": -3.65,
+        "y": -0.325,
+        "z": -4.85
+      },
+      "significance_coords": {
+        "x": 0.0102,
+        "y": 0.3935,
+        "z": 0.0
+      },
+      "mci_volume": 0.196,
+      "wt_volume": 0.892,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LA/coronal_.png"
+    },
+    {
+      "acronym": "BLAa",
+      "name": "Basolateral Amygdalar Nucleus, Anterior Part",
+      "id": 303.0,
+      "mci_coords": {
+        "x": -3.05,
+        "y": -0.85,
+        "z": -4.725
+      },
+      "wt_coords": {
+        "x": -3.4,
+        "y": -1.425,
+        "z": -5.525
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.213,
+      "wt_volume": 0.441,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/BLAa/coronal_.png"
+    },
+    {
+      "acronym": "BLAp",
+      "name": "Basolateral Amygdalar Nucleus, Posterior Part",
+      "id": 311.0,
+      "mci_coords": {
+        "x": -3.28,
+        "y": -1.72,
+        "z": -4.639
+      },
+      "wt_coords": {
+        "x": -3.575,
+        "y": -1.825,
+        "z": -4.85
+      },
+      "significance_coords": {
+        "x": 0.0001,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.194,
+      "wt_volume": 0.429,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/BLAp/coronal_.png"
+    },
+    {
+      "acronym": "BLAv",
+      "name": "Basolateral Amygdalar Nucleus, Ventral Part",
+      "id": 451.0,
+      "mci_coords": {
+        "x": -3.018,
+        "y": -1.336,
+        "z": -5.382
+      },
+      "wt_coords": {
+        "x": -3.2,
+        "y": -1.025,
+        "z": -5.55
+      },
+      "significance_coords": {
+        "x": 0.0025,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.103,
+      "wt_volume": 0.37,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/BLAv/coronal_.png"
+    },
+    {
+      "acronym": "BMA",
+      "name": "Basomedial Amygdalar Nucleus",
+      "id": 319.0,
+      "mci_coords": {
+        "x": -2.709,
+        "y": -1.3,
+        "z": -5.161
+      },
+      "wt_coords": {
+        "x": -3.5,
+        "y": -2.075,
+        "z": -5.425
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.428,
+      "wt_volume": 0.342,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/BMA/coronal_.png"
+    },
+    {
+      "acronym": "PA",
+      "name": "Posterior Amygdalar Nucleus",
+      "id": 780.0,
+      "mci_coords": {
+        "x": -2.214,
+        "y": -1.791,
+        "z": -5.177
+      },
+      "wt_coords": {
+        "x": -3.25,
+        "y": -1.375,
+        "z": -6.125
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.3408,
+        "z": 0.0
+      },
+      "mci_volume": 0.175,
+      "wt_volume": 0.202,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PA/coronal_.png"
+    },
+    {
+      "acronym": "STR",
+      "name": "Striatum",
+      "id": 477.0,
+      "mci_coords": {
+        "x": -0.118,
+        "y": 1.375,
+        "z": -4.191
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.749,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/STR/coronal_.png"
+    },
+    {
+      "acronym": "CP",
+      "name": "Caudoputamen",
+      "id": 672.0,
+      "mci_coords": {
+        "x": -1.932,
+        "y": 0.927,
+        "z": -3.039
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 8.714,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/CP/coronal_.png"
+    },
+    {
+      "acronym": "ACB",
+      "name": "Nucleus Accumbens",
+      "id": 56.0,
+      "mci_coords": {
+        "x": -0.932,
+        "y": 1.582,
+        "z": -4.652
+      },
+      "wt_coords": {
+        "x": -2.275,
+        "y": -2.05,
+        "z": -5.675
+      },
+      "significance_coords": {
+        "x": 0.178,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.556,
+      "wt_volume": 0.476,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ACB/coronal_.png"
+    },
+    {
+      "acronym": "FS",
+      "name": "Fundus Of Striatum",
+      "id": 998.0,
+      "mci_coords": {
+        "x": -2.261,
+        "y": 0.493,
+        "z": -4.861
+      },
+      "wt_coords": {
+        "x": -0.275,
+        "y": 1.425,
+        "z": -5.05
+      },
+      "significance_coords": {
+        "x": 0.4623,
+        "y": 0.81,
+        "z": 0.0002
+      },
+      "mci_volume": 0.136,
+      "wt_volume": 1.371,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/FS/coronal_.png"
+    },
+    {
+      "acronym": "OT",
+      "name": "Olfactory Tubercle",
+      "id": 754.0,
+      "mci_coords": {
+        "x": -1.436,
+        "y": 1.241,
+        "z": -5.866
+      },
+      "wt_coords": {
+        "x": -2.1,
+        "y": 0.65,
+        "z": -3.425
+      },
+      "significance_coords": {
+        "x": 0.0005,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 2.973,
+      "wt_volume": 13.383,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/OT/coronal_.png"
+    },
+    {
+      "acronym": "LSc",
+      "name": "Lateral Septal Nucleus, Caudal (caudodorsal) Part",
+      "id": 250.0,
+      "mci_coords": {
+        "x": -0.559,
+        "y": 0.282,
+        "z": -2.191
+      },
+      "wt_coords": {
+        "x": -1.075,
+        "y": 1.5,
+        "z": -5.425
+      },
+      "significance_coords": {
+        "x": 0.0071,
+        "y": 0.0189,
+        "z": 0.0
+      },
+      "mci_volume": 0.204,
+      "wt_volume": 2.241,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LSc/coronal_.png"
+    },
+    {
+      "acronym": "LSr",
+      "name": "Lateral Septal Nucleus, Rostral (rostroventral) Part",
+      "id": 258.0,
+      "mci_coords": {
+        "x": -0.509,
+        "y": 1.348,
+        "z": -3.461
+      },
+      "wt_coords": {
+        "x": -2.3,
+        "y": 0.45,
+        "z": -5.525
+      },
+      "significance_coords": {
+        "x": 0.4473,
+        "y": 0.2541,
+        "z": 0.0
+      },
+      "mci_volume": 0.989,
+      "wt_volume": 0.202,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LSr/coronal_.png"
+    },
+    {
+      "acronym": "LSv",
+      "name": "Lateral Septal Nucleus, Ventral Part",
+      "id": 266.0,
+      "mci_coords": {
+        "x": -0.602,
+        "y": 0.57,
+        "z": -3.698
+      },
+      "wt_coords": {
+        "x": -1.825,
+        "y": 1.325,
+        "z": -6.475
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.1317,
+        "z": 0.0
+      },
+      "mci_volume": 0.057,
+      "wt_volume": 1.769,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LSv/coronal_.png"
+    },
+    {
+      "acronym": "SF",
+      "name": "Septofimbrial Nucleus",
+      "id": 310.0,
+      "mci_coords": {
+        "x": -0.732,
+        "y": 0.35,
+        "z": -3.025
+      },
+      "wt_coords": {
+        "x": -0.475,
+        "y": -0.15,
+        "z": -2.225
+      },
+      "significance_coords": {
+        "x": 0.0121,
+        "y": 0.0,
+        "z": 0.062
+      },
+      "mci_volume": 0.062,
+      "wt_volume": 0.268,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SF/coronal_.png"
+    },
+    {
+      "acronym": "SH",
+      "name": "Septohippocampal Nucleus",
+      "id": 333.0,
+      "mci_coords": {
+        "x": -0.177,
+        "y": 1.373,
+        "z": -2.939
+      },
+      "wt_coords": {
+        "x": -0.45,
+        "y": 0.75,
+        "z": -3.5
+      },
+      "significance_coords": {
+        "x": 0.0557,
+        "y": 0.0,
+        "z": 0.1659
+      },
+      "mci_volume": 0.017,
+      "wt_volume": 0.917,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/SH/coronal_.png"
+    },
+    {
+      "acronym": "sAMY",
+      "name": "Striatum-like Amygdalar Nuclei",
+      "id": 278.0,
+      "mci_coords": {
+        "x": -1.766,
+        "y": -1.668,
+        "z": -5.918
+      },
+      "wt_coords": {
+        "x": -0.6,
+        "y": 0.85,
+        "z": -4.225
+      },
+      "significance_coords": {
+        "x": 0.9572,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.104,
+      "wt_volume": 0.33,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/sAMY/coronal_.png"
+    },
+    {
+      "acronym": "AAA",
+      "name": "Anterior Amygdalar Area",
+      "id": 23.0,
+      "mci_coords": {
+        "x": -1.957,
+        "y": -0.166,
+        "z": -5.411
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": 0.25,
+        "z": -3.0
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0013,
+        "z": 0.1918
+      },
+      "mci_volume": 0.273,
+      "wt_volume": 0.508,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AAA/coronal_.png"
+    },
+    {
+      "acronym": "BA",
+      "name": "Bed Nucleus Of The Accessory Olfactory Tract",
+      "id": 292.0,
+      "mci_coords": {
+        "x": -1.834,
+        "y": -0.682,
+        "z": -5.716
+      },
+      "wt_coords": {
+        "x": -0.2,
+        "y": 1.3,
+        "z": -3.45
+      },
+      "significance_coords": {
+        "x": 0.4787,
+        "y": 0.0183,
+        "z": 0.0
+      },
+      "mci_volume": 0.037,
+      "wt_volume": 0.022,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/BA/coronal_.png"
+    },
+    {
+      "acronym": "CEA",
+      "name": "Central Amygdalar Nucleus",
+      "id": 536.0,
+      "mci_coords": {
+        "x": -2.632,
+        "y": -0.709,
+        "z": -4.55
+      },
+      "wt_coords": {
+        "x": -2.275,
+        "y": -0.2,
+        "z": -5.75
+      },
+      "significance_coords": {
+        "x": 0.0006,
+        "y": 0.4733,
+        "z": 0.0005
+      },
+      "mci_volume": 0.372,
+      "wt_volume": 0.246,
+      "significance_volume": 0.005,
+      "src": "src/assets/Centers/CEA/coronal_.png"
+    },
+    {
+      "acronym": "IA",
+      "name": "Intercalated Amygdalar Nucleus",
+      "id": 1105.0,
+      "mci_coords": {
+        "x": -2.664,
+        "y": -0.748,
+        "z": -5.068
+      },
+      "wt_coords": {
+        "x": -2.0,
+        "y": -0.625,
+        "z": -6.475
+      },
+      "significance_coords": {
+        "x": 0.0028,
+        "y": 0.1938,
+        "z": 0.0
+      },
+      "mci_volume": 0.059,
+      "wt_volume": 0.013,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IA/coronal_.png"
+    },
+    {
+      "acronym": "MEA",
+      "name": "Medial Amygdalar Nucleus",
+      "id": 403.0,
+      "mci_coords": {
+        "x": -2.002,
+        "y": -1.164,
+        "z": -5.439
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.774,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/MEA/coronal_.png"
+    },
+    {
+      "acronym": "PAL",
+      "name": "Pallidum",
+      "id": 803.0,
+      "mci_coords": {
+        "x": -0.411,
+        "y": 0.852,
+        "z": -5.42
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.239,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/PAL/coronal_.png"
+    },
+    {
+      "acronym": "GPe",
+      "name": "Globus Pallidus, External Segment",
+      "id": 1022.0,
+      "mci_coords": {
+        "x": -2.182,
+        "y": -0.218,
+        "z": -4.032
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.55,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/GPe/coronal_.png"
+    },
+    {
+      "acronym": "GPi",
+      "name": "Globus Pallidus, Internal Segment",
+      "id": 1031.0,
+      "mci_coords": {
+        "x": -1.977,
+        "y": -0.811,
+        "z": -4.4
+      },
+      "wt_coords": {
+        "x": -2.925,
+        "y": -0.7,
+        "z": -5.825
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.1626,
+        "z": 0.0
+      },
+      "mci_volume": 0.14,
+      "wt_volume": 0.083,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/GPi/coronal_.png"
+    },
+    {
+      "acronym": "SI",
+      "name": "Substantia Innominata",
+      "id": 342.0,
+      "mci_coords": {
+        "x": -1.611,
+        "y": 0.28,
+        "z": -4.745
+      },
+      "wt_coords": {
+        "x": -2.15,
+        "y": -1.275,
+        "z": -6.0
+      },
+      "significance_coords": {
+        "x": 0.0102,
+        "y": 0.0021,
+        "z": 0.0
+      },
+      "mci_volume": 1.242,
+      "wt_volume": 1.019,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SI/coronal_.png"
+    },
+    {
+      "acronym": "MA",
+      "name": "Magnocellular Nucleus",
+      "id": 298.0,
+      "mci_coords": {
+        "x": -1.659,
+        "y": 0.298,
+        "z": -5.436
+      },
+      "wt_coords": {
+        "x": -1.525,
+        "y": -0.725,
+        "z": -4.925
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0288
+      },
+      "mci_volume": 0.175,
+      "wt_volume": 0.558,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MA/coronal_.png"
+    },
+    {
+      "acronym": "MS",
+      "name": "Medial Septal Nucleus",
+      "id": 564.0,
+      "mci_coords": {
+        "x": 0.05,
+        "y": 1.018,
+        "z": -3.841
+      },
+      "wt_coords": {
+        "x": -2.15,
+        "y": -0.375,
+        "z": -4.675
+      },
+      "significance_coords": {
+        "x": 0.5319,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.548,
+      "wt_volume": 0.808,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MS/coronal_.png"
+    },
+    {
+      "acronym": "NDB",
+      "name": "Diagonal Band Nucleus",
+      "id": 596.0,
+      "mci_coords": {
+        "x": -0.266,
+        "y": 1.243,
+        "z": -5.127
+      },
+      "wt_coords": {
+        "x": -2.0,
+        "y": -1.0,
+        "z": -4.85
+      },
+      "significance_coords": {
+        "x": 0.5949,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.567,
+      "wt_volume": 0.219,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/NDB/coronal_.png"
+    },
+    {
+      "acronym": "TRS",
+      "name": "Triangular Nucleus Of Septum",
+      "id": 581.0,
+      "mci_coords": {
+        "x": -0.225,
+        "y": 0.37,
+        "z": -3.02
+      },
+      "wt_coords": {
+        "x": -1.85,
+        "y": -0.125,
+        "z": -5.3
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.084,
+      "wt_volume": 1.521,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/TRS/coronal_.png"
+    },
+    {
+      "acronym": "BST",
+      "name": "Bed Nuclei Of The Stria Terminalis",
+      "id": 351.0,
+      "mci_coords": {
+        "x": -0.848,
+        "y": 0.323,
+        "z": -4.541
+      },
+      "wt_coords": {
+        "x": -1.625,
+        "y": 0.4,
+        "z": -6.125
+      },
+      "significance_coords": {
+        "x": 0.5498,
+        "y": 0.0182,
+        "z": 0.0
+      },
+      "mci_volume": 0.65,
+      "wt_volume": 0.181,
+      "significance_volume": 0.4922,
+      "src": "src/assets/Centers/BST/coronal_.png"
+    },
+    {
+      "acronym": "BAC",
+      "name": "Bed Nucleus Of The Anterior Commissure",
+      "id": 287.0,
+      "mci_coords": {
+        "x": -0.591,
+        "y": 0.432,
+        "z": -4.27
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": 0.75,
+        "z": -4.6
+      },
+      "significance_coords": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.003,
+      "wt_volume": 0.41,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/BAC/coronal_.png"
+    },
+    {
+      "acronym": "TH",
+      "name": "Thalamus",
+      "id": 549.0,
+      "mci_coords": {
+        "x": -1.895,
+        "y": -1.964,
+        "z": -3.425
+      },
+      "wt_coords": {
+        "x": -1.175,
+        "y": 0.35,
+        "z": -6.175
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.183,
+      "wt_volume": 0.354,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/TH/coronal_.png"
+    },
+    {
+      "acronym": "VAL",
+      "name": "Ventral Anterior-lateral Complex Of The Thalamus",
+      "id": 629.0,
+      "mci_coords": {
+        "x": -1.291,
+        "y": -0.559,
+        "z": -3.53
+      },
+      "wt_coords": {
+        "x": -0.3,
+        "y": 0.05,
+        "z": -3.425
+      },
+      "significance_coords": {
+        "x": 0.0068,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.33,
+      "wt_volume": 0.173,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VAL/coronal_.png"
+    },
+    {
+      "acronym": "VM",
+      "name": "Ventral Medial Nucleus Of The Thalamus",
+      "id": 685.0,
+      "mci_coords": {
+        "x": -0.991,
+        "y": -0.945,
+        "z": -4.157
+      },
+      "wt_coords": {
+        "x": -0.9,
+        "y": 0.075,
+        "z": -4.675
+      },
+      "significance_coords": {
+        "x": 0.2235,
+        "y": 0.0,
+        "z": 0.0016
+      },
+      "mci_volume": 0.335,
+      "wt_volume": 0.767,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VM/coronal_.png"
+    },
+    {
+      "acronym": "VPL",
+      "name": "Ventral Posterolateral Nucleus Of The Thalamus",
+      "id": 718.0,
+      "mci_coords": {
+        "x": -2.175,
+        "y": -1.168,
+        "z": -3.673
+      },
+      "wt_coords": {
+        "x": -0.525,
+        "y": 0.15,
+        "z": -4.6
+      },
+      "significance_coords": {
+        "x": 0.1175,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.211,
+      "wt_volume": 0.004,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VPL/coronal_.png"
+    },
+    {
+      "acronym": "VPLpc",
+      "name": "Ventral Posterolateral Nucleus Of The Thalamus, Parvicellular Part",
+      "id": 725.0,
+      "mci_coords": {
+        "x": -1.25,
+        "y": -1.448,
+        "z": -4.018
+      },
+      "wt_coords": {
+        "x": -0.25,
+        "y": -0.975,
+        "z": -4.4
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.015,
+      "wt_volume": 0.467,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VPLpc/coronal_.png"
+    },
+    {
+      "acronym": "VPM",
+      "name": "Ventral Posteromedial Nucleus Of The Thalamus",
+      "id": 733.0,
+      "mci_coords": {
+        "x": -1.957,
+        "y": -1.132,
+        "z": -3.268
+      },
+      "wt_coords": {
+        "x": -1.075,
+        "y": -0.975,
+        "z": -3.85
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.668,
+      "wt_volume": 0.442,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VPM/coronal_.png"
+    },
+    {
+      "acronym": "VPMpc",
+      "name": "Ventral Posteromedial Nucleus Of The Thalamus, Parvicellular Part",
+      "id": 741.0,
+      "mci_coords": {
+        "x": -0.95,
+        "y": -1.457,
+        "z": -3.907
+      },
+      "wt_coords": {
+        "x": -0.9,
+        "y": -1.425,
+        "z": -4.5
+      },
+      "significance_coords": {
+        "x": 0.0153,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.062,
+      "wt_volume": 0.497,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VPMpc/coronal_.png"
+    },
+    {
+      "acronym": "SPFm",
+      "name": "Subparafascicular Nucleus, Magnocellular Part",
+      "id": 414.0,
+      "mci_coords": {
+        "x": -0.316,
+        "y": -1.514,
+        "z": -4.216
+      },
+      "wt_coords": {
+        "x": -2.125,
+        "y": -1.5,
+        "z": -3.975
+      },
+      "significance_coords": {
+        "x": 0.2397,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.034,
+      "wt_volume": 0.478,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SPFm/coronal_.png"
+    },
+    {
+      "acronym": "SPFp",
+      "name": "Subparafascicular Nucleus, Parvicellular Part",
+      "id": 422.0,
+      "mci_coords": {
+        "x": -1.793,
+        "y": -2.318,
+        "z": -3.741
+      },
+      "wt_coords": {
+        "x": -1.225,
+        "y": -1.9,
+        "z": -4.075
+      },
+      "significance_coords": {
+        "x": 0.6497,
+        "y": 0.0,
+        "z": 0.068
+      },
+      "mci_volume": 0.137,
+      "wt_volume": 0.053,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SPFp/coronal_.png"
+    },
+    {
+      "acronym": "SPA",
+      "name": "Subparafascicular Area",
+      "id": 609.0,
+      "mci_coords": {
+        "x": -0.048,
+        "y": -1.564,
+        "z": -3.818
+      },
+      "wt_coords": {
+        "x": -1.9,
+        "y": -1.425,
+        "z": -3.45
+      },
+      "significance_coords": {
+        "x": 0.1378,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.029,
+      "wt_volume": 0.855,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SPA/coronal_.png"
+    },
+    {
+      "acronym": "PP",
+      "name": "Peripeduncular Nucleus",
+      "id": 1044.0,
+      "mci_coords": {
+        "x": -2.341,
+        "y": -2.33,
+        "z": -3.75
+      },
+      "wt_coords": {
+        "x": -0.6,
+        "y": -1.8,
+        "z": -4.225
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.025,
+      "wt_volume": 0.108,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PP/coronal_.png"
+    },
+    {
+      "acronym": "MG",
+      "name": "Medial Geniculate Complex",
+      "id": 475.0,
+      "mci_coords": {
+        "x": -2.289,
+        "y": -2.468,
+        "z": -3.139
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.27,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/MG/coronal_.png"
+    },
+    {
+      "acronym": "LGd",
+      "name": "Dorsal Part Of The Lateral Geniculate Complex",
+      "id": 170.0,
+      "mci_coords": {
+        "x": -2.359,
+        "y": -1.709,
+        "z": -2.645
+      },
+      "wt_coords": {
+        "x": -0.275,
+        "y": -1.95,
+        "z": -4.325
+      },
+      "significance_coords": {
+        "x": 0.2392,
+        "y": 0.0,
+        "z": 0.0763
+      },
+      "mci_volume": 0.33,
+      "wt_volume": 0.034,
+      "significance_volume": 0.3878,
+      "src": "src/assets/Centers/LGd/coronal_.png"
+    },
+    {
+      "acronym": "LP",
+      "name": "Lateral Posterior Nucleus Of The Thalamus",
+      "id": 218.0,
+      "mci_coords": {
+        "x": -1.773,
+        "y": -1.725,
+        "z": -2.445
+      },
+      "wt_coords": {
+        "x": -1.125,
+        "y": -2.325,
+        "z": -3.9
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.8812,
+        "z": 0.0
+      },
+      "mci_volume": 0.519,
+      "wt_volume": 0.076,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LP/coronal_.png"
+    },
+    {
+      "acronym": "PO",
+      "name": "Posterior Complex Of The Thalamus",
+      "id": 1020.0,
+      "mci_coords": {
+        "x": -1.416,
+        "y": -1.325,
+        "z": -2.909
+      },
+      "wt_coords": {
+        "x": 0.15,
+        "y": -1.95,
+        "z": -4.05
+      },
+      "significance_coords": {
+        "x": 0.0004,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.546,
+      "wt_volume": 0.124,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PO/coronal_.png"
+    },
+    {
+      "acronym": "POL",
+      "name": "Posterior Limiting Nucleus Of The Thalamus",
+      "id": 1029.0,
+      "mci_coords": {
+        "x": -1.698,
+        "y": -2.323,
+        "z": -3.375
+      },
+      "wt_coords": {
+        "x": -2.25,
+        "y": -2.875,
+        "z": -4.0
+      },
+      "significance_coords": {
+        "x": 0.0341,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.057,
+      "wt_volume": 0.032,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/POL/coronal_.png"
+    },
+    {
+      "acronym": "SGN",
+      "name": "Suprageniculate Nucleus",
+      "id": 325.0,
+      "mci_coords": {
+        "x": -2.032,
+        "y": -2.139,
+        "z": -2.798
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.016,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/SGN/coronal_.png"
+    },
+    {
+      "acronym": "AV",
+      "name": "Anteroventral Nucleus Of Thalamus",
+      "id": 255.0,
+      "mci_coords": {
+        "x": -1.127,
+        "y": -0.198,
+        "z": -3.066
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.191,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/AV/coronal_.png"
+    },
+    {
+      "acronym": "AM",
+      "name": "Anteromedial Nucleus",
+      "id": 127.0,
+      "mci_coords": {
+        "x": -0.798,
+        "y": -0.239,
+        "z": -3.684
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.166,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/AM/coronal_.png"
+    },
+    {
+      "acronym": "AD",
+      "name": "Anterodorsal Nucleus",
+      "id": 64.0,
+      "mci_coords": {
+        "x": -0.852,
+        "y": -0.25,
+        "z": -2.655
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.07,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/AD/coronal_.png"
+    },
+    {
+      "acronym": "IAM",
+      "name": "Interanteromedial Nucleus Of The Thalamus",
+      "id": 1120.0,
+      "mci_coords": {
+        "x": -0.118,
+        "y": -0.382,
+        "z": -3.798
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.021,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/IAM/coronal_.png"
+    },
+    {
+      "acronym": "IAD",
+      "name": "Interanterodorsal Nucleus Of The Thalamus",
+      "id": 1113.0,
+      "mci_coords": {
+        "x": -0.386,
+        "y": -0.407,
+        "z": -3.539
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.043,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/IAD/coronal_.png"
+    },
+    {
+      "acronym": "LD",
+      "name": "Lateral Dorsal Nucleus Of Thalamus",
+      "id": 155.0,
+      "mci_coords": {
+        "x": -1.382,
+        "y": -0.625,
+        "z": -2.539
+      },
+      "wt_coords": {
+        "x": -1.7,
+        "y": -2.05,
+        "z": -2.55
+      },
+      "significance_coords": {
+        "x": 0.0321,
+        "y": 0.0,
+        "z": 0.0006
+      },
+      "mci_volume": 0.475,
+      "wt_volume": 0.637,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LD/coronal_.png"
+    },
+    {
+      "acronym": "IMD",
+      "name": "Intermediodorsal Nucleus Of The Thalamus",
+      "id": 59.0,
+      "mci_coords": {
+        "x": 0.0,
+        "y": -1.395,
+        "z": -3.491
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -1.725,
+        "z": -3.25
+      },
+      "significance_coords": {
+        "x": 0.0484,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.136,
+      "wt_volume": 0.614,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IMD/coronal_.png"
+    },
+    {
+      "acronym": "MD",
+      "name": "Mediodorsal Nucleus Of Thalamus",
+      "id": 362.0,
+      "mci_coords": {
+        "x": -0.468,
+        "y": -0.945,
+        "z": -3.22
+      },
+      "wt_coords": {
+        "x": -1.85,
+        "y": -2.975,
+        "z": -3.35
+      },
+      "significance_coords": {
+        "x": 0.0013,
+        "y": 0.0,
+        "z": 0.5565
+      },
+      "mci_volume": 0.618,
+      "wt_volume": 0.104,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MD/coronal_.png"
+    },
+    {
+      "acronym": "SMT",
+      "name": "Submedial Nucleus Of The Thalamus",
+      "id": 366.0,
+      "mci_coords": {
+        "x": -0.345,
+        "y": -0.925,
+        "z": -4.13
+      },
+      "wt_coords": {
+        "x": -2.15,
+        "y": -3.0,
+        "z": -3.0
+      },
+      "significance_coords": {
+        "x": 0.005,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.082,
+      "wt_volume": 0.097,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SMT/coronal_.png"
+    },
+    {
+      "acronym": "PR",
+      "name": "Perireunensis Nucleus",
+      "id": 1077.0,
+      "mci_coords": {
+        "x": -0.398,
+        "y": -0.755,
+        "z": -4.443
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.008,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/PR/coronal_.png"
+    },
+    {
+      "acronym": "PVT",
+      "name": "Paraventricular Nucleus Of The Thalamus",
+      "id": 149.0,
+      "mci_coords": {
+        "x": 0.005,
+        "y": -0.766,
+        "z": -3.08
+      },
+      "wt_coords": {
+        "x": -1.0,
+        "y": -0.55,
+        "z": -3.3
+      },
+      "significance_coords": {
+        "x": 0.0006,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.336,
+      "wt_volume": 0.214,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PVT/coronal_.png"
+    },
+    {
+      "acronym": "PT",
+      "name": "Parataenial Nucleus",
+      "id": 15.0,
+      "mci_coords": {
+        "x": -0.359,
+        "y": 0.059,
+        "z": -3.825
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.129,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/PT/coronal_.png"
+    },
+    {
+      "acronym": "RE",
+      "name": "Nucleus Of Reuniens",
+      "id": 181.0,
+      "mci_coords": {
+        "x": -0.059,
+        "y": -0.382,
+        "z": -4.264
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.266,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/RE/coronal_.png"
+    },
+    {
+      "acronym": "RH",
+      "name": "Rhomboid Nucleus",
+      "id": 189.0,
+      "mci_coords": {
+        "x": 0.002,
+        "y": -0.807,
+        "z": -4.032
+      },
+      "wt_coords": {
+        "x": -0.8,
+        "y": -0.675,
+        "z": -2.775
+      },
+      "significance_coords": {
+        "x": 0.1041,
+        "y": 0.0,
+        "z": 0.0001
+      },
+      "mci_volume": 0.05,
+      "wt_volume": 0.079,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/RH/coronal_.png"
+    },
+    {
+      "acronym": "CM",
+      "name": "Central Medial Nucleus Of The Thalamus",
+      "id": 599.0,
+      "mci_coords": {
+        "x": -0.016,
+        "y": -1.086,
+        "z": -3.845
+      },
+      "wt_coords": {
+        "x": -0.15,
+        "y": -0.7,
+        "z": -4.0
+      },
+      "significance_coords": {
+        "x": 0.2845,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.141,
+      "wt_volume": 0.019,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/CM/coronal_.png"
+    },
+    {
+      "acronym": "PCN",
+      "name": "Paracentral Nucleus",
+      "id": 907.0,
+      "mci_coords": {
+        "x": -0.657,
+        "y": -1.075,
+        "z": -3.739
+      },
+      "wt_coords": {
+        "x": -0.425,
+        "y": -0.75,
+        "z": -3.7
+      },
+      "significance_coords": {
+        "x": 0.2583,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.123,
+      "wt_volume": 0.051,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PCN/coronal_.png"
+    },
+    {
+      "acronym": "CL",
+      "name": "Central Lateral Nucleus Of The Thalamus",
+      "id": 575.0,
+      "mci_coords": {
+        "x": -0.927,
+        "y": -0.986,
+        "z": -3.05
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -1.125,
+        "z": -2.6
+      },
+      "significance_coords": {
+        "x": 0.2934,
+        "y": 0.0,
+        "z": 0.0221
+      },
+      "mci_volume": 0.116,
+      "wt_volume": 0.511,
+      "significance_volume": 0.0136,
+      "src": "src/assets/Centers/CL/coronal_.png"
+    },
+    {
+      "acronym": "PF",
+      "name": "Parafascicular Nucleus",
+      "id": 930.0,
+      "mci_coords": {
+        "x": -0.857,
+        "y": -1.627,
+        "z": -3.357
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": -1.75,
+        "z": -3.6
+      },
+      "significance_coords": {
+        "x": 0.0918,
+        "y": 0.0,
+        "z": 0.0188
+      },
+      "mci_volume": 0.197,
+      "wt_volume": 0.17,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PF/coronal_.png"
+    },
+    {
+      "acronym": "RT",
+      "name": "Reticular Nucleus Of The Thalamus",
+      "id": 262.0,
+      "mci_coords": {
+        "x": -1.305,
+        "y": -0.186,
+        "z": -4.002
+      },
+      "wt_coords": {
+        "x": -0.45,
+        "y": -1.35,
+        "z": -3.375
+      },
+      "significance_coords": {
+        "x": 0.529,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.524,
+      "wt_volume": 0.649,
+      "significance_volume": 0.0013,
+      "src": "src/assets/Centers/RT/coronal_.png"
+    },
+    {
+      "acronym": "IGL",
+      "name": "Intergeniculate Leaflet Of The Lateral Geniculate Complex",
+      "id": 27.0,
+      "mci_coords": {
+        "x": -2.464,
+        "y": -1.845,
+        "z": -3.161
+      },
+      "wt_coords": {
+        "x": -0.35,
+        "y": -1.25,
+        "z": -4.4
+      },
+      "significance_coords": {
+        "x": 0.8862,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.036,
+      "wt_volume": 0.161,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IGL/coronal_.png"
+    },
+    {
+      "acronym": "LGv",
+      "name": "Ventral Part Of The Lateral Geniculate Complex",
+      "id": 178.0,
+      "mci_coords": {
+        "x": -2.634,
+        "y": -1.734,
+        "z": -3.377
+      },
+      "wt_coords": {
+        "x": -0.35,
+        "y": -1.15,
+        "z": -4.9
+      },
+      "significance_coords": {
+        "x": 0.2111,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.199,
+      "wt_volume": 0.072,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LGv/coronal_.png"
+    },
+    {
+      "acronym": "SubG",
+      "name": "Subgeniculate Nucleus",
+      "id": 321.0,
+      "mci_coords": {
+        "x": -2.464,
+        "y": -1.673,
+        "z": -3.845
+      },
+      "wt_coords": {
+        "x": 0.1,
+        "y": -1.7,
+        "z": -3.0
+      },
+      "significance_coords": {
+        "x": 0.0041,
+        "y": 0.0,
+        "z": 0.3514
+      },
+      "mci_volume": 0.01,
+      "wt_volume": 0.42,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SubG/coronal_.png"
+    },
+    {
+      "acronym": "MH",
+      "name": "Medial Habenula",
+      "id": 483.0,
+      "mci_coords": {
+        "x": -0.198,
+        "y": -0.984,
+        "z": -2.402
+      },
+      "wt_coords": {
+        "x": -0.35,
+        "y": -0.2,
+        "z": -4.125
+      },
+      "significance_coords": {
+        "x": 0.7803,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.127,
+      "wt_volume": 0.122,
+      "significance_volume": 0.0002,
+      "src": "src/assets/Centers/MH/coronal_.png"
+    },
+    {
+      "acronym": "LH",
+      "name": "Lateral Habenula",
+      "id": 186.0,
+      "mci_coords": {
+        "x": -0.509,
+        "y": -1.177,
+        "z": -2.55
+      },
+      "wt_coords": {
+        "x": -0.3,
+        "y": -0.6,
+        "z": -4.55
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.151,
+      "wt_volume": 0.22,
+      "significance_volume": 0.0161,
+      "src": "src/assets/Centers/LH/coronal_.png"
+    },
+    {
+      "acronym": "HY",
+      "name": "Hypothalamus",
+      "id": 1097.0,
+      "mci_coords": {
+        "x": -1.332,
+        "y": -1.757,
+        "z": -5.452
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 1.67,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/HY/coronal_.png"
+    },
+    {
+      "acronym": "SO",
+      "name": "Supraoptic Nucleus",
+      "id": 390.0,
+      "mci_coords": {
+        "x": -1.305,
+        "y": -0.259,
+        "z": -5.593
+      },
+      "wt_coords": {
+        "x": -0.1,
+        "y": -0.9,
+        "z": -4.2
+      },
+      "significance_coords": {
+        "x": 0.0105,
+        "y": 0.0368,
+        "z": 0.0
+      },
+      "mci_volume": 0.03,
+      "wt_volume": 0.048,
+      "significance_volume": 0.3504,
+      "src": "src/assets/Centers/SO/coronal_.png"
+    },
+    {
+      "acronym": "ASO",
+      "name": "Accessory Supraoptic Group",
+      "id": 332.0,
+      "mci_coords": {
+        "x": -0.593,
+        "y": -0.036,
+        "z": -5.327
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": -0.8,
+        "z": -3.7
+      },
+      "significance_coords": {
+        "x": 0.0344,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.001,
+      "wt_volume": 0.236,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ASO/coronal_.png"
+    },
+    {
+      "acronym": "PVH",
+      "name": "Paraventricular Hypothalamic Nucleus",
+      "id": 38.0,
+      "mci_coords": {
+        "x": -0.114,
+        "y": -0.257,
+        "z": -4.775
+      },
+      "wt_coords": {
+        "x": -0.55,
+        "y": -1.425,
+        "z": -4.05
+      },
+      "significance_coords": {
+        "x": 0.0227,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.106,
+      "wt_volume": 0.116,
+      "significance_volume": 0.0004,
+      "src": "src/assets/Centers/PVH/coronal_.png"
+    },
+    {
+      "acronym": "PVa",
+      "name": "Periventricular Hypothalamic Nucleus, Anterior Part",
+      "id": 30.0,
+      "mci_coords": {
+        "x": 0.002,
+        "y": -0.141,
+        "z": -5.498
+      },
+      "wt_coords": {
+        "x": -0.95,
+        "y": -1.1,
+        "z": -3.225
+      },
+      "significance_coords": {
+        "x": 0.4664,
+        "y": 0.0426,
+        "z": 0.0046
+      },
+      "mci_volume": 0.005,
+      "wt_volume": 0.169,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PVa/coronal_.png"
+    },
+    {
+      "acronym": "PVi",
+      "name": "Periventricular Hypothalamic Nucleus, Intermediate Part",
+      "id": 118.0,
+      "mci_coords": {
+        "x": -0.034,
+        "y": -0.898,
+        "z": -5.305
+      },
+      "wt_coords": {
+        "x": -0.85,
+        "y": -2.0,
+        "z": -3.65
+      },
+      "significance_coords": {
+        "x": 0.8411,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.042,
+      "wt_volume": 0.236,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PVi/coronal_.png"
+    },
+    {
+      "acronym": "ARH",
+      "name": "Arcuate Hypothalamic Nucleus",
+      "id": 223.0,
+      "mci_coords": {
+        "x": -0.045,
+        "y": -0.925,
+        "z": -5.859
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.137,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/ARH/coronal_.png"
+    },
+    {
+      "acronym": "ADP",
+      "name": "Anterodorsal Preoptic Nucleus",
+      "id": 72.0,
+      "mci_coords": {
+        "x": -0.33,
+        "y": 0.659,
+        "z": -4.757
+      },
+      "wt_coords": {
+        "x": -1.975,
+        "y": -1.0,
+        "z": -4.0
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.9185
+      },
+      "mci_volume": 0.014,
+      "wt_volume": 0.801,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ADP/coronal_.png"
+    },
+    {
+      "acronym": "AVP",
+      "name": "Anteroventral Preoptic Nucleus",
+      "id": 263.0,
+      "mci_coords": {
+        "x": -0.38,
+        "y": 0.63,
+        "z": -5.668
+      },
+      "wt_coords": {
+        "x": -2.5,
+        "y": -2.125,
+        "z": -3.35
+      },
+      "significance_coords": {
+        "x": 0.3306,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.031,
+      "wt_volume": 0.039,
+      "significance_volume": 0.0203,
+      "src": "src/assets/Centers/AVP/coronal_.png"
+    },
+    {
+      "acronym": "AVPV",
+      "name": "Anteroventral Periventricular Nucleus",
+      "id": 272.0,
+      "mci_coords": {
+        "x": -0.184,
+        "y": 0.532,
+        "z": -5.616
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.025,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/AVPV/coronal_.png"
+    },
+    {
+      "acronym": "DMH",
+      "name": "Dorsomedial Nucleus Of The Hypothalamus",
+      "id": 830.0,
+      "mci_coords": {
+        "x": -0.439,
+        "y": -1.03,
+        "z": -4.961
+      },
+      "wt_coords": {
+        "x": -2.7,
+        "y": -2.125,
+        "z": -3.6
+      },
+      "significance_coords": {
+        "x": 0.0645,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.172,
+      "wt_volume": 0.228,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/DMH/coronal_.png"
+    },
+    {
+      "acronym": "MEPO",
+      "name": "Median Preoptic Nucleus",
+      "id": 452.0,
+      "mci_coords": {
+        "x": 0.045,
+        "y": 0.882,
+        "z": -5.175
+      },
+      "wt_coords": {
+        "x": -2.575,
+        "y": -2.05,
+        "z": -4.075
+      },
+      "significance_coords": {
+        "x": 0.0042,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.128,
+      "wt_volume": 0.015,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MEPO/coronal_.png"
+    },
+    {
+      "acronym": "MPO",
+      "name": "Medial Preoptic Area",
+      "id": 523.0,
+      "mci_coords": {
+        "x": -0.591,
+        "y": 0.241,
+        "z": -5.559
+      },
+      "wt_coords": {
+        "x": -0.225,
+        "y": -1.35,
+        "z": -2.5
+      },
+      "significance_coords": {
+        "x": 0.3539,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.34,
+      "wt_volume": 0.144,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MPO/coronal_.png"
+    },
+    {
+      "acronym": "OV",
+      "name": "Vascular Organ Of The Lamina Terminalis",
+      "id": 763.0,
+      "mci_coords": {
+        "x": 0.039,
+        "y": 0.845,
+        "z": -5.591
+      },
+      "wt_coords": {
+        "x": -0.45,
+        "y": -1.7,
+        "z": -2.7
+      },
+      "significance_coords": {
+        "x": 0.0487,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.009,
+      "wt_volume": 0.167,
+      "significance_volume": 0.0002,
+      "src": "src/assets/Centers/OV/coronal_.png"
+    },
+    {
+      "acronym": "PD",
+      "name": "Posterodorsal Preoptic Nucleus",
+      "id": 914.0,
+      "mci_coords": {
+        "x": -0.523,
+        "y": 0.423,
+        "z": -4.848
+      },
+      "wt_coords": {
+        "x": -0.55,
+        "y": -0.35,
+        "z": -5.475
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.8082
+      },
+      "mci_volume": 0.001,
+      "wt_volume": 1.265,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PD/coronal_.png"
+    },
+    {
+      "acronym": "PS",
+      "name": "Parastrial Nucleus",
+      "id": 1109.0,
+      "mci_coords": {
+        "x": -0.7,
+        "y": 0.732,
+        "z": -4.743
+      },
+      "wt_coords": {
+        "x": -1.1,
+        "y": -0.05,
+        "z": -6.25
+      },
+      "significance_coords": {
+        "x": 0.0015,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.011,
+      "wt_volume": 0.025,
+      "significance_volume": 0.0047,
+      "src": "src/assets/Centers/PS/coronal_.png"
+    },
+    {
+      "acronym": "PVp",
+      "name": "Periventricular Hypothalamic Nucleus, Posterior Part",
+      "id": 126.0,
+      "mci_coords": {
+        "x": -0.134,
+        "y": -1.636,
+        "z": -5.78
+      },
+      "wt_coords": {
+        "x": -0.4,
+        "y": -0.55,
+        "z": -5.7
+      },
+      "significance_coords": {
+        "x": 0.0001,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.053,
+      "wt_volume": 0.003,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PVp/coronal_.png"
+    },
+    {
+      "acronym": "PVpo",
+      "name": "Periventricular Hypothalamic Nucleus, Preoptic Part",
+      "id": 133.0,
+      "mci_coords": {
+        "x": -0.086,
+        "y": 0.373,
+        "z": -5.305
+      },
+      "wt_coords": {
+        "x": -0.175,
+        "y": -0.625,
+        "z": -5.225
+      },
+      "significance_coords": {
+        "x": 0.1961,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.036,
+      "wt_volume": 0.1,
+      "significance_volume": 0.5224,
+      "src": "src/assets/Centers/PVpo/coronal_.png"
+    },
+    {
+      "acronym": "SBPV",
+      "name": "Subparaventricular Zone",
+      "id": 347.0,
+      "mci_coords": {
+        "x": -0.139,
+        "y": -0.252,
+        "z": -5.32
+      },
+      "wt_coords": {
+        "x": -0.025,
+        "y": -0.275,
+        "z": -6.4
+      },
+      "significance_coords": {
+        "x": 0.5449,
+        "y": 0.0098,
+        "z": 0.0
+      },
+      "mci_volume": 0.058,
+      "wt_volume": 0.034,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SBPV/coronal_.png"
+    },
+    {
+      "acronym": "SCH",
+      "name": "Suprachiasmatic Nucleus",
+      "id": 286.0,
+      "mci_coords": {
+        "x": -0.111,
+        "y": -0.111,
+        "z": -5.695
+      },
+      "wt_coords": {
+        "x": 0.0,
+        "y": -1.45,
+        "z": -5.25
+      },
+      "significance_coords": {
+        "x": 0.3708,
+        "y": 0.0,
+        "z": 0.4953
+      },
+      "mci_volume": 0.041,
+      "wt_volume": 0.235,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SCH/coronal_.png"
+    },
+    {
+      "acronym": "SFO",
+      "name": "Subfornical Organ",
+      "id": 338.0,
+      "mci_coords": {
+        "x": 0.045,
+        "y": 0.018,
+        "z": -2.745
+      },
+      "wt_coords": {
+        "x": -0.2,
+        "y": -1.225,
+        "z": -6.55
+      },
+      "significance_coords": {
+        "x": 0.0097,
+        "y": 0.001,
+        "z": 0.0
+      },
+      "mci_volume": 0.014,
+      "wt_volume": 0.137,
+      "significance_volume": 0.9855,
+      "src": "src/assets/Centers/SFO/coronal_.png"
+    },
+    {
+      "acronym": "VLPO",
+      "name": "Ventrolateral Preoptic Nucleus",
+      "id": 689.0,
+      "mci_coords": {
+        "x": -0.645,
+        "y": 0.268,
+        "z": -5.957
+      },
+      "wt_coords": {
+        "x": -0.3,
+        "y": 0.55,
+        "z": -5.075
+      },
+      "significance_coords": {
+        "x": 0.4373,
+        "y": 0.0004,
+        "z": 0.0
+      },
+      "mci_volume": 0.017,
+      "wt_volume": 0.057,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VLPO/coronal_.png"
+    },
+    {
+      "acronym": "AHN",
+      "name": "Anterior Hypothalamic Nucleus",
+      "id": 88.0,
+      "mci_coords": {
+        "x": -0.589,
+        "y": -0.261,
+        "z": -5.157
+      },
+      "wt_coords": {
+        "x": -0.475,
+        "y": 0.7,
+        "z": -5.825
+      },
+      "significance_coords": {
+        "x": 0.0375,
+        "y": 0.0915,
+        "z": 0.0005
+      },
+      "mci_volume": 0.33,
+      "wt_volume": 0.048,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AHN/coronal_.png"
+    },
+    {
+      "acronym": "LM",
+      "name": "Lateral Mammillary Nucleus",
+      "id": 210.0,
+      "mci_coords": {
+        "x": -0.975,
+        "y": -2.195,
+        "z": -5.634
+      },
+      "wt_coords": {
+        "x": -0.2,
+        "y": 0.7,
+        "z": -6.05
+      },
+      "significance_coords": {
+        "x": 0.7155,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.023,
+      "wt_volume": 0.089,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LM/coronal_.png"
+    },
+    {
+      "acronym": "MM",
+      "name": "Medial Mammillary Nucleus",
+      "id": 491.0,
+      "mci_coords": {
+        "x": -0.366,
+        "y": -2.257,
+        "z": -5.627
+      },
+      "wt_coords": {
+        "x": -0.375,
+        "y": -1.325,
+        "z": -5.6
+      },
+      "significance_coords": {
+        "x": 0.1181,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.367,
+      "wt_volume": 0.178,
+      "significance_volume": 0.1177,
+      "src": "src/assets/Centers/MM/coronal_.png"
+    },
+    {
+      "acronym": "SUM",
+      "name": "Supramammillary Nucleus",
+      "id": 525.0,
+      "mci_coords": {
+        "x": -0.523,
+        "y": -2.125,
+        "z": -5.118
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": 0.65,
+        "z": -5.45
+      },
+      "significance_coords": {
+        "x": 0.8973,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.123,
+      "wt_volume": 0.048,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SUM/coronal_.png"
+    },
+    {
+      "acronym": "TMd",
+      "name": "Tuberomammillary Nucleus, Dorsal Part",
+      "id": 1126.0,
+      "mci_coords": {
+        "x": -0.225,
+        "y": -1.627,
+        "z": -5.42
+      },
+      "wt_coords": {
+        "x": -0.5,
+        "y": 0.375,
+        "z": -5.475
+      },
+      "significance_coords": {
+        "x": 0.085,
+        "y": 0.0079,
+        "z": 0.0198
+      },
+      "mci_volume": 0.005,
+      "wt_volume": 0.282,
+      "significance_volume": 0.0002,
+      "src": "src/assets/Centers/TMd/coronal_.png"
+    },
+    {
+      "acronym": "TMv",
+      "name": "Tuberomammillary Nucleus, Ventral Part",
+      "id": 1.0,
+      "mci_coords": {
+        "x": -0.77,
+        "y": -2.0,
+        "z": -5.943
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": 0.85,
+        "z": -6.05
+      },
+      "significance_coords": {
+        "x": 0.7998,
+        "y": 0.8644,
+        "z": 0.0
+      },
+      "mci_volume": 0.018,
+      "wt_volume": 0.008,
+      "significance_volume": 0.5245,
+      "src": "src/assets/Centers/TMv/coronal_.png"
+    },
+    {
+      "acronym": "MPN",
+      "name": "Medial Preoptic Nucleus",
+      "id": 515.0,
+      "mci_coords": {
+        "x": -0.341,
+        "y": 0.332,
+        "z": -5.375
+      },
+      "wt_coords": {
+        "x": -0.5,
+        "y": 0.15,
+        "z": -5.225
+      },
+      "significance_coords": {
+        "x": 0.5507,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.08,
+      "wt_volume": 0.007,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MPN/coronal_.png"
+    },
+    {
+      "acronym": "PMd",
+      "name": "Dorsal Premammillary Nucleus",
+      "id": 980.0,
+      "mci_coords": {
+        "x": -0.53,
+        "y": -1.677,
+        "z": -5.284
+      },
+      "wt_coords": {
+        "x": -0.75,
+        "y": 0.5,
+        "z": -5.35
+      },
+      "significance_coords": {
+        "x": 0.2017,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.043,
+      "wt_volume": 0.047,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PMd/coronal_.png"
+    },
+    {
+      "acronym": "PMv",
+      "name": "Ventral Premammillary Nucleus",
+      "id": 1004.0,
+      "mci_coords": {
+        "x": -0.57,
+        "y": -1.641,
+        "z": -5.616
+      },
+      "wt_coords": {
+        "x": -0.2,
+        "y": -1.9,
+        "z": -6.4
+      },
+      "significance_coords": {
+        "x": 0.2946,
+        "y": 0.0005,
+        "z": 0.0
+      },
+      "mci_volume": 0.04,
+      "wt_volume": 0.062,
+      "significance_volume": 0.0386,
+      "src": "src/assets/Centers/PMv/coronal_.png"
+    },
+    {
+      "acronym": "PVHd",
+      "name": "Paraventricular Hypothalamic Nucleus, Descending Division",
+      "id": 63.0,
+      "mci_coords": {
+        "x": -0.723,
+        "y": -0.568,
+        "z": -4.77
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": 0.35,
+        "z": -5.85
+      },
+      "significance_coords": {
+        "x": 0.0025,
+        "y": 0.5295,
+        "z": 0.0
+      },
+      "mci_volume": 0.018,
+      "wt_volume": 0.168,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PVHd/coronal_.png"
+    },
+    {
+      "acronym": "VMH",
+      "name": "Ventromedial Hypothalamic Nucleus",
+      "id": 693.0,
+      "mci_coords": {
+        "x": -0.477,
+        "y": -0.886,
+        "z": -5.484
+      },
+      "wt_coords": {
+        "x": -0.2,
+        "y": -0.05,
+        "z": -6.1
+      },
+      "significance_coords": {
+        "x": 0.1033,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.18,
+      "wt_volume": 0.05,
+      "significance_volume": 0.1962,
+      "src": "src/assets/Centers/VMH/coronal_.png"
+    },
+    {
+      "acronym": "PH",
+      "name": "Posterior Hypothalamic Nucleus",
+      "id": 946.0,
+      "mci_coords": {
+        "x": -0.155,
+        "y": -1.734,
+        "z": -4.811
+      },
+      "wt_coords": {
+        "x": -0.2,
+        "y": -0.075,
+        "z": -6.35
+      },
+      "significance_coords": {
+        "x": 0.0397,
+        "y": 0.4217,
+        "z": 0.0
+      },
+      "mci_volume": 0.384,
+      "wt_volume": 0.034,
+      "significance_volume": 0.261,
+      "src": "src/assets/Centers/PH/coronal_.png"
+    },
+    {
+      "acronym": "LHA",
+      "name": "Lateral Hypothalamic Area",
+      "id": 194.0,
+      "mci_coords": {
+        "x": -1.368,
+        "y": -0.393,
+        "z": -4.955
+      },
+      "wt_coords": {
+        "x": -0.1,
+        "y": -0.4,
+        "z": -2.85
+      },
+      "significance_coords": {
+        "x": 0.0006,
+        "y": 0.0,
+        "z": 0.0002
+      },
+      "mci_volume": 1.639,
+      "wt_volume": 0.009,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/LHA/coronal_.png"
+    },
+    {
+      "acronym": "LPO",
+      "name": "Lateral Preoptic Area",
+      "id": 226.0,
+      "mci_coords": {
+        "x": -1.091,
+        "y": 0.241,
+        "z": -5.261
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.358,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/LPO/coronal_.png"
+    },
+    {
+      "acronym": "PST",
+      "name": "Preparasubthalamic Nucleus",
+      "id": 356.0,
+      "mci_coords": {
+        "x": -1.368,
+        "y": -1.275,
+        "z": -4.877
+      },
+      "wt_coords": {
+        "x": -0.75,
+        "y": 0.475,
+        "z": -6.3
+      },
+      "significance_coords": {
+        "x": 0.0854,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.006,
+      "wt_volume": 0.034,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PST/coronal_.png"
+    },
+    {
+      "acronym": "PSTN",
+      "name": "Parasubthalamic Nucleus",
+      "id": 364.0,
+      "mci_coords": {
+        "x": -1.084,
+        "y": -1.793,
+        "z": -4.995
+      },
+      "wt_coords": {
+        "x": -0.55,
+        "y": -0.25,
+        "z": -5.95
+      },
+      "significance_coords": {
+        "x": 0.3287,
+        "y": 0.7546,
+        "z": 0.0
+      },
+      "mci_volume": 0.036,
+      "wt_volume": 0.374,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/PSTN/coronal_.png"
+    },
+    {
+      "acronym": "RCH",
+      "name": "Retrochiasmatic Area",
+      "id": 173.0,
+      "mci_coords": {
+        "x": -0.391,
+        "y": -0.375,
+        "z": -5.823
+      },
+      "wt_coords": {
+        "x": -0.9,
+        "y": -2.225,
+        "z": -5.85
+      },
+      "significance_coords": {
+        "x": 0.1582,
+        "y": 0.553,
+        "z": 0.0014
+      },
+      "mci_volume": 0.104,
+      "wt_volume": 0.04,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/RCH/coronal_.png"
+    },
+    {
+      "acronym": "STN",
+      "name": "Subthalamic Nucleus",
+      "id": 470.0,
+      "mci_coords": {
+        "x": -1.561,
+        "y": -1.568,
+        "z": -4.645
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.073,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/STN/coronal_.png"
+    },
+    {
+      "acronym": "TU",
+      "name": "Tuberal Nucleus",
+      "id": 614.0,
+      "mci_coords": {
+        "x": -0.877,
+        "y": -0.984,
+        "z": -5.895
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.234,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/TU/coronal_.png"
+    },
+    {
+      "acronym": "ZI",
+      "name": "Zona Incerta",
+      "id": 797.0,
+      "mci_coords": {
+        "x": -1.836,
+        "y": -1.818,
+        "z": -4.0
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.557,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/ZI/coronal_.png"
+    },
+    {
+      "acronym": "FF",
+      "name": "Fields Of Forel",
+      "id": 804.0,
+      "mci_coords": {
+        "x": -0.986,
+        "y": -1.852,
+        "z": -4.227
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.025,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/FF/coronal_.png"
+    },
+    {
+      "acronym": "MB",
+      "name": "Midbrain",
+      "id": 313.0,
+      "mci_coords": {
+        "x": -0.941,
+        "y": -3.795,
+        "z": -2.575
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 1.942,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/MB/coronal_.png"
+    },
+    {
+      "acronym": "SCs",
+      "name": "Superior Colliculus, Sensory Related",
+      "id": 302.0,
+      "mci_coords": {
+        "x": -0.457,
+        "y": -3.764,
+        "z": -0.786
+      },
+      "wt_coords": {
+        "x": -0.2,
+        "y": -2.3,
+        "z": -5.25
+      },
+      "significance_coords": {
+        "x": 0.0002,
+        "y": 0.0002,
+        "z": 0.0504
+      },
+      "mci_volume": 0.965,
+      "wt_volume": 0.128,
+      "significance_volume": 0.2773,
+      "src": "src/assets/Centers/SCs/coronal_.png"
+    },
+    {
+      "acronym": "IC",
+      "name": "Inferior Colliculus",
+      "id": 4.0,
+      "mci_coords": {
+        "x": -1.318,
+        "y": -4.739,
+        "z": -1.432
+      },
+      "wt_coords": {
+        "x": -0.15,
+        "y": -1.95,
+        "z": -6.1
+      },
+      "significance_coords": {
+        "x": 0.1011,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 2.556,
+      "wt_volume": 0.014,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IC/coronal_.png"
+    },
+    {
+      "acronym": "NB",
+      "name": "Nucleus Of The Brachium Of The Inferior Colliculus",
+      "id": 580.0,
+      "mci_coords": {
+        "x": -2.048,
+        "y": -3.077,
+        "z": -2.907
+      },
+      "wt_coords": {
+        "x": -1.05,
+        "y": -1.875,
+        "z": -6.125
+      },
+      "significance_coords": {
+        "x": 0.0001,
+        "y": 0.0373,
+        "z": 0.0006
+      },
+      "mci_volume": 0.071,
+      "wt_volume": 0.054,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/NB/coronal_.png"
+    },
+    {
+      "acronym": "SAG",
+      "name": "Nucleus Sagulum",
+      "id": 271.0,
+      "mci_coords": {
+        "x": -1.745,
+        "y": -3.561,
+        "z": -3.13
+      },
+      "wt_coords": {
+        "x": -0.35,
+        "y": 0.2,
+        "z": -5.7
+      },
+      "significance_coords": {
+        "x": 0.8193,
+        "y": 0.0003,
+        "z": 0.0
+      },
+      "mci_volume": 0.047,
+      "wt_volume": 0.207,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SAG/coronal_.png"
+    },
+    {
+      "acronym": "PBG",
+      "name": "Parabigeminal Nucleus",
+      "id": 874.0,
+      "mci_coords": {
+        "x": -2.086,
+        "y": -3.561,
+        "z": -3.057
+      },
+      "wt_coords": {
+        "x": -0.375,
+        "y": -2.0,
+        "z": -5.8
+      },
+      "significance_coords": {
+        "x": 0.0032,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.04,
+      "wt_volume": 0.064,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PBG/coronal_.png"
+    },
+    {
+      "acronym": "MEV",
+      "name": "Midbrain Trigeminal Nucleus",
+      "id": 460.0,
+      "mci_coords": {
+        "x": -0.92,
+        "y": -4.527,
+        "z": -3.498
+      },
+      "wt_coords": {
+        "x": -0.5,
+        "y": -1.9,
+        "z": -6.2
+      },
+      "significance_coords": {
+        "x": 0.2119,
+        "y": 0.0003,
+        "z": 0.0
+      },
+      "mci_volume": 0.017,
+      "wt_volume": 0.09,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MEV/coronal_.png"
+    },
+    {
+      "acronym": "SNr",
+      "name": "Substantia Nigra, Reticular Part",
+      "id": 381.0,
+      "mci_coords": {
+        "x": -1.659,
+        "y": -2.807,
+        "z": -4.468
+      },
+      "wt_coords": {
+        "x": -0.3,
+        "y": -0.925,
+        "z": -5.225
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.013,
+      "wt_volume": 0.068,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SNr/coronal_.png"
+    },
+    {
+      "acronym": "VTA",
+      "name": "Ventral Tegmental Area",
+      "id": 749.0,
+      "mci_coords": {
+        "x": -0.825,
+        "y": -2.23,
+        "z": -4.636
+      },
+      "wt_coords": {
+        "x": -0.425,
+        "y": -1.075,
+        "z": -6.175
+      },
+      "significance_coords": {
+        "x": 0.2361,
+        "y": 0.0021,
+        "z": 0.0
+      },
+      "mci_volume": 0.393,
+      "wt_volume": 0.266,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VTA/coronal_.png"
+    },
+    {
+      "acronym": "RR",
+      "name": "Midbrain Reticular Nucleus, Retrorubral Area",
+      "id": 246.0,
+      "mci_coords": {
+        "x": -1.195,
+        "y": -3.166,
+        "z": -3.959
+      },
+      "wt_coords": {
+        "x": -0.325,
+        "y": -1.7,
+        "z": -5.275
+      },
+      "significance_coords": {
+        "x": 0.0005,
+        "y": 0.4348,
+        "z": 0.0
+      },
+      "mci_volume": 0.234,
+      "wt_volume": 0.342,
+      "significance_volume": 0.026,
+      "src": "src/assets/Centers/RR/coronal_.png"
+    },
+    {
+      "acronym": "MRN",
+      "name": "Midbrain Reticular Nucleus",
+      "id": 128.0,
+      "mci_coords": {
+        "x": -1.08,
+        "y": -3.252,
+        "z": -3.164
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -0.475,
+        "z": -5.55
+      },
+      "significance_coords": {
+        "x": 0.6746,
+        "y": 0.0644,
+        "z": 0.0
+      },
+      "mci_volume": 2.432,
+      "wt_volume": 1.096,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MRN/coronal_.png"
+    },
+    {
+      "acronym": "SCm",
+      "name": "Superior Colliculus, Motor Related",
+      "id": 294.0,
+      "mci_coords": {
+        "x": -1.166,
+        "y": -3.107,
+        "z": -1.973
+      },
+      "wt_coords": {
+        "x": -1.1,
+        "y": 0.125,
+        "z": -5.75
+      },
+      "significance_coords": {
+        "x": 0.8382,
+        "y": 0.0022,
+        "z": 0.0
+      },
+      "mci_volume": 2.606,
+      "wt_volume": 0.288,
+      "significance_volume": 0.011,
+      "src": "src/assets/Centers/SCm/coronal_.png"
+    },
+    {
+      "acronym": "SCig",
+      "name": "Superior Colliculus, Motor Related, Intermediate Gray Layer",
+      "id": 10.0,
+      "mci_coords": {
+        "x": -0.732,
+        "y": -2.188,
+        "z": -2.588
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -1.45,
+        "z": -5.3
+      },
+      "significance_coords": {
+        "x": 0.657,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.283,
+      "wt_volume": 0.007,
+      "significance_volume": 0.007,
+      "src": "src/assets/Centers/SCig/coronal_.png"
+    },
+    {
+      "acronym": "PAG",
+      "name": "Periaqueductal Gray",
+      "id": 795.0,
+      "mci_coords": {
+        "x": -0.175,
+        "y": -3.734,
+        "z": -2.516
+      },
+      "wt_coords": {
+        "x": -1.1,
+        "y": -1.95,
+        "z": -5.2
+      },
+      "significance_coords": {
+        "x": 0.7194,
+        "y": 0.0003,
+        "z": 0.0009
+      },
+      "mci_volume": 3.598,
+      "wt_volume": 0.086,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PAG/coronal_.png"
+    },
+    {
+      "acronym": "PRC",
+      "name": "Precommissural Nucleus",
+      "id": 50.0,
+      "mci_coords": {
+        "x": -0.361,
+        "y": -1.707,
+        "z": -2.673
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.038,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/PRC/coronal_.png"
+    },
+    {
+      "acronym": "INC",
+      "name": "Interstitial Nucleus Of Cajal",
+      "id": 67.0,
+      "mci_coords": {
+        "x": -0.323,
+        "y": -2.418,
+        "z": -3.445
+      },
+      "wt_coords": {
+        "x": -0.65,
+        "y": -0.475,
+        "z": -6.4
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0701,
+        "z": 0.0
+      },
+      "mci_volume": 0.024,
+      "wt_volume": 0.079,
+      "significance_volume": 0.0002,
+      "src": "src/assets/Centers/INC/coronal_.png"
+    },
+    {
+      "acronym": "ND",
+      "name": "Nucleus Of Darkschewitsch",
+      "id": 587.0,
+      "mci_coords": {
+        "x": -0.23,
+        "y": -2.382,
+        "z": -3.398
+      },
+      "wt_coords": {
+        "x": -1.725,
+        "y": -1.75,
+        "z": -4.875
+      },
+      "significance_coords": {
+        "x": 0.0014,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.013,
+      "wt_volume": 0.108,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ND/coronal_.png"
+    },
+    {
+      "acronym": "APN",
+      "name": "Anterior Pretectal Nucleus",
+      "id": 215.0,
+      "mci_coords": {
+        "x": -1.234,
+        "y": -2.093,
+        "z": -2.573
+      },
+      "wt_coords": {
+        "x": -0.975,
+        "y": -1.05,
+        "z": -6.375
+      },
+      "significance_coords": {
+        "x": 0.1276,
+        "y": 0.2884,
+        "z": 0.0
+      },
+      "mci_volume": 0.544,
+      "wt_volume": 0.255,
+      "significance_volume": 0.0335,
+      "src": "src/assets/Centers/APN/coronal_.png"
+    },
+    {
+      "acronym": "MPT",
+      "name": "Medial Pretectal Area",
+      "id": 531.0,
+      "mci_coords": {
+        "x": -0.261,
+        "y": -1.92,
+        "z": -2.28
+      },
+      "wt_coords": {
+        "x": -1.725,
+        "y": -2.075,
+        "z": -4.375
+      },
+      "significance_coords": {
+        "x": 0.0565,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.049,
+      "wt_volume": 0.85,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MPT/coronal_.png"
+    },
+    {
+      "acronym": "NOT",
+      "name": "Nucleus Of The Optic Tract",
+      "id": 628.0,
+      "mci_coords": {
+        "x": -1.048,
+        "y": -2.207,
+        "z": -1.97
+      },
+      "wt_coords": {
+        "x": -1.075,
+        "y": -2.225,
+        "z": -4.5
+      },
+      "significance_coords": {
+        "x": 0.0243,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.038,
+      "wt_volume": 0.122,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/NOT/coronal_.png"
+    },
+    {
+      "acronym": "NPC",
+      "name": "Nucleus Of The Posterior Commissure",
+      "id": 634.0,
+      "mci_coords": {
+        "x": -0.648,
+        "y": -1.834,
+        "z": -2.609
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.103,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/NPC/coronal_.png"
+    },
+    {
+      "acronym": "OP",
+      "name": "Olivary Pretectal Nucleus",
+      "id": 706.0,
+      "mci_coords": {
+        "x": -0.475,
+        "y": -1.973,
+        "z": -2.025
+      },
+      "wt_coords": {
+        "x": -0.6,
+        "y": -2.25,
+        "z": -4.475
+      },
+      "significance_coords": {
+        "x": 0.0206,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.034,
+      "wt_volume": 3.561,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/OP/coronal_.png"
+    },
+    {
+      "acronym": "PPT",
+      "name": "Posterior Pretectal Nucleus",
+      "id": 1061.0,
+      "mci_coords": {
+        "x": -0.659,
+        "y": -1.977,
+        "z": -2.264
+      },
+      "wt_coords": {
+        "x": -0.425,
+        "y": -3.95,
+        "z": -0.975
+      },
+      "significance_coords": {
+        "x": 0.4217,
+        "y": 0.0026,
+        "z": 0.0
+      },
+      "mci_volume": 0.033,
+      "wt_volume": 0.976,
+      "significance_volume": 0.5454,
+      "src": "src/assets/Centers/PPT/coronal_.png"
+    },
+    {
+      "acronym": "CUN",
+      "name": "Cuneiform Nucleus",
+      "id": 616.0,
+      "mci_coords": {
+        "x": -1.3,
+        "y": -3.914,
+        "z": -3.027
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.15,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/CUN/coronal_.png"
+    },
+    {
+      "acronym": "RN",
+      "name": "Red Nucleus",
+      "id": 214.0,
+      "mci_coords": {
+        "x": -0.773,
+        "y": -2.689,
+        "z": -3.689
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.294,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/RN/coronal_.png"
+    },
+    {
+      "acronym": "III",
+      "name": "Oculomotor Nucleus",
+      "id": 35.0,
+      "mci_coords": {
+        "x": -0.159,
+        "y": -3.12,
+        "z": -3.107
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.015,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/III/coronal_.png"
+    },
+    {
+      "acronym": "EW",
+      "name": "Edinger-westphal Nucleus",
+      "id": 975.0,
+      "mci_coords": {
+        "x": -0.039,
+        "y": -2.609,
+        "z": -3.607
+      },
+      "wt_coords": {
+        "x": -2.025,
+        "y": -3.525,
+        "z": -2.8
+      },
+      "significance_coords": {
+        "x": 0.5325,
+        "y": 0.0,
+        "z": 0.0377
+      },
+      "mci_volume": 0.023,
+      "wt_volume": 0.043,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/EW/coronal_.png"
+    },
+    {
+      "acronym": "IV",
+      "name": "Trochlear Nucleus",
+      "id": 115.0,
+      "mci_coords": {
+        "x": -0.232,
+        "y": -3.705,
+        "z": -3.114
+      },
+      "wt_coords": {
+        "x": -1.875,
+        "y": -3.85,
+        "z": -3.45
+      },
+      "significance_coords": {
+        "x": 0.0014,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.003,
+      "wt_volume": 0.052,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/IV/coronal_.png"
+    },
+    {
+      "acronym": "VTN",
+      "name": "Ventral Tegmental Nucleus",
+      "id": 757.0,
+      "mci_coords": {
+        "x": -0.286,
+        "y": -4.002,
+        "z": -3.7
+      },
+      "wt_coords": {
+        "x": -2.1,
+        "y": -3.775,
+        "z": -3.575
+      },
+      "significance_coords": {
+        "x": 0.7402,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.017,
+      "wt_volume": 0.02,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VTN/coronal_.png"
+    },
+    {
+      "acronym": "AT",
+      "name": "Anterior Tegmental Nucleus",
+      "id": 231.0,
+      "mci_coords": {
+        "x": -0.352,
+        "y": -3.75,
+        "z": -3.782
+      },
+      "wt_coords": {
+        "x": -1.0,
+        "y": -5.125,
+        "z": -4.05
+      },
+      "significance_coords": {
+        "x": 0.1208,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.007,
+      "wt_volume": 0.004,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AT/coronal_.png"
+    },
+    {
+      "acronym": "LT",
+      "name": "Lateral Terminal Nucleus Of The Accessory Optic Tract",
+      "id": 66.0,
+      "mci_coords": {
+        "x": -2.118,
+        "y": -2.239,
+        "z": -4.052
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.003,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/LT/coronal_.png"
+    },
+    {
+      "acronym": "SNc",
+      "name": "Substantia Nigra, Compact Part",
+      "id": 374.0,
+      "mci_coords": {
+        "x": -0.975,
+        "y": -2.62,
+        "z": -4.575
+      },
+      "wt_coords": {
+        "x": -1.65,
+        "y": -3.1,
+        "z": -4.7
+      },
+      "significance_coords": {
+        "x": 0.8577,
+        "y": 0.0,
+        "z": 0.0002
+      },
+      "mci_volume": 0.114,
+      "wt_volume": 0.808,
+      "significance_volume": 0.0067,
+      "src": "src/assets/Centers/SNc/coronal_.png"
+    },
+    {
+      "acronym": "PPN",
+      "name": "Pedunculopontine Nucleus",
+      "id": 1052.0,
+      "mci_coords": {
+        "x": -1.125,
+        "y": -3.607,
+        "z": -3.789
+      },
+      "wt_coords": {
+        "x": -0.7,
+        "y": -2.65,
+        "z": -4.95
+      },
+      "significance_coords": {
+        "x": 0.0152,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.262,
+      "wt_volume": 0.211,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PPN/coronal_.png"
+    },
+    {
+      "acronym": "IF",
+      "name": "Interfascicular Nucleus Raphe",
+      "id": 12.0,
+      "mci_coords": {
+        "x": 0.039,
+        "y": -2.627,
+        "z": -4.277
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.03,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/IF/coronal_.png"
+    },
+    {
+      "acronym": "IPN",
+      "name": "Interpeduncular Nucleus",
+      "id": 100.0,
+      "mci_coords": {
+        "x": -0.084,
+        "y": -2.902,
+        "z": -4.825
+      },
+      "wt_coords": {
+        "x": -1.075,
+        "y": -3.35,
+        "z": -4.35
+      },
+      "significance_coords": {
+        "x": 0.0264,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.274,
+      "wt_volume": 0.072,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IPN/coronal_.png"
+    },
+    {
+      "acronym": "RL",
+      "name": "Rostral Linear Nucleus Raphe",
+      "id": 197.0,
+      "mci_coords": {
+        "x": 0.055,
+        "y": -2.468,
+        "z": -4.389
+      },
+      "wt_coords": {
+        "x": -1.175,
+        "y": -3.65,
+        "z": -3.25
+      },
+      "significance_coords": {
+        "x": 0.0224,
+        "y": 0.0,
+        "z": 0.0048
+      },
+      "mci_volume": 0.007,
+      "wt_volume": 2.793,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/RL/coronal_.png"
+    },
+    {
+      "acronym": "CLI",
+      "name": "Central Linear Nucleus Raphe",
+      "id": 591.0,
+      "mci_coords": {
+        "x": -0.016,
+        "y": -3.08,
+        "z": -4.082
+      },
+      "wt_coords": {
+        "x": -1.125,
+        "y": -3.55,
+        "z": -2.175
+      },
+      "significance_coords": {
+        "x": 0.1614,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.073,
+      "wt_volume": 2.453,
+      "significance_volume": 0.0206,
+      "src": "src/assets/Centers/CLI/coronal_.png"
+    },
+    {
+      "acronym": "DR",
+      "name": "Dorsal Nucleus Raphe",
+      "id": 872.0,
+      "mci_coords": {
+        "x": -0.055,
+        "y": -3.6,
+        "z": -3.064
+      },
+      "wt_coords": {
+        "x": -0.525,
+        "y": -4.35,
+        "z": -2.95
+      },
+      "significance_coords": {
+        "x": 0.0047,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.107,
+      "wt_volume": 1.983,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/DR/coronal_.png"
+    },
+    {
+      "acronym": "P",
+      "name": "Pons",
+      "id": 771.0,
+      "mci_coords": {
+        "x": -1.189,
+        "y": -4.293,
+        "z": -4.959
+      },
+      "wt_coords": {
+        "x": -0.25,
+        "y": -2.15,
+        "z": -2.8
+      },
+      "significance_coords": {
+        "x": 0.0023,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.232,
+      "wt_volume": 0.086,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/P/coronal_.png"
+    },
+    {
+      "acronym": "NLL",
+      "name": "Nucleus Of The Lateral Lemniscus",
+      "id": 612.0,
+      "mci_coords": {
+        "x": -1.861,
+        "y": -3.689,
+        "z": -4.307
+      },
+      "wt_coords": {
+        "x": -0.325,
+        "y": -2.925,
+        "z": -3.55
+      },
+      "significance_coords": {
+        "x": 0.9516,
+        "y": 0.0,
+        "z": 0.0024
+      },
+      "mci_volume": 0.264,
+      "wt_volume": 0.043,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/NLL/coronal_.png"
+    },
+    {
+      "acronym": "PSV",
+      "name": "Principal Sensory Nucleus Of The Trigeminal",
+      "id": 7.0,
+      "mci_coords": {
+        "x": -2.086,
+        "y": -4.252,
+        "z": -4.909
+      },
+      "wt_coords": {
+        "x": -0.125,
+        "y": -2.75,
+        "z": -3.55
+      },
+      "significance_coords": {
+        "x": 0.0208,
+        "y": 0.0,
+        "z": 0.0064
+      },
+      "mci_volume": 0.383,
+      "wt_volume": 0.049,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PSV/coronal_.png"
+    },
+    {
+      "acronym": "PB",
+      "name": "Parabrachial Nucleus",
+      "id": 867.0,
+      "mci_coords": {
+        "x": -1.345,
+        "y": -4.464,
+        "z": -2.943
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.437,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/PB/coronal_.png"
+    },
+    {
+      "acronym": "POR",
+      "name": "Superior Olivary Complex, Periolivary Region",
+      "id": 122.0,
+      "mci_coords": {
+        "x": -1.134,
+        "y": -4.048,
+        "z": -5.85
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -2.675,
+        "z": -3.125
+      },
+      "significance_coords": {
+        "x": 0.0047,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.029,
+      "wt_volume": 0.673,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/POR/coronal_.png"
+    },
+    {
+      "acronym": "SOCm",
+      "name": "Superior Olivary Complex, Medial Part",
+      "id": 105.0,
+      "mci_coords": {
+        "x": -0.918,
+        "y": -4.155,
+        "z": -5.866
+      },
+      "wt_coords": {
+        "x": -0.375,
+        "y": -2.625,
+        "z": -2.0
+      },
+      "significance_coords": {
+        "x": 0.0008,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.036,
+      "wt_volume": 0.02,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SOCm/coronal_.png"
+    },
+    {
+      "acronym": "SOCl",
+      "name": "Superior Olivary Complex, Lateral Part",
+      "id": 114.0,
+      "mci_coords": {
+        "x": -1.341,
+        "y": -4.173,
+        "z": -5.748
+      },
+      "wt_coords": {
+        "x": -1.225,
+        "y": -2.725,
+        "z": -2.0
+      },
+      "significance_coords": {
+        "x": 0.0055,
+        "y": 0.0,
+        "z": 0.1254
+      },
+      "mci_volume": 0.053,
+      "wt_volume": 0.107,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SOCl/coronal_.png"
+    },
+    {
+      "acronym": "B",
+      "name": "Barrington's Nucleus",
+      "id": 280.0,
+      "mci_coords": {
+        "x": -0.67,
+        "y": -4.773,
+        "z": -3.57
+      },
+      "wt_coords": {
+        "x": -0.175,
+        "y": -2.6,
+        "z": -2.425
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.016,
+      "wt_volume": 0.14,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/B/coronal_.png"
+    },
+    {
+      "acronym": "DTN",
+      "name": "Dorsal Tegmental Nucleus",
+      "id": 880.0,
+      "mci_coords": {
+        "x": -0.207,
+        "y": -4.607,
+        "z": -3.405
+      },
+      "wt_coords": {
+        "x": -0.575,
+        "y": -2.35,
+        "z": -2.15
+      },
+      "significance_coords": {
+        "x": 0.0044,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.039,
+      "wt_volume": 0.03,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/DTN/coronal_.png"
+    },
+    {
+      "acronym": "PCG",
+      "name": "Pontine Central Gray",
+      "id": 898.0,
+      "mci_coords": {
+        "x": -0.4,
+        "y": -4.791,
+        "z": -3.786
+      },
+      "wt_coords": {
+        "x": -0.575,
+        "y": -2.7,
+        "z": -2.1
+      },
+      "significance_coords": {
+        "x": 0.0045,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.271,
+      "wt_volume": 0.066,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PCG/coronal_.png"
+    },
+    {
+      "acronym": "PG",
+      "name": "Pontine Gray",
+      "id": 931.0,
+      "mci_coords": {
+        "x": -0.452,
+        "y": -3.245,
+        "z": -5.705
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.322,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/PG/coronal_.png"
+    },
+    {
+      "acronym": "PRNc",
+      "name": "Pontine Reticular Nucleus, Caudal Part",
+      "id": 1093.0,
+      "mci_coords": {
+        "x": -0.718,
+        "y": -4.38,
+        "z": -4.975
+      },
+      "wt_coords": {
+        "x": -1.25,
+        "y": -4.525,
+        "z": -3.125
+      },
+      "significance_coords": {
+        "x": 0.2129,
+        "y": 0.0,
+        "z": 0.0016
+      },
+      "mci_volume": 1.534,
+      "wt_volume": 0.284,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PRNc/coronal_.png"
+    },
+    {
+      "acronym": "SG",
+      "name": "Supragenual Nucleus",
+      "id": 318.0,
+      "mci_coords": {
+        "x": -0.236,
+        "y": -4.998,
+        "z": -4.032
+      },
+      "wt_coords": {
+        "x": -0.775,
+        "y": -3.15,
+        "z": -3.925
+      },
+      "significance_coords": {
+        "x": 0.9524,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.006,
+      "wt_volume": 0.409,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SG/coronal_.png"
+    },
+    {
+      "acronym": "SUT",
+      "name": "Supratrigeminal Nucleus",
+      "id": 534.0,
+      "mci_coords": {
+        "x": -1.432,
+        "y": -4.45,
+        "z": -3.793
+      },
+      "wt_coords": {
+        "x": -0.15,
+        "y": -3.625,
+        "z": -3.425
+      },
+      "significance_coords": {
+        "x": 0.8127,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.09,
+      "wt_volume": 0.018,
+      "significance_volume": 0.0006,
+      "src": "src/assets/Centers/SUT/coronal_.png"
+    },
+    {
+      "acronym": "TRN",
+      "name": "Tegmental Reticular Nucleus",
+      "id": 574.0,
+      "mci_coords": {
+        "x": -0.464,
+        "y": -3.584,
+        "z": -5.336
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.211,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/TRN/coronal_.png"
+    },
+    {
+      "acronym": "V",
+      "name": "Motor Nucleus Of Trigeminal",
+      "id": 621.0,
+      "mci_coords": {
+        "x": -1.666,
+        "y": -4.352,
+        "z": -4.386
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": -3.1,
+        "z": -3.7
+      },
+      "significance_coords": {
+        "x": 0.0202,
+        "y": 0.0,
+        "z": 0.0742
+      },
+      "mci_volume": 0.193,
+      "wt_volume": 0.023,
+      "significance_volume": 0.8418,
+      "src": "src/assets/Centers/V/coronal_.png"
+    },
+    {
+      "acronym": "CS",
+      "name": "Superior Central Nucleus Raphe",
+      "id": 679.0,
+      "mci_coords": {
+        "x": -0.068,
+        "y": -3.632,
+        "z": -4.414
+      },
+      "wt_coords": {
+        "x": -0.25,
+        "y": -4.125,
+        "z": -3.475
+      },
+      "significance_coords": {
+        "x": 0.6527,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.639,
+      "wt_volume": 0.004,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/CS/coronal_.png"
+    },
+    {
+      "acronym": "LC",
+      "name": "Locus Ceruleus",
+      "id": 147.0,
+      "mci_coords": {
+        "x": -0.966,
+        "y": -4.859,
+        "z": -3.5
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.007,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/LC/coronal_.png"
+    },
+    {
+      "acronym": "LDT",
+      "name": "Laterodorsal Tegmental Nucleus",
+      "id": 162.0,
+      "mci_coords": {
+        "x": -0.52,
+        "y": -4.482,
+        "z": -3.248
+      },
+      "wt_coords": {
+        "x": -0.3,
+        "y": -4.3,
+        "z": -4.3
+      },
+      "significance_coords": {
+        "x": 0.763,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.052,
+      "wt_volume": 0.018,
+      "significance_volume": 0.1544,
+      "src": "src/assets/Centers/LDT/coronal_.png"
+    },
+    {
+      "acronym": "NI",
+      "name": "Nucleus Incertus",
+      "id": 604.0,
+      "mci_coords": {
+        "x": -0.211,
+        "y": -4.732,
+        "z": -4.089
+      },
+      "wt_coords": {
+        "x": -0.25,
+        "y": -4.075,
+        "z": -4.4
+      },
+      "significance_coords": {
+        "x": 0.0542,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.058,
+      "wt_volume": 0.023,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/NI/coronal_.png"
+    },
+    {
+      "acronym": "PRNr",
+      "name": "Pontine Reticular Nucleus",
+      "id": 146.0,
+      "mci_coords": {
+        "x": -0.905,
+        "y": -3.741,
+        "z": -4.8
+      },
+      "wt_coords": {
+        "x": -2.4,
+        "y": -2.675,
+        "z": -4.025
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.3959
+      },
+      "mci_volume": 1.15,
+      "wt_volume": 0.01,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PRNr/coronal_.png"
+    },
+    {
+      "acronym": "RPO",
+      "name": "Nucleus Raphe Pontis",
+      "id": 238.0,
+      "mci_coords": {
+        "x": -0.095,
+        "y": -4.498,
+        "z": -4.459
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.021,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/RPO/coronal_.png"
+    },
+    {
+      "acronym": "SLC",
+      "name": "Subceruleus Nucleus",
+      "id": 350.0,
+      "mci_coords": {
+        "x": -0.97,
+        "y": -4.414,
+        "z": -3.852
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.015,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/SLC/coronal_.png"
+    },
+    {
+      "acronym": "SLD",
+      "name": "Sublaterodorsal Nucleus",
+      "id": 358.0,
+      "mci_coords": {
+        "x": -0.755,
+        "y": -4.368,
+        "z": -3.586
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -3.3,
+        "z": -4.6
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.6752
+      },
+      "mci_volume": 0.038,
+      "wt_volume": 0.105,
+      "significance_volume": 0.1168,
+      "src": "src/assets/Centers/SLD/coronal_.png"
+    },
+    {
+      "acronym": "MY",
+      "name": "Medulla",
+      "id": 354.0,
+      "mci_coords": {
+        "x": -1.048,
+        "y": -6.414,
+        "z": -5.239
+      },
+      "wt_coords": {
+        "x": -1.375,
+        "y": -4.075,
+        "z": -3.975
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 4.434,
+      "wt_volume": 0.455,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MY/coronal_.png"
+    },
+    {
+      "acronym": "AP",
+      "name": "Area Postrema",
+      "id": 207.0,
+      "mci_coords": {
+        "x": -0.157,
+        "y": -6.793,
+        "z": -3.905
+      },
+      "wt_coords": {
+        "x": -0.125,
+        "y": -3.2,
+        "z": -4.625
+      },
+      "significance_coords": {
+        "x": 0.0003,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.042,
+      "wt_volume": 0.048,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AP/coronal_.png"
+    },
+    {
+      "acronym": "DCO",
+      "name": "Dorsal Cochlear Nucleus",
+      "id": 96.0,
+      "mci_coords": {
+        "x": -2.475,
+        "y": -5.266,
+        "z": -4.15
+      },
+      "wt_coords": {
+        "x": -0.175,
+        "y": -3.3,
+        "z": -5.425
+      },
+      "significance_coords": {
+        "x": 0.1028,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.256,
+      "wt_volume": 0.007,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/DCO/coronal_.png"
+    },
+    {
+      "acronym": "VCO",
+      "name": "Ventral Cochlear Nucleus",
+      "id": 101.0,
+      "mci_coords": {
+        "x": -2.732,
+        "y": -4.486,
+        "z": -4.82
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.308,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/VCO/coronal_.png"
+    },
+    {
+      "acronym": "CU",
+      "name": "Cuneate Nucleus",
+      "id": 711.0,
+      "mci_coords": {
+        "x": -0.909,
+        "y": -6.884,
+        "z": -3.964
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.162,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/CU/coronal_.png"
+    },
+    {
+      "acronym": "GR",
+      "name": "Gracile Nucleus",
+      "id": 1039.0,
+      "mci_coords": {
+        "x": -0.277,
+        "y": -7.218,
+        "z": -4.116
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.034,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/GR/coronal_.png"
+    },
+    {
+      "acronym": "ECU",
+      "name": "External Cuneate Nucleus",
+      "id": 903.0,
+      "mci_coords": {
+        "x": -1.491,
+        "y": -6.509,
+        "z": -3.78
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.056,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/ECU/coronal_.png"
+    },
+    {
+      "acronym": "NTB",
+      "name": "Nucleus Of The Trapezoid Body",
+      "id": 642.0,
+      "mci_coords": {
+        "x": -0.548,
+        "y": -4.111,
+        "z": -6.014
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.02,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/NTB/coronal_.png"
+    },
+    {
+      "acronym": "NTS",
+      "name": "Nucleus Of The Solitary Tract",
+      "id": 651.0,
+      "mci_coords": {
+        "x": -0.941,
+        "y": -6.193,
+        "z": -4.157
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.246,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/NTS/coronal_.png"
+    },
+    {
+      "acronym": "SPVC",
+      "name": "Spinal Nucleus Of The Trigeminal, Caudal Part",
+      "id": 429.0,
+      "mci_coords": {
+        "x": -1.986,
+        "y": -6.934,
+        "z": -4.693
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.68,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/SPVC/coronal_.png"
+    },
+    {
+      "acronym": "SPVI",
+      "name": "Spinal Nucleus Of The Trigeminal, Interpolar Part",
+      "id": 437.0,
+      "mci_coords": {
+        "x": -2.327,
+        "y": -6.175,
+        "z": -5.052
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.514,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/SPVI/coronal_.png"
+    },
+    {
+      "acronym": "SPVO",
+      "name": "Spinal Nucleus Of The Trigeminal, Oral Part",
+      "id": 445.0,
+      "mci_coords": {
+        "x": -2.261,
+        "y": -5.584,
+        "z": -5.314
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": -2.75,
+        "z": -4.4
+      },
+      "significance_coords": {
+        "x": 0.9235,
+        "y": 0.0,
+        "z": 0.8875
+      },
+      "mci_volume": 0.2,
+      "wt_volume": 0.058,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SPVO/coronal_.png"
+    },
+    {
+      "acronym": "VI",
+      "name": "Abducens Nucleus",
+      "id": 653.0,
+      "mci_coords": {
+        "x": -0.377,
+        "y": -4.93,
+        "z": -4.323
+      },
+      "wt_coords": {
+        "x": -0.1,
+        "y": -3.45,
+        "z": -4.3
+      },
+      "significance_coords": {
+        "x": 0.0551,
+        "y": 0.0,
+        "z": 0.0003
+      },
+      "mci_volume": 0.008,
+      "wt_volume": 0.042,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VI/coronal_.png"
+    },
+    {
+      "acronym": "VII",
+      "name": "Facial Motor Nucleus",
+      "id": 661.0,
+      "mci_coords": {
+        "x": -1.457,
+        "y": -4.848,
+        "z": -5.682
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": -4.3,
+        "z": -3.65
+      },
+      "significance_coords": {
+        "x": 0.0066,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.348,
+      "wt_volume": 0.146,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VII/coronal_.png"
+    },
+    {
+      "acronym": "ACVII",
+      "name": "Accessory Facial Motor Nucleus",
+      "id": 576.0,
+      "mci_coords": {
+        "x": -1.164,
+        "y": -4.527,
+        "z": -5.425
+      },
+      "wt_coords": {
+        "x": -0.525,
+        "y": -4.575,
+        "z": -4.925
+      },
+      "significance_coords": {
+        "x": 0.0019,
+        "y": 0.0485,
+        "z": 0.6528
+      },
+      "mci_volume": 0.003,
+      "wt_volume": 1.705,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/ACVII/coronal_.png"
+    },
+    {
+      "acronym": "AMBd",
+      "name": "Nucleus Ambiguus, Dorsal Division",
+      "id": 939.0,
+      "mci_coords": {
+        "x": -1.664,
+        "y": -5.645,
+        "z": -5.527
+      },
+      "wt_coords": {
+        "x": -1.725,
+        "y": -3.85,
+        "z": -5.1
+      },
+      "significance_coords": {
+        "x": 0.0512,
+        "y": 0.0267,
+        "z": 0.0002
+      },
+      "mci_volume": 0.01,
+      "wt_volume": 0.371,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AMBd/coronal_.png"
+    },
+    {
+      "acronym": "AMBv",
+      "name": "Nucleus Ambiguus, Ventral Division",
+      "id": 143.0,
+      "mci_coords": {
+        "x": -1.516,
+        "y": -6.241,
+        "z": -5.661
+      },
+      "wt_coords": {
+        "x": -1.975,
+        "y": -4.525,
+        "z": -5.825
+      },
+      "significance_coords": {
+        "x": 0.067,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.01,
+      "wt_volume": 0.559,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AMBv/coronal_.png"
+    },
+    {
+      "acronym": "DMX",
+      "name": "Dorsal Motor Nucleus Of The Vagus Nerve",
+      "id": 839.0,
+      "mci_coords": {
+        "x": -0.264,
+        "y": -6.868,
+        "z": -4.207
+      },
+      "wt_coords": {
+        "x": -1.375,
+        "y": -4.775,
+        "z": -3.625
+      },
+      "significance_coords": {
+        "x": 0.5238,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.031,
+      "wt_volume": 0.484,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/DMX/coronal_.png"
+    },
+    {
+      "acronym": "GRN",
+      "name": "Gigantocellular Reticular Nucleus",
+      "id": 1048.0,
+      "mci_coords": {
+        "x": -0.445,
+        "y": -5.143,
+        "z": -5.25
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 1.201,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/GRN/coronal_.png"
+    },
+    {
+      "acronym": "ICB",
+      "name": "Infracerebellar Nucleus",
+      "id": 372.0,
+      "mci_coords": {
+        "x": -1.473,
+        "y": -5.686,
+        "z": -3.3
+      },
+      "wt_coords": {
+        "x": -1.225,
+        "y": -3.95,
+        "z": -6.625
+      },
+      "significance_coords": {
+        "x": 0.1125,
+        "y": 0.0237,
+        "z": 0.0
+      },
+      "mci_volume": 0.004,
+      "wt_volume": 0.18,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ICB/coronal_.png"
+    },
+    {
+      "acronym": "IO",
+      "name": "Inferior Olivary Complex",
+      "id": 83.0,
+      "mci_coords": {
+        "x": -0.234,
+        "y": -6.309,
+        "z": -5.918
+      },
+      "wt_coords": {
+        "x": -1.025,
+        "y": -4.3,
+        "z": -6.525
+      },
+      "significance_coords": {
+        "x": 0.0764,
+        "y": 0.0017,
+        "z": 0.0
+      },
+      "mci_volume": 0.238,
+      "wt_volume": 0.1,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IO/coronal_.png"
+    },
+    {
+      "acronym": "IRN",
+      "name": "Intermediate Reticular Nucleus",
+      "id": 136.0,
+      "mci_coords": {
+        "x": -1.143,
+        "y": -5.343,
+        "z": -5.191
+      },
+      "wt_coords": {
+        "x": -1.45,
+        "y": -4.5,
+        "z": -6.475
+      },
+      "significance_coords": {
+        "x": 0.0846,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.404,
+      "wt_volume": 0.165,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IRN/coronal_.png"
+    },
+    {
+      "acronym": "ISN",
+      "name": "Inferior Salivatory Nucleus",
+      "id": 106.0,
+      "mci_coords": {
+        "x": -1.532,
+        "y": -5.289,
+        "z": -4.534
+      },
+      "wt_coords": {
+        "x": -0.8,
+        "y": -5.1,
+        "z": -4.225
+      },
+      "significance_coords": {
+        "x": 0.0268,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.004,
+      "wt_volume": 0.009,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ISN/coronal_.png"
+    },
+    {
+      "acronym": "LIN",
+      "name": "Linear Nucleus Of The Medulla",
+      "id": 203.0,
+      "mci_coords": {
+        "x": -1.127,
+        "y": -6.034,
+        "z": -5.17
+      },
+      "wt_coords": {
+        "x": -0.2,
+        "y": -4.925,
+        "z": -3.95
+      },
+      "significance_coords": {
+        "x": 0.8781,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.016,
+      "wt_volume": 0.054,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LIN/coronal_.png"
+    },
+    {
+      "acronym": "LRN",
+      "name": "Lateral Reticular Nucleus",
+      "id": 235.0,
+      "mci_coords": {
+        "x": -1.261,
+        "y": -6.464,
+        "z": -5.914
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.206,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/LRN/coronal_.png"
+    },
+    {
+      "acronym": "MARN",
+      "name": "Magnocellular Reticular Nucleus",
+      "id": 307.0,
+      "mci_coords": {
+        "x": -0.366,
+        "y": -5.011,
+        "z": -6.016
+      },
+      "wt_coords": {
+        "x": -0.5,
+        "y": -5.15,
+        "z": -4.175
+      },
+      "significance_coords": {
+        "x": 0.0521,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.275,
+      "wt_volume": 0.262,
+      "significance_volume": 0.2209,
+      "src": "src/assets/Centers/MARN/coronal_.png"
+    },
+    {
+      "acronym": "MDRNd",
+      "name": "Medullary Reticular Nucleus, Dorsal Part",
+      "id": 1098.0,
+      "mci_coords": {
+        "x": -1.436,
+        "y": -6.866,
+        "z": -4.623
+      },
+      "wt_coords": {
+        "x": -0.4,
+        "y": -3.375,
+        "z": -6.325
+      },
+      "significance_coords": {
+        "x": 0.2999,
+        "y": 0.0062,
+        "z": 0.0
+      },
+      "mci_volume": 0.206,
+      "wt_volume": 0.475,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MDRNd/coronal_.png"
+    },
+    {
+      "acronym": "MDRNv",
+      "name": "Medullary Reticular Nucleus, Ventral Part",
+      "id": 1107.0,
+      "mci_coords": {
+        "x": -0.602,
+        "y": -6.843,
+        "z": -5.136
+      },
+      "wt_coords": {
+        "x": -0.675,
+        "y": -4.55,
+        "z": -5.925
+      },
+      "significance_coords": {
+        "x": 0.4529,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.392,
+      "wt_volume": 1.127,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MDRNv/coronal_.png"
+    },
+    {
+      "acronym": "PARN",
+      "name": "Parvicellular Reticular Nucleus",
+      "id": 852.0,
+      "mci_coords": {
+        "x": -1.775,
+        "y": -5.648,
+        "z": -5.155
+      },
+      "wt_coords": {
+        "x": -0.275,
+        "y": -5.3,
+        "z": -4.775
+      },
+      "significance_coords": {
+        "x": 0.5275,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.971,
+      "wt_volume": 0.01,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PARN/coronal_.png"
+    },
+    {
+      "acronym": "PAS",
+      "name": "Parasolitary Nucleus",
+      "id": 859.0,
+      "mci_coords": {
+        "x": -0.666,
+        "y": -6.83,
+        "z": -4.02
+      },
+      "wt_coords": {
+        "x": -1.675,
+        "y": -4.25,
+        "z": -4.7
+      },
+      "significance_coords": {
+        "x": 0.0001,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.007,
+      "wt_volume": 0.137,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PAS/coronal_.png"
+    },
+    {
+      "acronym": "PGRNd",
+      "name": "Paragigantocellular Reticular Nucleus, Dorsal Part",
+      "id": 970.0,
+      "mci_coords": {
+        "x": -0.33,
+        "y": -5.409,
+        "z": -4.398
+      },
+      "wt_coords": {
+        "x": -0.5,
+        "y": -3.8,
+        "z": -5.925
+      },
+      "significance_coords": {
+        "x": 0.4636,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.056,
+      "wt_volume": 0.365,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PGRNd/coronal_.png"
+    },
+    {
+      "acronym": "PGRNl",
+      "name": "Paragigantocellular Reticular Nucleus, Lateral Part",
+      "id": 978.0,
+      "mci_coords": {
+        "x": -1.109,
+        "y": -5.611,
+        "z": -5.989
+      },
+      "wt_coords": {
+        "x": -1.55,
+        "y": -4.725,
+        "z": -5.05
+      },
+      "significance_coords": {
+        "x": 0.0291,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.291,
+      "wt_volume": 0.183,
+      "significance_volume": 0.1684,
+      "src": "src/assets/Centers/PGRNl/coronal_.png"
+    },
+    {
+      "acronym": "NR",
+      "name": "Nucleus Of Roller",
+      "id": 177.0,
+      "mci_coords": {
+        "x": -0.241,
+        "y": -6.084,
+        "z": -4.386
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.009,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/NR/coronal_.png"
+    },
+    {
+      "acronym": "PRP",
+      "name": "Nucleus Prepositus",
+      "id": 169.0,
+      "mci_coords": {
+        "x": -0.216,
+        "y": -5.498,
+        "z": -4.036
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.063,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/PRP/coronal_.png"
+    },
+    {
+      "acronym": "PPY",
+      "name": "Parapyramidal Nucleus",
+      "id": 1069.0,
+      "mci_coords": {
+        "x": -0.545,
+        "y": -5.332,
+        "z": -6.282
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.013,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/PPY/coronal_.png"
+    },
+    {
+      "acronym": "LAV",
+      "name": "Lateral Vestibular Nucleus",
+      "id": 209.0,
+      "mci_coords": {
+        "x": -1.482,
+        "y": -5.32,
+        "z": -3.739
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.063,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/LAV/coronal_.png"
+    },
+    {
+      "acronym": "MV",
+      "name": "Medial Vestibular Nucleus",
+      "id": 202.0,
+      "mci_coords": {
+        "x": -0.72,
+        "y": -5.455,
+        "z": -3.836
+      },
+      "wt_coords": {
+        "x": -0.225,
+        "y": -3.825,
+        "z": -4.875
+      },
+      "significance_coords": {
+        "x": 0.0046,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.635,
+      "wt_volume": 0.319,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/MV/coronal_.png"
+    },
+    {
+      "acronym": "SPIV",
+      "name": "Spinal Vestibular Nucleus",
+      "id": 225.0,
+      "mci_coords": {
+        "x": -1.336,
+        "y": -5.73,
+        "z": -3.886
+      },
+      "wt_coords": {
+        "x": -1.0,
+        "y": -5.15,
+        "z": -4.175
+      },
+      "significance_coords": {
+        "x": 0.5293,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.307,
+      "wt_volume": 0.008,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SPIV/coronal_.png"
+    },
+    {
+      "acronym": "SUV",
+      "name": "Superior Vestibular Nucleus",
+      "id": 217.0,
+      "mci_coords": {
+        "x": -1.632,
+        "y": -5.086,
+        "z": -3.561
+      },
+      "wt_coords": {
+        "x": -0.6,
+        "y": -4.9,
+        "z": -3.825
+      },
+      "significance_coords": {
+        "x": 0.0921,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.151,
+      "wt_volume": 0.109,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SUV/coronal_.png"
+    },
+    {
+      "acronym": "x",
+      "name": "Nucleus X",
+      "id": 765.0,
+      "mci_coords": {
+        "x": -1.761,
+        "y": -5.502,
+        "z": -4.286
+      },
+      "wt_coords": {
+        "x": -0.125,
+        "y": -5.05,
+        "z": -4.7
+      },
+      "significance_coords": {
+        "x": 0.1551,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.029,
+      "wt_volume": 0.057,
+      "significance_volume": 0.87,
+      "src": "src/assets/Centers/x/coronal_.png"
+    },
+    {
+      "acronym": "XII",
+      "name": "Hypoglossal Nucleus",
+      "id": 773.0,
+      "mci_coords": {
+        "x": -0.302,
+        "y": -6.625,
+        "z": -4.441
+      },
+      "wt_coords": {
+        "x": -0.9,
+        "y": -3.9,
+        "z": -5.15
+      },
+      "significance_coords": {
+        "x": 0.9187,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.214,
+      "wt_volume": 1.222,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/XII/coronal_.png"
+    },
+    {
+      "acronym": "y",
+      "name": "Nucleus Y",
+      "id": 781.0,
+      "mci_coords": {
+        "x": -1.9,
+        "y": -5.505,
+        "z": -3.607
+      },
+      "wt_coords": {
+        "x": -0.05,
+        "y": -4.575,
+        "z": -4.875
+      },
+      "significance_coords": {
+        "x": 0.4011,
+        "y": 0.0249,
+        "z": 0.0
+      },
+      "mci_volume": 0.009,
+      "wt_volume": 0.054,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/y/coronal_.png"
+    },
+    {
+      "acronym": "RM",
+      "name": "Nucleus Raphe Magnus",
+      "id": 206.0,
+      "mci_coords": {
+        "x": -0.125,
+        "y": -4.625,
+        "z": -5.664
+      },
+      "wt_coords": {
+        "x": -0.95,
+        "y": -5.05,
+        "z": -4.525
+      },
+      "significance_coords": {
+        "x": 0.6502,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.11,
+      "wt_volume": 0.014,
+      "significance_volume": 0.0002,
+      "src": "src/assets/Centers/RM/coronal_.png"
+    },
+    {
+      "acronym": "RPA",
+      "name": "Nucleus Raphe Pallidus",
+      "id": 230.0,
+      "mci_coords": {
+        "x": -0.105,
+        "y": -6.111,
+        "z": -6.084
+      },
+      "wt_coords": {
+        "x": -0.75,
+        "y": -5.075,
+        "z": -4.5
+      },
+      "significance_coords": {
+        "x": 0.9275,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.027,
+      "wt_volume": 0.025,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/RPA/coronal_.png"
+    },
+    {
+      "acronym": "RO",
+      "name": "Nucleus Raphe Obscurus",
+      "id": 222.0,
+      "mci_coords": {
+        "x": -0.107,
+        "y": -5.977,
+        "z": -5.998
+      },
+      "wt_coords": {
+        "x": -0.775,
+        "y": -7.4,
+        "z": -7.0
+      },
+      "significance_coords": {
+        "x": 0.0934,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.015,
+      "wt_volume": 2.36,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/RO/coronal_.png"
+    },
+    {
+      "acronym": "LING",
+      "name": "Lingula (i)",
+      "id": 912.0,
+      "mci_coords": {
+        "x": -0.261,
+        "y": -5.666,
+        "z": -3.218
+      },
+      "wt_coords": {
+        "x": 0.1,
+        "y": -7.25,
+        "z": -4.85
+      },
+      "significance_coords": {
+        "x": 0.0012,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.05,
+      "wt_volume": 0.066,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/LING/coronal_.png"
+    },
+    {
+      "acronym": "CENT",
+      "name": "Central Lobule",
+      "id": 920.0,
+      "mci_coords": {
+        "x": -0.323,
+        "y": -5.061,
+        "z": -2.334
+      },
+      "wt_coords": {
+        "x": -2.575,
+        "y": -5.45,
+        "z": -4.95
+      },
+      "significance_coords": {
+        "x": 0.1014,
+        "y": 0.0032,
+        "z": 0.0
+      },
+      "mci_volume": 1.516,
+      "wt_volume": 0.296,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/CENT/coronal_.png"
+    },
+    {
+      "acronym": "CUL",
+      "name": "Culmen",
+      "id": 928.0,
+      "mci_coords": {
+        "x": -0.948,
+        "y": -5.627,
+        "z": -0.959
+      },
+      "wt_coords": {
+        "x": -2.65,
+        "y": -5.125,
+        "z": -5.575
+      },
+      "significance_coords": {
+        "x": 0.1376,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 2.841,
+      "wt_volume": 0.516,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/CUL/coronal_.png"
+    },
+    {
+      "acronym": "DEC",
+      "name": "Declive (vi)",
+      "id": 936.0,
+      "mci_coords": {
+        "x": -0.793,
+        "y": -6.564,
+        "z": -1.32
+      },
+      "wt_coords": {
+        "x": -0.825,
+        "y": -7.475,
+        "z": -4.975
+      },
+      "significance_coords": {
+        "x": 0.3127,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.61,
+      "wt_volume": 0.188,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/DEC/coronal_.png"
+    },
+    {
+      "acronym": "FOTU",
+      "name": "Folium-tuber Vermis (vii)",
+      "id": 944.0,
+      "mci_coords": {
+        "x": -0.702,
+        "y": -7.077,
+        "z": -2.193
+      },
+      "wt_coords": {
+        "x": -0.25,
+        "y": -7.775,
+        "z": -5.075
+      },
+      "significance_coords": {
+        "x": 0.7166,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.407,
+      "wt_volume": 0.044,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/FOTU/coronal_.png"
+    },
+    {
+      "acronym": "PYR",
+      "name": "Pyramus (viii)",
+      "id": 951.0,
+      "mci_coords": {
+        "x": -0.432,
+        "y": -7.082,
+        "z": -2.823
+      },
+      "wt_coords": {
+        "x": -1.4,
+        "y": -6.9,
+        "z": -4.7
+      },
+      "significance_coords": {
+        "x": 0.1983,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.33,
+      "wt_volume": 0.115,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PYR/coronal_.png"
+    },
+    {
+      "acronym": "UVU",
+      "name": "Uvula (ix)",
+      "id": 957.0,
+      "mci_coords": {
+        "x": -0.305,
+        "y": -6.664,
+        "z": -3.455
+      },
+      "wt_coords": {
+        "x": -0.725,
+        "y": -4.075,
+        "z": -6.45
+      },
+      "significance_coords": {
+        "x": 0.0064,
+        "y": 0.345,
+        "z": 0.0
+      },
+      "mci_volume": 0.828,
+      "wt_volume": 0.074,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/UVU/coronal_.png"
+    },
+    {
+      "acronym": "NOD",
+      "name": "Nodulus (x)",
+      "id": 968.0,
+      "mci_coords": {
+        "x": -0.277,
+        "y": -6.066,
+        "z": -3.352
+      },
+      "wt_coords": {
+        "x": -0.825,
+        "y": -6.775,
+        "z": -5.1
+      },
+      "significance_coords": {
+        "x": 0.2725,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.472,
+      "wt_volume": 0.476,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/NOD/coronal_.png"
+    },
+    {
+      "acronym": "SIM",
+      "name": "Simple Lobule",
+      "id": 1007.0,
+      "mci_coords": {
+        "x": -2.63,
+        "y": -5.068,
+        "z": -1.618
+      },
+      "wt_coords": {
+        "x": -1.85,
+        "y": -7.3,
+        "z": -5.575
+      },
+      "significance_coords": {
+        "x": 0.0881,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 2.273,
+      "wt_volume": 0.891,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/SIM/coronal_.png"
+    },
+    {
+      "acronym": "AN",
+      "name": "Ansiform Lobule",
+      "id": 1017.0,
+      "mci_coords": {
+        "x": -2.955,
+        "y": -6.016,
+        "z": -2.227
+      },
+      "wt_coords": {
+        "x": -2.175,
+        "y": -6.55,
+        "z": -5.875
+      },
+      "significance_coords": {
+        "x": 0.0358,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 4.196,
+      "wt_volume": 0.978,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AN/coronal_.png"
+    },
+    {
+      "acronym": "PRM",
+      "name": "Paramedian Lobule",
+      "id": 1025.0,
+      "mci_coords": {
+        "x": -2.898,
+        "y": -6.47,
+        "z": -3.652
+      },
+      "wt_coords": {
+        "x": -1.8,
+        "y": -5.575,
+        "z": -5.475
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.8329,
+        "z": 0.0001
+      },
+      "mci_volume": 2.012,
+      "wt_volume": 0.494,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PRM/coronal_.png"
+    },
+    {
+      "acronym": "COPY",
+      "name": "Copula Pyramidis",
+      "id": 1033.0,
+      "mci_coords": {
+        "x": -2.03,
+        "y": -6.614,
+        "z": -3.539
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 1.071,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/COPY/coronal_.png"
+    },
+    {
+      "acronym": "PFL",
+      "name": "Paraflocculus",
+      "id": 1041.0,
+      "mci_coords": {
+        "x": -3.223,
+        "y": -5.398,
+        "z": -4.205
+      },
+      "wt_coords": {
+        "x": -0.4,
+        "y": -5.2,
+        "z": -5.075
+      },
+      "significance_coords": {
+        "x": 0.6889,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.167,
+      "wt_volume": 0.016,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/PFL/coronal_.png"
+    },
+    {
+      "acronym": "FL",
+      "name": "Flocculus",
+      "id": 1049.0,
+      "mci_coords": {
+        "x": -3.057,
+        "y": -4.65,
+        "z": -4.068
+      },
+      "wt_coords": {
+        "x": -1.425,
+        "y": -5.25,
+        "z": -6.575
+      },
+      "significance_coords": {
+        "x": 0.6214,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.386,
+      "wt_volume": 0.448,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/FL/coronal_.png"
+    },
+    {
+      "acronym": "FN",
+      "name": "Fastigial Nucleus",
+      "id": 989.0,
+      "mci_coords": {
+        "x": -0.918,
+        "y": -5.891,
+        "z": -2.873
+      },
+      "wt_coords": {
+        "x": -1.1,
+        "y": -5.0,
+        "z": -6.175
+      },
+      "significance_coords": {
+        "x": 0.2681,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.202,
+      "wt_volume": 0.002,
+      "significance_volume": 0.0014,
+      "src": "src/assets/Centers/FN/coronal_.png"
+    },
+    {
+      "acronym": "IP",
+      "name": "Interposed Nucleus",
+      "id": 91.0,
+      "mci_coords": {
+        "x": -1.898,
+        "y": -5.752,
+        "z": -3.136
+      },
+      "wt_coords": {
+        "x": -1.45,
+        "y": -5.925,
+        "z": -6.35
+      },
+      "significance_coords": {
+        "x": 0.0048,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.313,
+      "wt_volume": 0.011,
+      "significance_volume": 0.0673,
+      "src": "src/assets/Centers/IP/coronal_.png"
+    },
+    {
+      "acronym": "DN",
+      "name": "Dentate Nucleus",
+      "id": 846.0,
+      "mci_coords": {
+        "x": -2.411,
+        "y": -5.375,
+        "z": -3.341
+      },
+      "wt_coords": {
+        "x": -1.375,
+        "y": -6.55,
+        "z": -6.5
+      },
+      "significance_coords": {
+        "x": 0.1068,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.125,
+      "wt_volume": 0.013,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/DN/coronal_.png"
+    },
+    {
+      "acronym": "fiber tracts",
+      "name": "Fiber Tracts",
+      "id": 1009.0,
+      "mci_coords": {
+        "x": -0.909,
+        "y": -2.1,
+        "z": -2.766
+      },
+      "wt_coords": {
+        "x": -0.35,
+        "y": -7.2,
+        "z": -5.175
+      },
+      "significance_coords": {
+        "x": 0.3057,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.434,
+      "wt_volume": 0.095,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/fiber tracts/coronal_.png"
+    },
+    {
+      "acronym": "von",
+      "name": "Vomeronasal Nerve",
+      "id": 949.0,
+      "mci_coords": {
+        "x": 0.381,
+        "y": 3.181,
+        "z": -2.269
+      },
+      "wt_coords": {
+        "x": -0.5,
+        "y": -5.325,
+        "z": -6.05
+      },
+      "significance_coords": {
+        "x": 0.4318,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.0,
+      "wt_volume": 1.194,
+      "significance_volume": 0.8793,
+      "src": "src/assets/Centers/von/coronal_.png"
+    },
+    {
+      "acronym": "In",
+      "name": "Olfactory Nerve",
+      "id": 840.0,
+      "mci_coords": {
+        "x": -0.23,
+        "y": 3.898,
+        "z": -4.37
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -5.95,
+        "z": -3.75
+      },
+      "significance_coords": {
+        "x": 0.0255,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.657,
+      "wt_volume": 0.027,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/In/coronal_.png"
+    },
+    {
+      "acronym": "lot",
+      "name": "Lateral Olfactory Tract, Body",
+      "id": 665.0,
+      "mci_coords": {
+        "x": -2.777,
+        "y": 1.211,
+        "z": -5.241
+      },
+      "wt_coords": {
+        "x": -0.325,
+        "y": -6.35,
+        "z": -6.85
+      },
+      "significance_coords": {
+        "x": 0.2537,
+        "y": 0.6081,
+        "z": 0.0
+      },
+      "mci_volume": 0.593,
+      "wt_volume": 0.262,
+      "significance_volume": 0.2007,
+      "src": "src/assets/Centers/lot/coronal_.png"
+    },
+    {
+      "acronym": "aco",
+      "name": "Anterior Commissure, Olfactory Limb",
+      "id": 900.0,
+      "mci_coords": {
+        "x": -1.164,
+        "y": 1.236,
+        "z": -4.284
+      },
+      "wt_coords": {
+        "x": -1.075,
+        "y": -5.75,
+        "z": -6.075
+      },
+      "significance_coords": {
+        "x": 0.3409,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.331,
+      "wt_volume": 1.515,
+      "significance_volume": 0.012,
+      "src": "src/assets/Centers/aco/coronal_.png"
+    },
+    {
+      "acronym": "IIn",
+      "name": "Optic Nerve",
+      "id": 848.0,
+      "mci_coords": {
+        "x": -0.257,
+        "y": 1.141,
+        "z": -5.977
+      },
+      "wt_coords": {
+        "x": -1.475,
+        "y": -5.625,
+        "z": -5.35
+      },
+      "significance_coords": {
+        "x": 0.3265,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.032,
+      "wt_volume": 0.004,
+      "significance_volume": 0.6216,
+      "src": "src/assets/Centers/IIn/coronal_.png"
+    },
+    {
+      "acronym": "och",
+      "name": "Optic Chiasm",
+      "id": 117.0,
+      "mci_coords": {
+        "x": -0.148,
+        "y": 0.52,
+        "z": -5.925
+      },
+      "wt_coords": {
+        "x": -0.925,
+        "y": -6.45,
+        "z": -6.05
+      },
+      "significance_coords": {
+        "x": 0.0096,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.135,
+      "wt_volume": 0.033,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/och/coronal_.png"
+    },
+    {
+      "acronym": "opt",
+      "name": "Optic Tract",
+      "id": 125.0,
+      "mci_coords": {
+        "x": -1.073,
+        "y": -0.461,
+        "z": -5.836
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.297,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/opt/coronal_.png"
+    },
+    {
+      "acronym": "mlf",
+      "name": "Medial Longitudinal Fascicle",
+      "id": 62.0,
+      "mci_coords": {
+        "x": -0.186,
+        "y": -6.536,
+        "z": -5.164
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 1.033,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/mlf/coronal_.png"
+    },
+    {
+      "acronym": "pc",
+      "name": "Posterior Commissure",
+      "id": 158.0,
+      "mci_coords": {
+        "x": -0.193,
+        "y": -2.166,
+        "z": -2.552
+      },
+      "wt_coords": {
+        "x": -0.375,
+        "y": -5.475,
+        "z": -6.6
+      },
+      "significance_coords": {
+        "x": 0.8975,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.025,
+      "wt_volume": 0.288,
+      "significance_volume": 0.24,
+      "src": "src/assets/Centers/pc/coronal_.png"
+    },
+    {
+      "acronym": "IVn",
+      "name": "Trochlear Nerve",
+      "id": 911.0,
+      "mci_coords": {
+        "x": -0.78,
+        "y": -4.184,
+        "z": -2.986
+      },
+      "wt_coords": {
+        "x": -1.175,
+        "y": -7.25,
+        "z": -5.65
+      },
+      "significance_coords": {
+        "x": 0.0038,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.003,
+      "wt_volume": 0.578,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/IVn/coronal_.png"
+    },
+    {
+      "acronym": "moV",
+      "name": "Motor Root Of The Trigeminal Nerve",
+      "id": 93.0,
+      "mci_coords": {
+        "x": -1.877,
+        "y": -3.607,
+        "z": -5.6
+      },
+      "wt_coords": {
+        "x": -0.625,
+        "y": -7.275,
+        "z": -6.2
+      },
+      "significance_coords": {
+        "x": 0.7922,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.019,
+      "wt_volume": 0.506,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/moV/coronal_.png"
+    },
+    {
+      "acronym": "mtV",
+      "name": "Midbrain Tract Of The Trigeminal Nerve",
+      "id": 705.0,
+      "mci_coords": {
+        "x": -1.016,
+        "y": -4.584,
+        "z": -3.643
+      },
+      "wt_coords": {
+        "x": -1.575,
+        "y": -6.7,
+        "z": -6.0
+      },
+      "significance_coords": {
+        "x": 0.0094,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.005,
+      "wt_volume": 1.146,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/mtV/coronal_.png"
+    },
+    {
+      "acronym": "sptV",
+      "name": "Spinal Tract Of The Trigeminal Nerve",
+      "id": 794.0,
+      "mci_coords": {
+        "x": -2.295,
+        "y": -4.561,
+        "z": -5.336
+      },
+      "wt_coords": {
+        "x": -1.0,
+        "y": -6.975,
+        "z": -5.0
+      },
+      "significance_coords": {
+        "x": 0.003,
+        "y": 0.0239,
+        "z": 0.0
+      },
+      "mci_volume": 0.578,
+      "wt_volume": 0.016,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/sptV/coronal_.png"
+    },
+    {
+      "acronym": "VIIn",
+      "name": "Facial Nerve",
+      "id": 798.0,
+      "mci_coords": {
+        "x": -0.9,
+        "y": -4.78,
+        "z": -4.514
+      },
+      "wt_coords": {
+        "x": -0.325,
+        "y": -5.575,
+        "z": -5.2
+      },
+      "significance_coords": {
+        "x": 0.9469,
+        "y": 0.002,
+        "z": 0.0
+      },
+      "mci_volume": 0.044,
+      "wt_volume": 0.127,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/VIIn/coronal_.png"
+    },
+    {
+      "acronym": "vVIIIn",
+      "name": "Vestibular Nerve",
+      "id": 413.0,
+      "mci_coords": {
+        "x": -2.043,
+        "y": -4.991,
+        "z": -4.173
+      },
+      "wt_coords": {
+        "x": -1.2,
+        "y": -5.975,
+        "z": -6.65
+      },
+      "significance_coords": {
+        "x": 0.1927,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.091,
+      "wt_volume": 0.359,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/vVIIIn/coronal_.png"
+    },
+    {
+      "acronym": "tb",
+      "name": "Trapezoid Body",
+      "id": 841.0,
+      "mci_coords": {
+        "x": -1.161,
+        "y": -4.234,
+        "z": -5.795
+      },
+      "wt_coords": {
+        "x": -0.3,
+        "y": -6.95,
+        "z": -5.7
+      },
+      "significance_coords": {
+        "x": 0.448,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.076,
+      "wt_volume": 0.02,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/tb/coronal_.png"
+    },
+    {
+      "acronym": "ll",
+      "name": "Lateral Lemniscus",
+      "id": 658.0,
+      "mci_coords": {
+        "x": -1.816,
+        "y": -4.032,
+        "z": -3.25
+      },
+      "wt_coords": {
+        "x": -0.225,
+        "y": -6.325,
+        "z": -5.025
+      },
+      "significance_coords": {
+        "x": 0.8873,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.429,
+      "wt_volume": 0.137,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ll/coronal_.png"
+    },
+    {
+      "acronym": "cic",
+      "name": "Inferior Colliculus Commissure",
+      "id": 633.0,
+      "mci_coords": {
+        "x": -0.384,
+        "y": -4.464,
+        "z": -1.53
+      },
+      "wt_coords": {
+        "x": -0.825,
+        "y": -5.525,
+        "z": -6.925
+      },
+      "significance_coords": {
+        "x": 0.0021,
+        "y": 0.0077,
+        "z": 0.0
+      },
+      "mci_volume": 0.009,
+      "wt_volume": 0.045,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/cic/coronal_.png"
+    },
+    {
+      "acronym": "bic",
+      "name": "Brachium Of The Inferior Colliculus",
+      "id": 482.0,
+      "mci_coords": {
+        "x": -2.18,
+        "y": -3.48,
+        "z": -2.725
+      },
+      "wt_coords": {
+        "x": -1.7,
+        "y": -5.475,
+        "z": -4.675
+      },
+      "significance_coords": {
+        "x": 0.0007,
+        "y": 0.0006,
+        "z": 0.0
+      },
+      "mci_volume": 0.167,
+      "wt_volume": 0.15,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/bic/coronal_.png"
+    },
+    {
+      "acronym": "ts",
+      "name": "Solitary Tract",
+      "id": 237.0,
+      "mci_coords": {
+        "x": -0.411,
+        "y": -7.198,
+        "z": -4.452
+      },
+      "wt_coords": {
+        "x": -0.8,
+        "y": -5.6,
+        "z": -4.625
+      },
+      "significance_coords": {
+        "x": 0.1764,
+        "y": 0.0003,
+        "z": 0.0
+      },
+      "mci_volume": 0.005,
+      "wt_volume": 0.987,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/ts/coronal_.png"
+    },
+    {
+      "acronym": "cuf",
+      "name": "Cuneate Fascicle",
+      "id": 380.0,
+      "mci_coords": {
+        "x": -1.061,
+        "y": -7.166,
+        "z": -4.161
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -6.075,
+        "z": -4.7
+      },
+      "significance_coords": {
+        "x": 0.8212,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.013,
+      "wt_volume": 0.392,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/cuf/coronal_.png"
+    },
+    {
+      "acronym": "grf",
+      "name": "Gracile Fascicle",
+      "id": 388.0,
+      "mci_coords": {
+        "x": -0.159,
+        "y": -7.141,
+        "z": -4.23
+      },
+      "wt_coords": {
+        "x": -1.55,
+        "y": -5.6,
+        "z": -4.2
+      },
+      "significance_coords": {
+        "x": 0.1593,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.002,
+      "wt_volume": 0.181,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/grf/coronal_.png"
+    },
+    {
+      "acronym": "ml",
+      "name": "Medial Lemniscus",
+      "id": 697.0,
+      "mci_coords": {
+        "x": -0.536,
+        "y": -3.139,
+        "z": -5.059
+      },
+      "wt_coords": {
+        "x": -1.775,
+        "y": -6.075,
+        "z": -4.9
+      },
+      "significance_coords": {
+        "x": 0.8156,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.228,
+      "wt_volume": 0.026,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/ml/coronal_.png"
+    },
+    {
+      "acronym": "scp",
+      "name": "Superior Cerebelar Peduncles",
+      "id": 326.0,
+      "mci_coords": {
+        "x": -0.62,
+        "y": -3.809,
+        "z": -3.509
+      },
+      "wt_coords": {
+        "x": -0.25,
+        "y": -7.15,
+        "z": -5.5
+      },
+      "significance_coords": {
+        "x": 0.4819,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.211,
+      "wt_volume": 0.158,
+      "significance_volume": 0.0007,
+      "src": "src/assets/Centers/scp/coronal_.png"
+    },
+    {
+      "acronym": "mcp",
+      "name": "Middle Cerebellar Peduncle",
+      "id": 78.0,
+      "mci_coords": {
+        "x": -2.005,
+        "y": -3.92,
+        "z": -4.802
+      },
+      "wt_coords": {
+        "x": -1.95,
+        "y": -5.725,
+        "z": -4.325
+      },
+      "significance_coords": {
+        "x": 0.3774,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.338,
+      "wt_volume": 0.01,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/mcp/coronal_.png"
+    },
+    {
+      "acronym": "icp",
+      "name": "Inferior Cerebellar Peduncle",
+      "id": 1123.0,
+      "mci_coords": {
+        "x": -2.15,
+        "y": -5.17,
+        "z": -3.732
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": -5.45,
+        "z": -6.4
+      },
+      "significance_coords": {
+        "x": 0.0049,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.269,
+      "wt_volume": 0.131,
+      "significance_volume": 0.0689,
+      "src": "src/assets/Centers/icp/coronal_.png"
+    },
+    {
+      "acronym": "arb",
+      "name": "Arbor Vitae",
+      "id": 728.0,
+      "mci_coords": {
+        "x": -2.234,
+        "y": -5.35,
+        "z": -2.923
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": -6.6,
+        "z": -7.0
+      },
+      "significance_coords": {
+        "x": 0.0399,
+        "y": 0.0002,
+        "z": 0.0
+      },
+      "mci_volume": 2.606,
+      "wt_volume": 0.065,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/arb/coronal_.png"
+    },
+    {
+      "acronym": "cc",
+      "name": "Corpus Callosum",
+      "id": 776.0,
+      "mci_coords": {
+        "x": -1.248,
+        "y": 1.855,
+        "z": -2.305
+      },
+      "wt_coords": {
+        "x": 0.1,
+        "y": -7.3,
+        "z": -6.35
+      },
+      "significance_coords": {
+        "x": 0.0042,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 3.046,
+      "wt_volume": 0.062,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/cc/coronal_.png"
+    },
+    {
+      "acronym": "cst",
+      "name": "Corticospinal Tract",
+      "id": 784.0,
+      "mci_coords": {
+        "x": -0.652,
+        "y": -3.443,
+        "z": -5.516
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.018,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/cst/coronal_.png"
+    },
+    {
+      "acronym": "int",
+      "name": "Internal Capsule",
+      "id": 6.0,
+      "mci_coords": {
+        "x": -2.507,
+        "y": -1.086,
+        "z": -3.741
+      },
+      "wt_coords": {
+        "x": -0.15,
+        "y": -5.475,
+        "z": -3.95
+      },
+      "significance_coords": {
+        "x": 0.0698,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.823,
+      "wt_volume": 0.064,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/int/coronal_.png"
+    },
+    {
+      "acronym": "cpd",
+      "name": "Cerebal Peduncle",
+      "id": 924.0,
+      "mci_coords": {
+        "x": -1.38,
+        "y": -2.686,
+        "z": -5.282
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.551,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/cpd/coronal_.png"
+    },
+    {
+      "acronym": "py",
+      "name": "Pyramid",
+      "id": 190.0,
+      "mci_coords": {
+        "x": -0.345,
+        "y": -5.782,
+        "z": -6.264
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.185,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/py/coronal_.png"
+    },
+    {
+      "acronym": "em",
+      "name": "External Medullary Lamina Of The Thalamus",
+      "id": 1092.0,
+      "mci_coords": {
+        "x": -1.816,
+        "y": -0.87,
+        "z": -4.077
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.046,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/em/coronal_.png"
+    },
+    {
+      "acronym": "im",
+      "name": "Internal Medullary Lamina Of The Thalamus",
+      "id": 14.0,
+      "mci_coords": {
+        "x": -0.791,
+        "y": -1.291,
+        "z": -3.83
+      },
+      "wt_coords": {
+        "x": -0.7,
+        "y": -6.625,
+        "z": -1.225
+      },
+      "significance_coords": {
+        "x": 0.201,
+        "y": 0.4667,
+        "z": 0.1195
+      },
+      "mci_volume": 0.001,
+      "wt_volume": 1.804,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/im/coronal_.png"
+    },
+    {
+      "acronym": "tsp",
+      "name": "Tectospinal Pathway",
+      "id": 877.0,
+      "mci_coords": {
+        "x": -0.23,
+        "y": -3.434,
+        "z": -4.527
+      },
+      "wt_coords": {
+        "x": -1.0,
+        "y": -7.55,
+        "z": -2.8
+      },
+      "significance_coords": {
+        "x": 0.0003,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.08,
+      "wt_volume": 0.615,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/tsp/coronal_.png"
+    },
+    {
+      "acronym": "dtd",
+      "name": "Doral Tegmental Decussation",
+      "id": 1060.0,
+      "mci_coords": {
+        "x": -0.164,
+        "y": -2.993,
+        "z": -3.83
+      },
+      "wt_coords": {
+        "x": -0.275,
+        "y": -7.625,
+        "z": -3.525
+      },
+      "significance_coords": {
+        "x": 0.0179,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.018,
+      "wt_volume": 0.841,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/dtd/coronal_.png"
+    },
+    {
+      "acronym": "rust",
+      "name": "Rubrospinal Tract",
+      "id": 863.0,
+      "mci_coords": {
+        "x": -1.725,
+        "y": -4.698,
+        "z": -5.384
+      },
+      "wt_coords": {
+        "x": 0.15,
+        "y": -7.475,
+        "z": -4.2
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.14,
+      "wt_volume": 1.255,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/rust/coronal_.png"
+    },
+    {
+      "acronym": "vtd",
+      "name": "Ventral Tegmental Decussation",
+      "id": 397.0,
+      "mci_coords": {
+        "x": -0.109,
+        "y": -2.718,
+        "z": -4.091
+      },
+      "wt_coords": {
+        "x": -0.35,
+        "y": -6.3,
+        "z": -4.05
+      },
+      "significance_coords": {
+        "x": 0.2192,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.03,
+      "wt_volume": 0.83,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/vtd/coronal_.png"
+    },
+    {
+      "acronym": "amc",
+      "name": "Amygdalar Capsule",
+      "id": 884.0,
+      "mci_coords": {
+        "x": -3.116,
+        "y": -0.805,
+        "z": -4.993
+      },
+      "wt_coords": {
+        "x": -2.925,
+        "y": -5.35,
+        "z": -2.425
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.024,
+      "wt_volume": 2.948,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/amc/coronal_.png"
+    },
+    {
+      "acronym": "act",
+      "name": "Anterior Commissure, Temporal Limb",
+      "id": 908.0,
+      "mci_coords": {
+        "x": -1.58,
+        "y": 0.402,
+        "z": -4.489
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.06,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/act/coronal_.png"
+    },
+    {
+      "acronym": "cing",
+      "name": "Cingulum Bundle",
+      "id": 940.0,
+      "mci_coords": {
+        "x": -0.82,
+        "y": -1.173,
+        "z": -0.984
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.329,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/cing/coronal_.png"
+    },
+    {
+      "acronym": "alv",
+      "name": "Alveus",
+      "id": 466.0,
+      "mci_coords": {
+        "x": -2.814,
+        "y": -2.548,
+        "z": -4.993
+      },
+      "wt_coords": {
+        "x": -2.9,
+        "y": -6.7,
+        "z": -4.525
+      },
+      "significance_coords": {
+        "x": 0.973,
+        "y": 0.0004,
+        "z": 0.0
+      },
+      "mci_volume": 0.194,
+      "wt_volume": 2.426,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/alv/coronal_.png"
+    },
+    {
+      "acronym": "df",
+      "name": "Dorsal Fornix",
+      "id": 530.0,
+      "mci_coords": {
+        "x": 0.032,
+        "y": 0.3,
+        "z": -2.368
+      },
+      "wt_coords": {
+        "x": -2.05,
+        "y": -7.075,
+        "z": -4.525
+      },
+      "significance_coords": {
+        "x": 0.7735,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.051,
+      "wt_volume": 1.342,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/df/coronal_.png"
+    },
+    {
+      "acronym": "fi",
+      "name": "Fimbria",
+      "id": 603.0,
+      "mci_coords": {
+        "x": -1.561,
+        "y": -0.418,
+        "z": -2.352
+      },
+      "wt_coords": {
+        "x": -3.775,
+        "y": -5.675,
+        "z": -5.95
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0014,
+        "z": 0.0
+      },
+      "mci_volume": 0.571,
+      "wt_volume": 2.956,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/fi/coronal_.png"
+    },
+    {
+      "acronym": "fx",
+      "name": "Columns Of The Fornix",
+      "id": 436.0,
+      "mci_coords": {
+        "x": -0.402,
+        "y": 0.366,
+        "z": -4.032
+      },
+      "wt_coords": {
+        "x": -3.4,
+        "y": -5.175,
+        "z": -5.3
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.127,
+      "wt_volume": 0.674,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/fx/coronal_.png"
+    },
+    {
+      "acronym": "dhc",
+      "name": "Dorsal Hippocampal Commissure",
+      "id": 443.0,
+      "mci_coords": {
+        "x": -2.716,
+        "y": -3.489,
+        "z": -1.786
+      },
+      "wt_coords": {
+        "x": -0.9,
+        "y": -6.1,
+        "z": -3.575
+      },
+      "significance_coords": {
+        "x": 0.7141,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.346,
+      "wt_volume": 0.25,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/dhc/coronal_.png"
+    },
+    {
+      "acronym": "vhc",
+      "name": "Ventral Hippocampal Commissure",
+      "id": 449.0,
+      "mci_coords": {
+        "x": -0.082,
+        "y": -0.009,
+        "z": -2.409
+      },
+      "wt_coords": {
+        "x": -1.925,
+        "y": -6.025,
+        "z": -3.85
+      },
+      "significance_coords": {
+        "x": 0.6045,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.05,
+      "wt_volume": 0.444,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/vhc/coronal_.png"
+    },
+    {
+      "acronym": "st",
+      "name": "Stria Terminalis",
+      "id": 301.0,
+      "mci_coords": {
+        "x": -1.884,
+        "y": -0.241,
+        "z": -3.082
+      },
+      "wt_coords": {
+        "x": -2.475,
+        "y": -5.7,
+        "z": -4.15
+      },
+      "significance_coords": {
+        "x": 0.2514,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.264,
+      "wt_volume": 0.157,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/st/coronal_.png"
+    },
+    {
+      "acronym": "smd",
+      "name": "Supramammillary Decussation",
+      "id": 341.0,
+      "mci_coords": {
+        "x": -0.157,
+        "y": -2.052,
+        "z": -4.905
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.008,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/smd/coronal_.png"
+    },
+    {
+      "acronym": "pm",
+      "name": "Principal Mammillary Tract",
+      "id": 753.0,
+      "mci_coords": {
+        "x": -0.236,
+        "y": -2.0,
+        "z": -5.139
+      },
+      "wt_coords": {
+        "x": -2.65,
+        "y": -1.8,
+        "z": -4.125
+      },
+      "significance_coords": {
+        "x": 0.0,
+        "y": 0.6536,
+        "z": 0.0
+      },
+      "mci_volume": 0.0,
+      "wt_volume": 0.504,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/pm/coronal_.png"
+    },
+    {
+      "acronym": "mtt",
+      "name": "Mammillothalamic Tract",
+      "id": 690.0,
+      "mci_coords": {
+        "x": -0.536,
+        "y": -1.602,
+        "z": -4.684
+      },
+      "wt_coords": {
+        "x": -0.15,
+        "y": 3.45,
+        "z": -2.8
+      },
+      "significance_coords": {
+        "x": 0.0314,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.081,
+      "wt_volume": 0.006,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/mtt/coronal_.png"
+    },
+    {
+      "acronym": "mtg",
+      "name": "Mammillotegmental Tract",
+      "id": 681.0,
+      "mci_coords": {
+        "x": -0.039,
+        "y": -2.7,
+        "z": -3.752
+      },
+      "wt_coords": {
+        "x": -0.35,
+        "y": 4.1,
+        "z": -5.3
+      },
+      "significance_coords": {
+        "x": 0.1911,
+        "y": 0.0261,
+        "z": 0.0
+      },
+      "mci_volume": 0.077,
+      "wt_volume": 2.15,
+      "significance_volume": 0.0021,
+      "src": "src/assets/Centers/mtg/coronal_.png"
+    },
+    {
+      "acronym": "mp",
+      "name": "Mammillary Peduncle",
+      "id": 673.0,
+      "mci_coords": {
+        "x": -0.757,
+        "y": -2.291,
+        "z": -5.405
+      },
+      "wt_coords": {
+        "x": -2.875,
+        "y": 0.8,
+        "z": -6.1
+      },
+      "significance_coords": {
+        "x": 0.2744,
+        "y": 0.0113,
+        "z": 0.0
+      },
+      "mci_volume": 0.015,
+      "wt_volume": 0.433,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/mp/coronal_.png"
+    },
+    {
+      "acronym": "sm",
+      "name": "Stria Medullaris",
+      "id": 802.0,
+      "mci_coords": {
+        "x": -0.611,
+        "y": 0.123,
+        "z": -3.516
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.125,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/sm/coronal_.png"
+    },
+    {
+      "acronym": "fr",
+      "name": "Fasciculus Retroflexus",
+      "id": 595.0,
+      "mci_coords": {
+        "x": -0.425,
+        "y": -1.645,
+        "z": -3.28
+      },
+      "wt_coords": {
+        "x": -1.15,
+        "y": 1.15,
+        "z": -4.825
+      },
+      "significance_coords": {
+        "x": 0.7993,
+        "y": 0.2485,
+        "z": 0.0
+      },
+      "mci_volume": 0.08,
+      "wt_volume": 0.381,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/fr/coronal_.png"
+    },
+    {
+      "acronym": "hbc",
+      "name": "Habenular Commissure",
+      "id": 611.0,
+      "mci_coords": {
+        "x": -0.277,
+        "y": -1.545,
+        "z": -2.102
+      },
+      "wt_coords": {
+        "x": -0.325,
+        "y": 1.125,
+        "z": -6.4
+      },
+      "significance_coords": {
+        "x": 0.2121,
+        "y": 0.6364,
+        "z": 0.0
+      },
+      "mci_volume": 0.022,
+      "wt_volume": 0.03,
+      "significance_volume": 0.4448,
+      "src": "src/assets/Centers/hbc/coronal_.png"
+    },
+    {
+      "acronym": "VS",
+      "name": "Ventricular Systems",
+      "id": 73.0,
+      "mci_coords": {
+        "x": -0.023,
+        "y": -2.259,
+        "z": -1.527
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.244,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/VS/coronal_.png"
+    },
+    {
+      "acronym": "VL",
+      "name": "Lateral Ventricle",
+      "id": 81.0,
+      "mci_coords": {
+        "x": -1.077,
+        "y": 0.161,
+        "z": -2.025
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.925,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/VL/coronal_.png"
+    },
+    {
+      "acronym": "V3",
+      "name": "Third Ventricle",
+      "id": 129.0,
+      "mci_coords": {
+        "x": 0.014,
+        "y": -0.641,
+        "z": -2.259
+      },
+      "wt_coords": {
+        "x": -0.175,
+        "y": 0.65,
+        "z": -6.425
+      },
+      "significance_coords": {
+        "x": 0.5275,
+        "y": 0.008,
+        "z": 0.0
+      },
+      "mci_volume": 1.067,
+      "wt_volume": 0.159,
+      "significance_volume": 0.1755,
+      "src": "src/assets/Centers/V3/coronal_.png"
+    },
+    {
+      "acronym": "AQ",
+      "name": "Cerebral Aqueduct",
+      "id": 140.0,
+      "mci_coords": {
+        "x": -0.073,
+        "y": -4.318,
+        "z": -2.327
+      },
+      "wt_coords": {
+        "x": -1.35,
+        "y": -0.625,
+        "z": -6.175
+      },
+      "significance_coords": {
+        "x": 0.0011,
+        "y": 0.0035,
+        "z": 0.0
+      },
+      "mci_volume": 0.431,
+      "wt_volume": 0.367,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/AQ/coronal_.png"
+    },
+    {
+      "acronym": "V4",
+      "name": "Fourth Ventricle",
+      "id": 145.0,
+      "mci_coords": {
+        "x": -0.123,
+        "y": -5.47,
+        "z": -3.634
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.354,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/V4/coronal_.png"
+    },
+    {
+      "acronym": "V4r",
+      "name": "Lateral Recess",
+      "id": 153.0,
+      "mci_coords": {
+        "x": -1.941,
+        "y": -5.995,
+        "z": -3.768
+      },
+      "wt_coords": {
+        "x": 0.05,
+        "y": -6.65,
+        "z": -5.85
+      },
+      "significance_coords": {
+        "x": 0.0039,
+        "y": 0.032,
+        "z": 0.0
+      },
+      "mci_volume": 0.379,
+      "wt_volume": 0.189,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/V4r/coronal_.png"
+    },
+    {
+      "acronym": "c",
+      "name": "Central Canal, Spinal Cord/medulla",
+      "id": 164.0,
+      "mci_coords": {
+        "x": -0.111,
+        "y": -7.118,
+        "z": -4.6
+      },
+      "wt_coords": {
+        "x": -0.075,
+        "y": -2.575,
+        "z": -2.7
+      },
+      "significance_coords": {
+        "x": 0.0089,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.001,
+      "wt_volume": 0.027,
+      "significance_volume": 0.0019,
+      "src": "src/assets/Centers/c/coronal_.png"
+    },
+    {
+      "acronym": "SSp",
+      "name": "Primary Somatosensory Area",
+      "id": 322.0,
+      "mci_coords": {
+        "x": -3.725,
+        "y": 0.125,
+        "z": -2.025
+      },
+      "wt_coords": {
+        "x": -0.775,
+        "y": -5.0,
+        "z": -3.475
+      },
+      "significance_coords": {
+        "x": 0.907,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 1.347,
+      "wt_volume": 0.002,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "VIS",
+      "name": "Visual Areas",
+      "id": 669.0,
+      "mci_coords": {
+        "x": -3.725,
+        "y": -2.45,
+        "z": -1.35
+      },
+      "wt_coords": {
+        "x": -1.85,
+        "y": -3.35,
+        "z": -6.0
+      },
+      "significance_coords": {
+        "x": 0.5731,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mci_volume": 0.284,
+      "wt_volume": 0.026,
+      "significance_volume": 0.0001,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "ACA",
+      "name": "Anterior Cingulate Area",
+      "id": 31.0,
+      "mci_coords": {
+        "x": -0.2,
+        "y": 0.225,
+        "z": -0.675
+      },
+      "wt_coords": null,
+      "significance_coords": null,
+      "mci_volume": 0.824,
+      "wt_volume": null,
+      "significance_volume": null,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "ORB",
+      "name": "Orbital Area",
+      "id": 714.0,
+      "mci_coords": {
+        "x": -1.4,
+        "y": 2.7,
+        "z": -2.575
+      },
+      "wt_coords": {
+        "x": -2.25,
+        "y": -4.55,
+        "z": -5.85
+      },
+      "significance_coords": {
+        "x": 0.4884,
+        "y": 0.8903,
+        "z": 0.0
+      },
+      "mci_volume": 0.661,
+      "wt_volume": 0.776,
+      "significance_volume": 0.0,
+      "src": "src/assets/Centers/brain_match_9.png"
+    },
+    {
+      "acronym": "PTLp",
+      "name": "Posterior Parietal Association Areas",
+      "id": 22.0,
+      "mci_coords": {
+        "x": -2.4,
+        "y": -1.725,
+        "z": -0.8
+      },
+      "wt_coords": {
+        "x": -0.975,
+        "y": -5.1,
+        "z": -5.15
+      },
+      "significance_coords": {
+        "x": 0.6634,
+        "y": 0.0001,
+        "z": 0.0
+      },
+      "mci_volume": 0.281,
+      "wt_volume": 0.037,
+      "significance_volume": 0.0233,
+      "src": "src/assets/Centers/brain_match_9.png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+:root{
+    background-color: #1E1E1E;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px; /* optional, keeps 1rem = 16px */
+}
+
+*{
+    border: 0px solid red;
+}
+
+.container{
+    margin: 3.12rem 3.90%;
+    margin-bottom: 0;
+}
+
+.title-1{
+    font-size: 1.88rem;
+    margin-bottom: 1.56rem;
+    color: white;
+}
+
+.title-2{
+    font-size: 1rem;
+    margin-bottom: 1.56rem;
+    color: white;
+}
