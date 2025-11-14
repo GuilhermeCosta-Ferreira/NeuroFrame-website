@@ -22,7 +22,7 @@
       "mci_volume": 0.0,
       "wt_volume": 1.658,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/root/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/root/coronal_.png"
     },
     {
       "acronym": "Isocortex",
@@ -46,7 +46,7 @@
       "mci_volume": 0.0,
       "wt_volume": 0.501,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "FRP",
@@ -70,7 +70,7 @@
       "mci_volume": 0.312,
       "wt_volume": 5.577,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/FRP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/FRP/coronal_.png"
     },
     {
       "acronym": "MO",
@@ -94,7 +94,7 @@
       "mci_volume": 0.857,
       "wt_volume": 6.505,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "MOp",
@@ -118,7 +118,7 @@
       "mci_volume": 7.194,
       "wt_volume": 1.538,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MOp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MOp/coronal_.png"
     },
     {
       "acronym": "MOs",
@@ -142,7 +142,7 @@
       "mci_volume": 4.273,
       "wt_volume": 3.235,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MOs/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MOs/coronal_.png"
     },
     {
       "acronym": "SSp-n",
@@ -166,7 +166,7 @@
       "mci_volume": 1.207,
       "wt_volume": 1.097,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SSp-n/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SSp-n/coronal_.png"
     },
     {
       "acronym": "SSp-bfd",
@@ -190,7 +190,7 @@
       "mci_volume": 2.36,
       "wt_volume": 3.094,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SSp-bfd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SSp-bfd/coronal_.png"
     },
     {
       "acronym": "SSp-ll",
@@ -214,7 +214,7 @@
       "mci_volume": 0.872,
       "wt_volume": 1.813,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SSp-ll/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SSp-ll/coronal_.png"
     },
     {
       "acronym": "SSp-m",
@@ -238,7 +238,7 @@
       "mci_volume": 2.351,
       "wt_volume": 0.68,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SSp-m/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SSp-m/coronal_.png"
     },
     {
       "acronym": "SSp-ul",
@@ -262,7 +262,7 @@
       "mci_volume": 1.409,
       "wt_volume": 0.591,
       "significance_volume": 0.0662,
-      "src": "src/assets/Centers/SSp-ul/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SSp-ul/coronal_.png"
     },
     {
       "acronym": "SSp-tr",
@@ -286,7 +286,7 @@
       "mci_volume": 0.567,
       "wt_volume": 4.639,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SSp-tr/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SSp-tr/coronal_.png"
     },
     {
       "acronym": "SSp-un",
@@ -310,7 +310,7 @@
       "mci_volume": 0.63,
       "wt_volume": 0.891,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "SSs",
@@ -334,7 +334,7 @@
       "mci_volume": 2.23,
       "wt_volume": 1.141,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SSs/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SSs/coronal_.png"
     },
     {
       "acronym": "GU",
@@ -358,7 +358,7 @@
       "mci_volume": 1.096,
       "wt_volume": 0.664,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/GU/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/GU/coronal_.png"
     },
     {
       "acronym": "VISC",
@@ -382,7 +382,7 @@
       "mci_volume": 0.753,
       "wt_volume": 1.125,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VISC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VISC/coronal_.png"
     },
     {
       "acronym": "AUDd",
@@ -406,7 +406,7 @@
       "mci_volume": 1.551,
       "wt_volume": 0.326,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AUDd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AUDd/coronal_.png"
     },
     {
       "acronym": "AUDp",
@@ -430,7 +430,7 @@
       "mci_volume": 0.957,
       "wt_volume": 0.921,
       "significance_volume": 0.0012,
-      "src": "src/assets/Centers/AUDp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AUDp/coronal_.png"
     },
     {
       "acronym": "AUDpo",
@@ -454,7 +454,7 @@
       "mci_volume": 0.082,
       "wt_volume": 0.405,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AUDpo/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AUDpo/coronal_.png"
     },
     {
       "acronym": "AUDv",
@@ -478,7 +478,7 @@
       "mci_volume": 0.99,
       "wt_volume": 0.394,
       "significance_volume": 0.6878,
-      "src": "src/assets/Centers/AUDv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AUDv/coronal_.png"
     },
     {
       "acronym": "VISal",
@@ -502,7 +502,7 @@
       "mci_volume": 0.339,
       "wt_volume": 0.648,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VISal/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VISal/coronal_.png"
     },
     {
       "acronym": "VISam",
@@ -526,7 +526,7 @@
       "mci_volume": 0.39,
       "wt_volume": 3.603,
       "significance_volume": 0.0044,
-      "src": "src/assets/Centers/VISam/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VISam/coronal_.png"
     },
     {
       "acronym": "VISl",
@@ -550,7 +550,7 @@
       "mci_volume": 0.518,
       "wt_volume": 0.405,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VISl/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VISl/coronal_.png"
     },
     {
       "acronym": "VISp",
@@ -574,7 +574,7 @@
       "mci_volume": 3.335,
       "wt_volume": 0.508,
       "significance_volume": 0.1548,
-      "src": "src/assets/Centers/VISp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VISp/coronal_.png"
     },
     {
       "acronym": "VISpl",
@@ -598,7 +598,7 @@
       "mci_volume": 0.295,
       "wt_volume": 0.257,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VISpl/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VISpl/coronal_.png"
     },
     {
       "acronym": "VISpm",
@@ -622,7 +622,7 @@
       "mci_volume": 0.529,
       "wt_volume": 0.678,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VISpm/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VISpm/coronal_.png"
     },
     {
       "acronym": "VISli",
@@ -646,7 +646,7 @@
       "mci_volume": 0.219,
       "wt_volume": 1.484,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "VISpor",
@@ -670,7 +670,7 @@
       "mci_volume": 0.491,
       "wt_volume": 1.152,
       "significance_volume": 0.0234,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "ACAd",
@@ -694,7 +694,7 @@
       "mci_volume": 0.993,
       "wt_volume": 1.201,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ACAd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ACAd/coronal_.png"
     },
     {
       "acronym": "ACAv",
@@ -718,7 +718,7 @@
       "mci_volume": 0.932,
       "wt_volume": 0.41,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ACAv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ACAv/coronal_.png"
     },
     {
       "acronym": "PL",
@@ -742,7 +742,7 @@
       "mci_volume": 0.627,
       "wt_volume": 1.401,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PL/coronal_.png"
     },
     {
       "acronym": "ILA",
@@ -766,7 +766,7 @@
       "mci_volume": 0.675,
       "wt_volume": 0.679,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ILA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ILA/coronal_.png"
     },
     {
       "acronym": "ORBl",
@@ -790,7 +790,7 @@
       "mci_volume": 0.634,
       "wt_volume": 0.889,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ORBl/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ORBl/coronal_.png"
     },
     {
       "acronym": "ORBm",
@@ -814,7 +814,7 @@
       "mci_volume": 0.471,
       "wt_volume": 1.843,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ORBm/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ORBm/coronal_.png"
     },
     {
       "acronym": "ORBvl",
@@ -838,7 +838,7 @@
       "mci_volume": 0.56,
       "wt_volume": 1.205,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ORBvl/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ORBvl/coronal_.png"
     },
     {
       "acronym": "AId",
@@ -862,7 +862,7 @@
       "mci_volume": 1.087,
       "wt_volume": 0.87,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AId/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AId/coronal_.png"
     },
     {
       "acronym": "AIp",
@@ -886,7 +886,7 @@
       "mci_volume": 0.647,
       "wt_volume": 1.112,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AIp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AIp/coronal_.png"
     },
     {
       "acronym": "AIv",
@@ -910,7 +910,7 @@
       "mci_volume": 0.621,
       "wt_volume": 1.442,
       "significance_volume": 0.0033,
-      "src": "src/assets/Centers/AIv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AIv/coronal_.png"
     },
     {
       "acronym": "RSPagl",
@@ -934,7 +934,7 @@
       "mci_volume": 0.684,
       "wt_volume": 2.02,
       "significance_volume": 0.0312,
-      "src": "src/assets/Centers/RSPagl/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RSPagl/coronal_.png"
     },
     {
       "acronym": "RSPd",
@@ -958,7 +958,7 @@
       "mci_volume": 1.602,
       "wt_volume": 0.704,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/RSPd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RSPd/coronal_.png"
     },
     {
       "acronym": "RSPv",
@@ -982,7 +982,7 @@
       "mci_volume": 2.464,
       "wt_volume": 0.528,
       "significance_volume": 0.0147,
-      "src": "src/assets/Centers/RSPv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RSPv/coronal_.png"
     },
     {
       "acronym": "VISa",
@@ -1006,7 +1006,7 @@
       "mci_volume": 0.287,
       "wt_volume": 1.604,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "VISrl",
@@ -1030,7 +1030,7 @@
       "mci_volume": 0.489,
       "wt_volume": 0.394,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "TEa",
@@ -1054,7 +1054,7 @@
       "mci_volume": 1.225,
       "wt_volume": 0.836,
       "significance_volume": 0.1092,
-      "src": "src/assets/Centers/TEa/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TEa/coronal_.png"
     },
     {
       "acronym": "PERI",
@@ -1078,7 +1078,7 @@
       "mci_volume": 0.878,
       "wt_volume": 2.409,
       "significance_volume": 0.0002,
-      "src": "src/assets/Centers/PERI/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PERI/coronal_.png"
     },
     {
       "acronym": "ECT",
@@ -1102,7 +1102,7 @@
       "mci_volume": 0.861,
       "wt_volume": 9.423,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ECT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ECT/coronal_.png"
     },
     {
       "acronym": "OLF",
@@ -1126,7 +1126,7 @@
       "mci_volume": 1.856,
       "wt_volume": 0.381,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/OLF/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/OLF/coronal_.png"
     },
     {
       "acronym": "MOB",
@@ -1150,7 +1150,7 @@
       "mci_volume": 5.283,
       "wt_volume": 2.329,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MOB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MOB/coronal_.png"
     },
     {
       "acronym": "AOB",
@@ -1166,7 +1166,7 @@
       "mci_volume": 0.241,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/AOB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AOB/coronal_.png"
     },
     {
       "acronym": "AON",
@@ -1182,7 +1182,7 @@
       "mci_volume": 1.784,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/AON/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AON/coronal_.png"
     },
     {
       "acronym": "TT",
@@ -1206,7 +1206,7 @@
       "mci_volume": 0.755,
       "wt_volume": 0.252,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/TT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TT/coronal_.png"
     },
     {
       "acronym": "DP",
@@ -1230,7 +1230,7 @@
       "mci_volume": 0.1,
       "wt_volume": 5.551,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/DP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DP/coronal_.png"
     },
     {
       "acronym": "PIR",
@@ -1254,7 +1254,7 @@
       "mci_volume": 6.352,
       "wt_volume": 0.154,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PIR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PIR/coronal_.png"
     },
     {
       "acronym": "NLOT",
@@ -1278,7 +1278,7 @@
       "mci_volume": 0.225,
       "wt_volume": 0.365,
       "significance_volume": 0.1505,
-      "src": "src/assets/Centers/NLOT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NLOT/coronal_.png"
     },
     {
       "acronym": "COAa",
@@ -1294,7 +1294,7 @@
       "mci_volume": 0.35,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/COAa/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/COAa/coronal_.png"
     },
     {
       "acronym": "COAp",
@@ -1310,7 +1310,7 @@
       "mci_volume": 1.157,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/COAp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/COAp/coronal_.png"
     },
     {
       "acronym": "PAA",
@@ -1334,7 +1334,7 @@
       "mci_volume": 0.414,
       "wt_volume": 0.547,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PAA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PAA/coronal_.png"
     },
     {
       "acronym": "TR",
@@ -1358,7 +1358,7 @@
       "mci_volume": 0.492,
       "wt_volume": 0.693,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/TR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TR/coronal_.png"
     },
     {
       "acronym": "HPF",
@@ -1382,7 +1382,7 @@
       "mci_volume": 1.269,
       "wt_volume": 0.186,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/HPF/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/HPF/coronal_.png"
     },
     {
       "acronym": "CA1",
@@ -1406,7 +1406,7 @@
       "mci_volume": 3.506,
       "wt_volume": 5.341,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/CA1/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CA1/coronal_.png"
     },
     {
       "acronym": "CA2",
@@ -1430,7 +1430,7 @@
       "mci_volume": 0.531,
       "wt_volume": 0.241,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/CA2/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CA2/coronal_.png"
     },
     {
       "acronym": "CA3",
@@ -1454,7 +1454,7 @@
       "mci_volume": 2.721,
       "wt_volume": 3.263,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/CA3/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CA3/coronal_.png"
     },
     {
       "acronym": "DG",
@@ -1478,7 +1478,7 @@
       "mci_volume": 3.325,
       "wt_volume": 3.3,
       "significance_volume": 0.4475,
-      "src": "src/assets/Centers/DG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DG/coronal_.png"
     },
     {
       "acronym": "FC",
@@ -1502,7 +1502,7 @@
       "mci_volume": 0.024,
       "wt_volume": 0.021,
       "significance_volume": 0.0027,
-      "src": "src/assets/Centers/FC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/FC/coronal_.png"
     },
     {
       "acronym": "IG",
@@ -1526,7 +1526,7 @@
       "mci_volume": 0.009,
       "wt_volume": 0.134,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IG/coronal_.png"
     },
     {
       "acronym": "ENTl",
@@ -1550,7 +1550,7 @@
       "mci_volume": 3.572,
       "wt_volume": 3.328,
       "significance_volume": 0.0005,
-      "src": "src/assets/Centers/ENTl/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ENTl/coronal_.png"
     },
     {
       "acronym": "ENTm",
@@ -1574,7 +1574,7 @@
       "mci_volume": 1.261,
       "wt_volume": 2.588,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ENTm/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ENTm/coronal_.png"
     },
     {
       "acronym": "ENTmv",
@@ -1598,7 +1598,7 @@
       "mci_volume": 0.109,
       "wt_volume": 0.487,
       "significance_volume": 0.0323,
-      "src": "src/assets/Centers/ENTmv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ENTmv/coronal_.png"
     },
     {
       "acronym": "PAR",
@@ -1622,7 +1622,7 @@
       "mci_volume": 0.469,
       "wt_volume": 0.585,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PAR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PAR/coronal_.png"
     },
     {
       "acronym": "POST",
@@ -1646,7 +1646,7 @@
       "mci_volume": 0.334,
       "wt_volume": 0.475,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/POST/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/POST/coronal_.png"
     },
     {
       "acronym": "PRE",
@@ -1670,7 +1670,7 @@
       "mci_volume": 0.504,
       "wt_volume": 1.158,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PRE/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PRE/coronal_.png"
     },
     {
       "acronym": "SUB",
@@ -1686,7 +1686,7 @@
       "mci_volume": 2.008,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/SUB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SUB/coronal_.png"
     },
     {
       "acronym": "CTXsp",
@@ -1702,7 +1702,7 @@
       "mci_volume": 0.818,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/CTXsp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CTXsp/coronal_.png"
     },
     {
       "acronym": "EPd",
@@ -1718,7 +1718,7 @@
       "mci_volume": 0.626,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/EPd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/EPd/coronal_.png"
     },
     {
       "acronym": "EPv",
@@ -1742,7 +1742,7 @@
       "mci_volume": 0.163,
       "wt_volume": 0.441,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/EPv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/EPv/coronal_.png"
     },
     {
       "acronym": "LA",
@@ -1766,7 +1766,7 @@
       "mci_volume": 0.196,
       "wt_volume": 0.892,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LA/coronal_.png"
     },
     {
       "acronym": "BLAa",
@@ -1790,7 +1790,7 @@
       "mci_volume": 0.213,
       "wt_volume": 0.441,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/BLAa/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/BLAa/coronal_.png"
     },
     {
       "acronym": "BLAp",
@@ -1814,7 +1814,7 @@
       "mci_volume": 0.194,
       "wt_volume": 0.429,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/BLAp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/BLAp/coronal_.png"
     },
     {
       "acronym": "BLAv",
@@ -1838,7 +1838,7 @@
       "mci_volume": 0.103,
       "wt_volume": 0.37,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/BLAv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/BLAv/coronal_.png"
     },
     {
       "acronym": "BMA",
@@ -1862,7 +1862,7 @@
       "mci_volume": 0.428,
       "wt_volume": 0.342,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/BMA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/BMA/coronal_.png"
     },
     {
       "acronym": "PA",
@@ -1886,7 +1886,7 @@
       "mci_volume": 0.175,
       "wt_volume": 0.202,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PA/coronal_.png"
     },
     {
       "acronym": "STR",
@@ -1902,7 +1902,7 @@
       "mci_volume": 0.749,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/STR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/STR/coronal_.png"
     },
     {
       "acronym": "CP",
@@ -1918,7 +1918,7 @@
       "mci_volume": 8.714,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/CP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CP/coronal_.png"
     },
     {
       "acronym": "ACB",
@@ -1942,7 +1942,7 @@
       "mci_volume": 1.556,
       "wt_volume": 0.476,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ACB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ACB/coronal_.png"
     },
     {
       "acronym": "FS",
@@ -1966,7 +1966,7 @@
       "mci_volume": 0.136,
       "wt_volume": 1.371,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/FS/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/FS/coronal_.png"
     },
     {
       "acronym": "OT",
@@ -1990,7 +1990,7 @@
       "mci_volume": 2.973,
       "wt_volume": 13.383,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/OT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/OT/coronal_.png"
     },
     {
       "acronym": "LSc",
@@ -2014,7 +2014,7 @@
       "mci_volume": 0.204,
       "wt_volume": 2.241,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LSc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LSc/coronal_.png"
     },
     {
       "acronym": "LSr",
@@ -2038,7 +2038,7 @@
       "mci_volume": 0.989,
       "wt_volume": 0.202,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LSr/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LSr/coronal_.png"
     },
     {
       "acronym": "LSv",
@@ -2062,7 +2062,7 @@
       "mci_volume": 0.057,
       "wt_volume": 1.769,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LSv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LSv/coronal_.png"
     },
     {
       "acronym": "SF",
@@ -2086,7 +2086,7 @@
       "mci_volume": 0.062,
       "wt_volume": 0.268,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SF/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SF/coronal_.png"
     },
     {
       "acronym": "SH",
@@ -2110,7 +2110,7 @@
       "mci_volume": 0.017,
       "wt_volume": 0.917,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/SH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SH/coronal_.png"
     },
     {
       "acronym": "sAMY",
@@ -2134,7 +2134,7 @@
       "mci_volume": 0.104,
       "wt_volume": 0.33,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/sAMY/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/sAMY/coronal_.png"
     },
     {
       "acronym": "AAA",
@@ -2158,7 +2158,7 @@
       "mci_volume": 0.273,
       "wt_volume": 0.508,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AAA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AAA/coronal_.png"
     },
     {
       "acronym": "BA",
@@ -2182,7 +2182,7 @@
       "mci_volume": 0.037,
       "wt_volume": 0.022,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/BA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/BA/coronal_.png"
     },
     {
       "acronym": "CEA",
@@ -2206,7 +2206,7 @@
       "mci_volume": 0.372,
       "wt_volume": 0.246,
       "significance_volume": 0.005,
-      "src": "src/assets/Centers/CEA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CEA/coronal_.png"
     },
     {
       "acronym": "IA",
@@ -2230,7 +2230,7 @@
       "mci_volume": 0.059,
       "wt_volume": 0.013,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IA/coronal_.png"
     },
     {
       "acronym": "MEA",
@@ -2246,7 +2246,7 @@
       "mci_volume": 0.774,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/MEA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MEA/coronal_.png"
     },
     {
       "acronym": "PAL",
@@ -2262,7 +2262,7 @@
       "mci_volume": 0.239,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/PAL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PAL/coronal_.png"
     },
     {
       "acronym": "GPe",
@@ -2278,7 +2278,7 @@
       "mci_volume": 0.55,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/GPe/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/GPe/coronal_.png"
     },
     {
       "acronym": "GPi",
@@ -2302,7 +2302,7 @@
       "mci_volume": 0.14,
       "wt_volume": 0.083,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/GPi/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/GPi/coronal_.png"
     },
     {
       "acronym": "SI",
@@ -2326,7 +2326,7 @@
       "mci_volume": 1.242,
       "wt_volume": 1.019,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SI/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SI/coronal_.png"
     },
     {
       "acronym": "MA",
@@ -2350,7 +2350,7 @@
       "mci_volume": 0.175,
       "wt_volume": 0.558,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MA/coronal_.png"
     },
     {
       "acronym": "MS",
@@ -2374,7 +2374,7 @@
       "mci_volume": 0.548,
       "wt_volume": 0.808,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MS/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MS/coronal_.png"
     },
     {
       "acronym": "NDB",
@@ -2398,7 +2398,7 @@
       "mci_volume": 0.567,
       "wt_volume": 0.219,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/NDB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NDB/coronal_.png"
     },
     {
       "acronym": "TRS",
@@ -2422,7 +2422,7 @@
       "mci_volume": 0.084,
       "wt_volume": 1.521,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/TRS/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TRS/coronal_.png"
     },
     {
       "acronym": "BST",
@@ -2446,7 +2446,7 @@
       "mci_volume": 0.65,
       "wt_volume": 0.181,
       "significance_volume": 0.4922,
-      "src": "src/assets/Centers/BST/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/BST/coronal_.png"
     },
     {
       "acronym": "BAC",
@@ -2470,7 +2470,7 @@
       "mci_volume": 0.003,
       "wt_volume": 0.41,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/BAC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/BAC/coronal_.png"
     },
     {
       "acronym": "TH",
@@ -2494,7 +2494,7 @@
       "mci_volume": 1.183,
       "wt_volume": 0.354,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/TH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TH/coronal_.png"
     },
     {
       "acronym": "VAL",
@@ -2518,7 +2518,7 @@
       "mci_volume": 0.33,
       "wt_volume": 0.173,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VAL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VAL/coronal_.png"
     },
     {
       "acronym": "VM",
@@ -2542,7 +2542,7 @@
       "mci_volume": 0.335,
       "wt_volume": 0.767,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VM/coronal_.png"
     },
     {
       "acronym": "VPL",
@@ -2566,7 +2566,7 @@
       "mci_volume": 0.211,
       "wt_volume": 0.004,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VPL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VPL/coronal_.png"
     },
     {
       "acronym": "VPLpc",
@@ -2590,7 +2590,7 @@
       "mci_volume": 0.015,
       "wt_volume": 0.467,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VPLpc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VPLpc/coronal_.png"
     },
     {
       "acronym": "VPM",
@@ -2614,7 +2614,7 @@
       "mci_volume": 0.668,
       "wt_volume": 0.442,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VPM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VPM/coronal_.png"
     },
     {
       "acronym": "VPMpc",
@@ -2638,7 +2638,7 @@
       "mci_volume": 0.062,
       "wt_volume": 0.497,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VPMpc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VPMpc/coronal_.png"
     },
     {
       "acronym": "SPFm",
@@ -2662,7 +2662,7 @@
       "mci_volume": 0.034,
       "wt_volume": 0.478,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SPFm/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SPFm/coronal_.png"
     },
     {
       "acronym": "SPFp",
@@ -2686,7 +2686,7 @@
       "mci_volume": 0.137,
       "wt_volume": 0.053,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SPFp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SPFp/coronal_.png"
     },
     {
       "acronym": "SPA",
@@ -2710,7 +2710,7 @@
       "mci_volume": 0.029,
       "wt_volume": 0.855,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SPA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SPA/coronal_.png"
     },
     {
       "acronym": "PP",
@@ -2734,7 +2734,7 @@
       "mci_volume": 0.025,
       "wt_volume": 0.108,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PP/coronal_.png"
     },
     {
       "acronym": "MG",
@@ -2750,7 +2750,7 @@
       "mci_volume": 0.27,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/MG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MG/coronal_.png"
     },
     {
       "acronym": "LGd",
@@ -2774,7 +2774,7 @@
       "mci_volume": 0.33,
       "wt_volume": 0.034,
       "significance_volume": 0.3878,
-      "src": "src/assets/Centers/LGd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LGd/coronal_.png"
     },
     {
       "acronym": "LP",
@@ -2798,7 +2798,7 @@
       "mci_volume": 0.519,
       "wt_volume": 0.076,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LP/coronal_.png"
     },
     {
       "acronym": "PO",
@@ -2822,7 +2822,7 @@
       "mci_volume": 0.546,
       "wt_volume": 0.124,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PO/coronal_.png"
     },
     {
       "acronym": "POL",
@@ -2846,7 +2846,7 @@
       "mci_volume": 0.057,
       "wt_volume": 0.032,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/POL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/POL/coronal_.png"
     },
     {
       "acronym": "SGN",
@@ -2862,7 +2862,7 @@
       "mci_volume": 0.016,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/SGN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SGN/coronal_.png"
     },
     {
       "acronym": "AV",
@@ -2878,7 +2878,7 @@
       "mci_volume": 0.191,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/AV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AV/coronal_.png"
     },
     {
       "acronym": "AM",
@@ -2894,7 +2894,7 @@
       "mci_volume": 0.166,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/AM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AM/coronal_.png"
     },
     {
       "acronym": "AD",
@@ -2910,7 +2910,7 @@
       "mci_volume": 0.07,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/AD/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AD/coronal_.png"
     },
     {
       "acronym": "IAM",
@@ -2926,7 +2926,7 @@
       "mci_volume": 0.021,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/IAM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IAM/coronal_.png"
     },
     {
       "acronym": "IAD",
@@ -2942,7 +2942,7 @@
       "mci_volume": 0.043,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/IAD/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IAD/coronal_.png"
     },
     {
       "acronym": "LD",
@@ -2966,7 +2966,7 @@
       "mci_volume": 0.475,
       "wt_volume": 0.637,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LD/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LD/coronal_.png"
     },
     {
       "acronym": "IMD",
@@ -2990,7 +2990,7 @@
       "mci_volume": 0.136,
       "wt_volume": 0.614,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IMD/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IMD/coronal_.png"
     },
     {
       "acronym": "MD",
@@ -3014,7 +3014,7 @@
       "mci_volume": 0.618,
       "wt_volume": 0.104,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MD/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MD/coronal_.png"
     },
     {
       "acronym": "SMT",
@@ -3038,7 +3038,7 @@
       "mci_volume": 0.082,
       "wt_volume": 0.097,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SMT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SMT/coronal_.png"
     },
     {
       "acronym": "PR",
@@ -3054,7 +3054,7 @@
       "mci_volume": 0.008,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/PR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PR/coronal_.png"
     },
     {
       "acronym": "PVT",
@@ -3078,7 +3078,7 @@
       "mci_volume": 0.336,
       "wt_volume": 0.214,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PVT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PVT/coronal_.png"
     },
     {
       "acronym": "PT",
@@ -3094,7 +3094,7 @@
       "mci_volume": 0.129,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/PT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PT/coronal_.png"
     },
     {
       "acronym": "RE",
@@ -3110,7 +3110,7 @@
       "mci_volume": 0.266,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/RE/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RE/coronal_.png"
     },
     {
       "acronym": "RH",
@@ -3134,7 +3134,7 @@
       "mci_volume": 0.05,
       "wt_volume": 0.079,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/RH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RH/coronal_.png"
     },
     {
       "acronym": "CM",
@@ -3158,7 +3158,7 @@
       "mci_volume": 0.141,
       "wt_volume": 0.019,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/CM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CM/coronal_.png"
     },
     {
       "acronym": "PCN",
@@ -3182,7 +3182,7 @@
       "mci_volume": 0.123,
       "wt_volume": 0.051,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PCN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PCN/coronal_.png"
     },
     {
       "acronym": "CL",
@@ -3206,7 +3206,7 @@
       "mci_volume": 0.116,
       "wt_volume": 0.511,
       "significance_volume": 0.0136,
-      "src": "src/assets/Centers/CL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CL/coronal_.png"
     },
     {
       "acronym": "PF",
@@ -3230,7 +3230,7 @@
       "mci_volume": 0.197,
       "wt_volume": 0.17,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PF/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PF/coronal_.png"
     },
     {
       "acronym": "RT",
@@ -3254,7 +3254,7 @@
       "mci_volume": 0.524,
       "wt_volume": 0.649,
       "significance_volume": 0.0013,
-      "src": "src/assets/Centers/RT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RT/coronal_.png"
     },
     {
       "acronym": "IGL",
@@ -3278,7 +3278,7 @@
       "mci_volume": 0.036,
       "wt_volume": 0.161,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IGL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IGL/coronal_.png"
     },
     {
       "acronym": "LGv",
@@ -3302,7 +3302,7 @@
       "mci_volume": 0.199,
       "wt_volume": 0.072,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LGv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LGv/coronal_.png"
     },
     {
       "acronym": "SubG",
@@ -3326,7 +3326,7 @@
       "mci_volume": 0.01,
       "wt_volume": 0.42,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SubG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SubG/coronal_.png"
     },
     {
       "acronym": "MH",
@@ -3350,7 +3350,7 @@
       "mci_volume": 0.127,
       "wt_volume": 0.122,
       "significance_volume": 0.0002,
-      "src": "src/assets/Centers/MH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MH/coronal_.png"
     },
     {
       "acronym": "LH",
@@ -3374,7 +3374,7 @@
       "mci_volume": 0.151,
       "wt_volume": 0.22,
       "significance_volume": 0.0161,
-      "src": "src/assets/Centers/LH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LH/coronal_.png"
     },
     {
       "acronym": "HY",
@@ -3390,7 +3390,7 @@
       "mci_volume": 1.67,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/HY/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/HY/coronal_.png"
     },
     {
       "acronym": "SO",
@@ -3414,7 +3414,7 @@
       "mci_volume": 0.03,
       "wt_volume": 0.048,
       "significance_volume": 0.3504,
-      "src": "src/assets/Centers/SO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SO/coronal_.png"
     },
     {
       "acronym": "ASO",
@@ -3438,7 +3438,7 @@
       "mci_volume": 0.001,
       "wt_volume": 0.236,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ASO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ASO/coronal_.png"
     },
     {
       "acronym": "PVH",
@@ -3462,7 +3462,7 @@
       "mci_volume": 0.106,
       "wt_volume": 0.116,
       "significance_volume": 0.0004,
-      "src": "src/assets/Centers/PVH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PVH/coronal_.png"
     },
     {
       "acronym": "PVa",
@@ -3486,7 +3486,7 @@
       "mci_volume": 0.005,
       "wt_volume": 0.169,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PVa/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PVa/coronal_.png"
     },
     {
       "acronym": "PVi",
@@ -3510,7 +3510,7 @@
       "mci_volume": 0.042,
       "wt_volume": 0.236,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PVi/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PVi/coronal_.png"
     },
     {
       "acronym": "ARH",
@@ -3526,7 +3526,7 @@
       "mci_volume": 0.137,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/ARH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ARH/coronal_.png"
     },
     {
       "acronym": "ADP",
@@ -3550,7 +3550,7 @@
       "mci_volume": 0.014,
       "wt_volume": 0.801,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ADP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ADP/coronal_.png"
     },
     {
       "acronym": "AVP",
@@ -3574,7 +3574,7 @@
       "mci_volume": 0.031,
       "wt_volume": 0.039,
       "significance_volume": 0.0203,
-      "src": "src/assets/Centers/AVP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AVP/coronal_.png"
     },
     {
       "acronym": "AVPV",
@@ -3590,7 +3590,7 @@
       "mci_volume": 0.025,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/AVPV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AVPV/coronal_.png"
     },
     {
       "acronym": "DMH",
@@ -3614,7 +3614,7 @@
       "mci_volume": 0.172,
       "wt_volume": 0.228,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/DMH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DMH/coronal_.png"
     },
     {
       "acronym": "MEPO",
@@ -3638,7 +3638,7 @@
       "mci_volume": 0.128,
       "wt_volume": 0.015,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MEPO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MEPO/coronal_.png"
     },
     {
       "acronym": "MPO",
@@ -3662,7 +3662,7 @@
       "mci_volume": 0.34,
       "wt_volume": 0.144,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MPO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MPO/coronal_.png"
     },
     {
       "acronym": "OV",
@@ -3686,7 +3686,7 @@
       "mci_volume": 0.009,
       "wt_volume": 0.167,
       "significance_volume": 0.0002,
-      "src": "src/assets/Centers/OV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/OV/coronal_.png"
     },
     {
       "acronym": "PD",
@@ -3710,7 +3710,7 @@
       "mci_volume": 0.001,
       "wt_volume": 1.265,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PD/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PD/coronal_.png"
     },
     {
       "acronym": "PS",
@@ -3734,7 +3734,7 @@
       "mci_volume": 0.011,
       "wt_volume": 0.025,
       "significance_volume": 0.0047,
-      "src": "src/assets/Centers/PS/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PS/coronal_.png"
     },
     {
       "acronym": "PVp",
@@ -3758,7 +3758,7 @@
       "mci_volume": 0.053,
       "wt_volume": 0.003,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PVp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PVp/coronal_.png"
     },
     {
       "acronym": "PVpo",
@@ -3782,7 +3782,7 @@
       "mci_volume": 0.036,
       "wt_volume": 0.1,
       "significance_volume": 0.5224,
-      "src": "src/assets/Centers/PVpo/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PVpo/coronal_.png"
     },
     {
       "acronym": "SBPV",
@@ -3806,7 +3806,7 @@
       "mci_volume": 0.058,
       "wt_volume": 0.034,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SBPV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SBPV/coronal_.png"
     },
     {
       "acronym": "SCH",
@@ -3830,7 +3830,7 @@
       "mci_volume": 0.041,
       "wt_volume": 0.235,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SCH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SCH/coronal_.png"
     },
     {
       "acronym": "SFO",
@@ -3854,7 +3854,7 @@
       "mci_volume": 0.014,
       "wt_volume": 0.137,
       "significance_volume": 0.9855,
-      "src": "src/assets/Centers/SFO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SFO/coronal_.png"
     },
     {
       "acronym": "VLPO",
@@ -3878,7 +3878,7 @@
       "mci_volume": 0.017,
       "wt_volume": 0.057,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VLPO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VLPO/coronal_.png"
     },
     {
       "acronym": "AHN",
@@ -3902,7 +3902,7 @@
       "mci_volume": 0.33,
       "wt_volume": 0.048,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AHN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AHN/coronal_.png"
     },
     {
       "acronym": "LM",
@@ -3926,7 +3926,7 @@
       "mci_volume": 0.023,
       "wt_volume": 0.089,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LM/coronal_.png"
     },
     {
       "acronym": "MM",
@@ -3950,7 +3950,7 @@
       "mci_volume": 0.367,
       "wt_volume": 0.178,
       "significance_volume": 0.1177,
-      "src": "src/assets/Centers/MM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MM/coronal_.png"
     },
     {
       "acronym": "SUM",
@@ -3974,7 +3974,7 @@
       "mci_volume": 0.123,
       "wt_volume": 0.048,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SUM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SUM/coronal_.png"
     },
     {
       "acronym": "TMd",
@@ -3998,7 +3998,7 @@
       "mci_volume": 0.005,
       "wt_volume": 0.282,
       "significance_volume": 0.0002,
-      "src": "src/assets/Centers/TMd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TMd/coronal_.png"
     },
     {
       "acronym": "TMv",
@@ -4022,7 +4022,7 @@
       "mci_volume": 0.018,
       "wt_volume": 0.008,
       "significance_volume": 0.5245,
-      "src": "src/assets/Centers/TMv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TMv/coronal_.png"
     },
     {
       "acronym": "MPN",
@@ -4046,7 +4046,7 @@
       "mci_volume": 0.08,
       "wt_volume": 0.007,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MPN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MPN/coronal_.png"
     },
     {
       "acronym": "PMd",
@@ -4070,7 +4070,7 @@
       "mci_volume": 0.043,
       "wt_volume": 0.047,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PMd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PMd/coronal_.png"
     },
     {
       "acronym": "PMv",
@@ -4094,7 +4094,7 @@
       "mci_volume": 0.04,
       "wt_volume": 0.062,
       "significance_volume": 0.0386,
-      "src": "src/assets/Centers/PMv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PMv/coronal_.png"
     },
     {
       "acronym": "PVHd",
@@ -4118,7 +4118,7 @@
       "mci_volume": 0.018,
       "wt_volume": 0.168,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PVHd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PVHd/coronal_.png"
     },
     {
       "acronym": "VMH",
@@ -4142,7 +4142,7 @@
       "mci_volume": 0.18,
       "wt_volume": 0.05,
       "significance_volume": 0.1962,
-      "src": "src/assets/Centers/VMH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VMH/coronal_.png"
     },
     {
       "acronym": "PH",
@@ -4166,7 +4166,7 @@
       "mci_volume": 0.384,
       "wt_volume": 0.034,
       "significance_volume": 0.261,
-      "src": "src/assets/Centers/PH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PH/coronal_.png"
     },
     {
       "acronym": "LHA",
@@ -4190,7 +4190,7 @@
       "mci_volume": 1.639,
       "wt_volume": 0.009,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/LHA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LHA/coronal_.png"
     },
     {
       "acronym": "LPO",
@@ -4206,7 +4206,7 @@
       "mci_volume": 0.358,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/LPO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LPO/coronal_.png"
     },
     {
       "acronym": "PST",
@@ -4230,7 +4230,7 @@
       "mci_volume": 0.006,
       "wt_volume": 0.034,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PST/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PST/coronal_.png"
     },
     {
       "acronym": "PSTN",
@@ -4254,7 +4254,7 @@
       "mci_volume": 0.036,
       "wt_volume": 0.374,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/PSTN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PSTN/coronal_.png"
     },
     {
       "acronym": "RCH",
@@ -4278,7 +4278,7 @@
       "mci_volume": 0.104,
       "wt_volume": 0.04,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/RCH/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RCH/coronal_.png"
     },
     {
       "acronym": "STN",
@@ -4294,7 +4294,7 @@
       "mci_volume": 0.073,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/STN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/STN/coronal_.png"
     },
     {
       "acronym": "TU",
@@ -4310,7 +4310,7 @@
       "mci_volume": 0.234,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/TU/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TU/coronal_.png"
     },
     {
       "acronym": "ZI",
@@ -4326,7 +4326,7 @@
       "mci_volume": 0.557,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/ZI/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ZI/coronal_.png"
     },
     {
       "acronym": "FF",
@@ -4342,7 +4342,7 @@
       "mci_volume": 0.025,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/FF/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/FF/coronal_.png"
     },
     {
       "acronym": "MB",
@@ -4358,7 +4358,7 @@
       "mci_volume": 1.942,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/MB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MB/coronal_.png"
     },
     {
       "acronym": "SCs",
@@ -4382,7 +4382,7 @@
       "mci_volume": 0.965,
       "wt_volume": 0.128,
       "significance_volume": 0.2773,
-      "src": "src/assets/Centers/SCs/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SCs/coronal_.png"
     },
     {
       "acronym": "IC",
@@ -4406,7 +4406,7 @@
       "mci_volume": 2.556,
       "wt_volume": 0.014,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IC/coronal_.png"
     },
     {
       "acronym": "NB",
@@ -4430,7 +4430,7 @@
       "mci_volume": 0.071,
       "wt_volume": 0.054,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/NB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NB/coronal_.png"
     },
     {
       "acronym": "SAG",
@@ -4454,7 +4454,7 @@
       "mci_volume": 0.047,
       "wt_volume": 0.207,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SAG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SAG/coronal_.png"
     },
     {
       "acronym": "PBG",
@@ -4478,7 +4478,7 @@
       "mci_volume": 0.04,
       "wt_volume": 0.064,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PBG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PBG/coronal_.png"
     },
     {
       "acronym": "MEV",
@@ -4502,7 +4502,7 @@
       "mci_volume": 0.017,
       "wt_volume": 0.09,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MEV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MEV/coronal_.png"
     },
     {
       "acronym": "SNr",
@@ -4526,7 +4526,7 @@
       "mci_volume": 1.013,
       "wt_volume": 0.068,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SNr/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SNr/coronal_.png"
     },
     {
       "acronym": "VTA",
@@ -4550,7 +4550,7 @@
       "mci_volume": 0.393,
       "wt_volume": 0.266,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VTA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VTA/coronal_.png"
     },
     {
       "acronym": "RR",
@@ -4574,7 +4574,7 @@
       "mci_volume": 0.234,
       "wt_volume": 0.342,
       "significance_volume": 0.026,
-      "src": "src/assets/Centers/RR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RR/coronal_.png"
     },
     {
       "acronym": "MRN",
@@ -4598,7 +4598,7 @@
       "mci_volume": 2.432,
       "wt_volume": 1.096,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MRN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MRN/coronal_.png"
     },
     {
       "acronym": "SCm",
@@ -4622,7 +4622,7 @@
       "mci_volume": 2.606,
       "wt_volume": 0.288,
       "significance_volume": 0.011,
-      "src": "src/assets/Centers/SCm/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SCm/coronal_.png"
     },
     {
       "acronym": "SCig",
@@ -4646,7 +4646,7 @@
       "mci_volume": 0.283,
       "wt_volume": 0.007,
       "significance_volume": 0.007,
-      "src": "src/assets/Centers/SCig/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SCig/coronal_.png"
     },
     {
       "acronym": "PAG",
@@ -4670,7 +4670,7 @@
       "mci_volume": 3.598,
       "wt_volume": 0.086,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PAG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PAG/coronal_.png"
     },
     {
       "acronym": "PRC",
@@ -4686,7 +4686,7 @@
       "mci_volume": 0.038,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/PRC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PRC/coronal_.png"
     },
     {
       "acronym": "INC",
@@ -4710,7 +4710,7 @@
       "mci_volume": 0.024,
       "wt_volume": 0.079,
       "significance_volume": 0.0002,
-      "src": "src/assets/Centers/INC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/INC/coronal_.png"
     },
     {
       "acronym": "ND",
@@ -4734,7 +4734,7 @@
       "mci_volume": 0.013,
       "wt_volume": 0.108,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ND/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ND/coronal_.png"
     },
     {
       "acronym": "APN",
@@ -4758,7 +4758,7 @@
       "mci_volume": 0.544,
       "wt_volume": 0.255,
       "significance_volume": 0.0335,
-      "src": "src/assets/Centers/APN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/APN/coronal_.png"
     },
     {
       "acronym": "MPT",
@@ -4782,7 +4782,7 @@
       "mci_volume": 0.049,
       "wt_volume": 0.85,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MPT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MPT/coronal_.png"
     },
     {
       "acronym": "NOT",
@@ -4806,7 +4806,7 @@
       "mci_volume": 0.038,
       "wt_volume": 0.122,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/NOT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NOT/coronal_.png"
     },
     {
       "acronym": "NPC",
@@ -4822,7 +4822,7 @@
       "mci_volume": 0.103,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/NPC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NPC/coronal_.png"
     },
     {
       "acronym": "OP",
@@ -4846,7 +4846,7 @@
       "mci_volume": 0.034,
       "wt_volume": 3.561,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/OP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/OP/coronal_.png"
     },
     {
       "acronym": "PPT",
@@ -4870,7 +4870,7 @@
       "mci_volume": 0.033,
       "wt_volume": 0.976,
       "significance_volume": 0.5454,
-      "src": "src/assets/Centers/PPT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PPT/coronal_.png"
     },
     {
       "acronym": "CUN",
@@ -4886,7 +4886,7 @@
       "mci_volume": 0.15,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/CUN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CUN/coronal_.png"
     },
     {
       "acronym": "RN",
@@ -4902,7 +4902,7 @@
       "mci_volume": 0.294,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/RN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RN/coronal_.png"
     },
     {
       "acronym": "III",
@@ -4918,7 +4918,7 @@
       "mci_volume": 0.015,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/III/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/III/coronal_.png"
     },
     {
       "acronym": "EW",
@@ -4942,7 +4942,7 @@
       "mci_volume": 0.023,
       "wt_volume": 0.043,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/EW/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/EW/coronal_.png"
     },
     {
       "acronym": "IV",
@@ -4966,7 +4966,7 @@
       "mci_volume": 0.003,
       "wt_volume": 0.052,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/IV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IV/coronal_.png"
     },
     {
       "acronym": "VTN",
@@ -4990,7 +4990,7 @@
       "mci_volume": 0.017,
       "wt_volume": 0.02,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VTN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VTN/coronal_.png"
     },
     {
       "acronym": "AT",
@@ -5014,7 +5014,7 @@
       "mci_volume": 0.007,
       "wt_volume": 0.004,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AT/coronal_.png"
     },
     {
       "acronym": "LT",
@@ -5030,7 +5030,7 @@
       "mci_volume": 0.003,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/LT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LT/coronal_.png"
     },
     {
       "acronym": "SNc",
@@ -5054,7 +5054,7 @@
       "mci_volume": 0.114,
       "wt_volume": 0.808,
       "significance_volume": 0.0067,
-      "src": "src/assets/Centers/SNc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SNc/coronal_.png"
     },
     {
       "acronym": "PPN",
@@ -5078,7 +5078,7 @@
       "mci_volume": 0.262,
       "wt_volume": 0.211,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PPN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PPN/coronal_.png"
     },
     {
       "acronym": "IF",
@@ -5094,7 +5094,7 @@
       "mci_volume": 0.03,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/IF/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IF/coronal_.png"
     },
     {
       "acronym": "IPN",
@@ -5118,7 +5118,7 @@
       "mci_volume": 0.274,
       "wt_volume": 0.072,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IPN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IPN/coronal_.png"
     },
     {
       "acronym": "RL",
@@ -5142,7 +5142,7 @@
       "mci_volume": 0.007,
       "wt_volume": 2.793,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/RL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RL/coronal_.png"
     },
     {
       "acronym": "CLI",
@@ -5166,7 +5166,7 @@
       "mci_volume": 0.073,
       "wt_volume": 2.453,
       "significance_volume": 0.0206,
-      "src": "src/assets/Centers/CLI/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CLI/coronal_.png"
     },
     {
       "acronym": "DR",
@@ -5190,7 +5190,7 @@
       "mci_volume": 0.107,
       "wt_volume": 1.983,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/DR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DR/coronal_.png"
     },
     {
       "acronym": "P",
@@ -5214,7 +5214,7 @@
       "mci_volume": 1.232,
       "wt_volume": 0.086,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/P/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/P/coronal_.png"
     },
     {
       "acronym": "NLL",
@@ -5238,7 +5238,7 @@
       "mci_volume": 0.264,
       "wt_volume": 0.043,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/NLL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NLL/coronal_.png"
     },
     {
       "acronym": "PSV",
@@ -5262,7 +5262,7 @@
       "mci_volume": 0.383,
       "wt_volume": 0.049,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PSV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PSV/coronal_.png"
     },
     {
       "acronym": "PB",
@@ -5278,7 +5278,7 @@
       "mci_volume": 0.437,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/PB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PB/coronal_.png"
     },
     {
       "acronym": "POR",
@@ -5302,7 +5302,7 @@
       "mci_volume": 0.029,
       "wt_volume": 0.673,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/POR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/POR/coronal_.png"
     },
     {
       "acronym": "SOCm",
@@ -5326,7 +5326,7 @@
       "mci_volume": 0.036,
       "wt_volume": 0.02,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SOCm/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SOCm/coronal_.png"
     },
     {
       "acronym": "SOCl",
@@ -5350,7 +5350,7 @@
       "mci_volume": 0.053,
       "wt_volume": 0.107,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SOCl/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SOCl/coronal_.png"
     },
     {
       "acronym": "B",
@@ -5374,7 +5374,7 @@
       "mci_volume": 0.016,
       "wt_volume": 0.14,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/B/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/B/coronal_.png"
     },
     {
       "acronym": "DTN",
@@ -5398,7 +5398,7 @@
       "mci_volume": 0.039,
       "wt_volume": 0.03,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/DTN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DTN/coronal_.png"
     },
     {
       "acronym": "PCG",
@@ -5422,7 +5422,7 @@
       "mci_volume": 0.271,
       "wt_volume": 0.066,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PCG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PCG/coronal_.png"
     },
     {
       "acronym": "PG",
@@ -5438,7 +5438,7 @@
       "mci_volume": 0.322,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/PG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PG/coronal_.png"
     },
     {
       "acronym": "PRNc",
@@ -5462,7 +5462,7 @@
       "mci_volume": 1.534,
       "wt_volume": 0.284,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PRNc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PRNc/coronal_.png"
     },
     {
       "acronym": "SG",
@@ -5486,7 +5486,7 @@
       "mci_volume": 0.006,
       "wt_volume": 0.409,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SG/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SG/coronal_.png"
     },
     {
       "acronym": "SUT",
@@ -5510,7 +5510,7 @@
       "mci_volume": 0.09,
       "wt_volume": 0.018,
       "significance_volume": 0.0006,
-      "src": "src/assets/Centers/SUT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SUT/coronal_.png"
     },
     {
       "acronym": "TRN",
@@ -5526,7 +5526,7 @@
       "mci_volume": 0.211,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/TRN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/TRN/coronal_.png"
     },
     {
       "acronym": "V",
@@ -5550,7 +5550,7 @@
       "mci_volume": 0.193,
       "wt_volume": 0.023,
       "significance_volume": 0.8418,
-      "src": "src/assets/Centers/V/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/V/coronal_.png"
     },
     {
       "acronym": "CS",
@@ -5574,7 +5574,7 @@
       "mci_volume": 0.639,
       "wt_volume": 0.004,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/CS/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CS/coronal_.png"
     },
     {
       "acronym": "LC",
@@ -5590,7 +5590,7 @@
       "mci_volume": 0.007,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/LC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LC/coronal_.png"
     },
     {
       "acronym": "LDT",
@@ -5614,7 +5614,7 @@
       "mci_volume": 0.052,
       "wt_volume": 0.018,
       "significance_volume": 0.1544,
-      "src": "src/assets/Centers/LDT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LDT/coronal_.png"
     },
     {
       "acronym": "NI",
@@ -5638,7 +5638,7 @@
       "mci_volume": 0.058,
       "wt_volume": 0.023,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/NI/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NI/coronal_.png"
     },
     {
       "acronym": "PRNr",
@@ -5662,7 +5662,7 @@
       "mci_volume": 1.15,
       "wt_volume": 0.01,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PRNr/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PRNr/coronal_.png"
     },
     {
       "acronym": "RPO",
@@ -5678,7 +5678,7 @@
       "mci_volume": 0.021,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/RPO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RPO/coronal_.png"
     },
     {
       "acronym": "SLC",
@@ -5694,7 +5694,7 @@
       "mci_volume": 0.015,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/SLC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SLC/coronal_.png"
     },
     {
       "acronym": "SLD",
@@ -5718,7 +5718,7 @@
       "mci_volume": 0.038,
       "wt_volume": 0.105,
       "significance_volume": 0.1168,
-      "src": "src/assets/Centers/SLD/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SLD/coronal_.png"
     },
     {
       "acronym": "MY",
@@ -5742,7 +5742,7 @@
       "mci_volume": 4.434,
       "wt_volume": 0.455,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MY/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MY/coronal_.png"
     },
     {
       "acronym": "AP",
@@ -5766,7 +5766,7 @@
       "mci_volume": 0.042,
       "wt_volume": 0.048,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AP/coronal_.png"
     },
     {
       "acronym": "DCO",
@@ -5790,7 +5790,7 @@
       "mci_volume": 0.256,
       "wt_volume": 0.007,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/DCO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DCO/coronal_.png"
     },
     {
       "acronym": "VCO",
@@ -5806,7 +5806,7 @@
       "mci_volume": 0.308,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/VCO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VCO/coronal_.png"
     },
     {
       "acronym": "CU",
@@ -5822,7 +5822,7 @@
       "mci_volume": 0.162,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/CU/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CU/coronal_.png"
     },
     {
       "acronym": "GR",
@@ -5838,7 +5838,7 @@
       "mci_volume": 0.034,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/GR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/GR/coronal_.png"
     },
     {
       "acronym": "ECU",
@@ -5854,7 +5854,7 @@
       "mci_volume": 0.056,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/ECU/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ECU/coronal_.png"
     },
     {
       "acronym": "NTB",
@@ -5870,7 +5870,7 @@
       "mci_volume": 0.02,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/NTB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NTB/coronal_.png"
     },
     {
       "acronym": "NTS",
@@ -5886,7 +5886,7 @@
       "mci_volume": 0.246,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/NTS/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NTS/coronal_.png"
     },
     {
       "acronym": "SPVC",
@@ -5902,7 +5902,7 @@
       "mci_volume": 0.68,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/SPVC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SPVC/coronal_.png"
     },
     {
       "acronym": "SPVI",
@@ -5918,7 +5918,7 @@
       "mci_volume": 0.514,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/SPVI/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SPVI/coronal_.png"
     },
     {
       "acronym": "SPVO",
@@ -5942,7 +5942,7 @@
       "mci_volume": 0.2,
       "wt_volume": 0.058,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SPVO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SPVO/coronal_.png"
     },
     {
       "acronym": "VI",
@@ -5966,7 +5966,7 @@
       "mci_volume": 0.008,
       "wt_volume": 0.042,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VI/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VI/coronal_.png"
     },
     {
       "acronym": "VII",
@@ -5990,7 +5990,7 @@
       "mci_volume": 0.348,
       "wt_volume": 0.146,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VII/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VII/coronal_.png"
     },
     {
       "acronym": "ACVII",
@@ -6014,7 +6014,7 @@
       "mci_volume": 0.003,
       "wt_volume": 1.705,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/ACVII/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ACVII/coronal_.png"
     },
     {
       "acronym": "AMBd",
@@ -6038,7 +6038,7 @@
       "mci_volume": 0.01,
       "wt_volume": 0.371,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AMBd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AMBd/coronal_.png"
     },
     {
       "acronym": "AMBv",
@@ -6062,7 +6062,7 @@
       "mci_volume": 0.01,
       "wt_volume": 0.559,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AMBv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AMBv/coronal_.png"
     },
     {
       "acronym": "DMX",
@@ -6086,7 +6086,7 @@
       "mci_volume": 0.031,
       "wt_volume": 0.484,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/DMX/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DMX/coronal_.png"
     },
     {
       "acronym": "GRN",
@@ -6102,7 +6102,7 @@
       "mci_volume": 1.201,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/GRN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/GRN/coronal_.png"
     },
     {
       "acronym": "ICB",
@@ -6126,7 +6126,7 @@
       "mci_volume": 0.004,
       "wt_volume": 0.18,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ICB/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ICB/coronal_.png"
     },
     {
       "acronym": "IO",
@@ -6150,7 +6150,7 @@
       "mci_volume": 0.238,
       "wt_volume": 0.1,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IO/coronal_.png"
     },
     {
       "acronym": "IRN",
@@ -6174,7 +6174,7 @@
       "mci_volume": 1.404,
       "wt_volume": 0.165,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IRN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IRN/coronal_.png"
     },
     {
       "acronym": "ISN",
@@ -6198,7 +6198,7 @@
       "mci_volume": 0.004,
       "wt_volume": 0.009,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ISN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ISN/coronal_.png"
     },
     {
       "acronym": "LIN",
@@ -6222,7 +6222,7 @@
       "mci_volume": 0.016,
       "wt_volume": 0.054,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LIN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LIN/coronal_.png"
     },
     {
       "acronym": "LRN",
@@ -6238,7 +6238,7 @@
       "mci_volume": 0.206,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/LRN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LRN/coronal_.png"
     },
     {
       "acronym": "MARN",
@@ -6262,7 +6262,7 @@
       "mci_volume": 0.275,
       "wt_volume": 0.262,
       "significance_volume": 0.2209,
-      "src": "src/assets/Centers/MARN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MARN/coronal_.png"
     },
     {
       "acronym": "MDRNd",
@@ -6286,7 +6286,7 @@
       "mci_volume": 0.206,
       "wt_volume": 0.475,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MDRNd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MDRNd/coronal_.png"
     },
     {
       "acronym": "MDRNv",
@@ -6310,7 +6310,7 @@
       "mci_volume": 0.392,
       "wt_volume": 1.127,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MDRNv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MDRNv/coronal_.png"
     },
     {
       "acronym": "PARN",
@@ -6334,7 +6334,7 @@
       "mci_volume": 0.971,
       "wt_volume": 0.01,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PARN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PARN/coronal_.png"
     },
     {
       "acronym": "PAS",
@@ -6358,7 +6358,7 @@
       "mci_volume": 0.007,
       "wt_volume": 0.137,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PAS/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PAS/coronal_.png"
     },
     {
       "acronym": "PGRNd",
@@ -6382,7 +6382,7 @@
       "mci_volume": 0.056,
       "wt_volume": 0.365,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PGRNd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PGRNd/coronal_.png"
     },
     {
       "acronym": "PGRNl",
@@ -6406,7 +6406,7 @@
       "mci_volume": 0.291,
       "wt_volume": 0.183,
       "significance_volume": 0.1684,
-      "src": "src/assets/Centers/PGRNl/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PGRNl/coronal_.png"
     },
     {
       "acronym": "NR",
@@ -6422,7 +6422,7 @@
       "mci_volume": 0.009,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/NR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NR/coronal_.png"
     },
     {
       "acronym": "PRP",
@@ -6438,7 +6438,7 @@
       "mci_volume": 0.063,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/PRP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PRP/coronal_.png"
     },
     {
       "acronym": "PPY",
@@ -6454,7 +6454,7 @@
       "mci_volume": 0.013,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/PPY/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PPY/coronal_.png"
     },
     {
       "acronym": "LAV",
@@ -6470,7 +6470,7 @@
       "mci_volume": 0.063,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/LAV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LAV/coronal_.png"
     },
     {
       "acronym": "MV",
@@ -6494,7 +6494,7 @@
       "mci_volume": 0.635,
       "wt_volume": 0.319,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/MV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/MV/coronal_.png"
     },
     {
       "acronym": "SPIV",
@@ -6518,7 +6518,7 @@
       "mci_volume": 0.307,
       "wt_volume": 0.008,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SPIV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SPIV/coronal_.png"
     },
     {
       "acronym": "SUV",
@@ -6542,7 +6542,7 @@
       "mci_volume": 0.151,
       "wt_volume": 0.109,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SUV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SUV/coronal_.png"
     },
     {
       "acronym": "x",
@@ -6566,7 +6566,7 @@
       "mci_volume": 0.029,
       "wt_volume": 0.057,
       "significance_volume": 0.87,
-      "src": "src/assets/Centers/x/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/x/coronal_.png"
     },
     {
       "acronym": "XII",
@@ -6590,7 +6590,7 @@
       "mci_volume": 0.214,
       "wt_volume": 1.222,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/XII/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/XII/coronal_.png"
     },
     {
       "acronym": "y",
@@ -6614,7 +6614,7 @@
       "mci_volume": 0.009,
       "wt_volume": 0.054,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/y/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/y/coronal_.png"
     },
     {
       "acronym": "RM",
@@ -6638,7 +6638,7 @@
       "mci_volume": 0.11,
       "wt_volume": 0.014,
       "significance_volume": 0.0002,
-      "src": "src/assets/Centers/RM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RM/coronal_.png"
     },
     {
       "acronym": "RPA",
@@ -6662,7 +6662,7 @@
       "mci_volume": 0.027,
       "wt_volume": 0.025,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/RPA/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RPA/coronal_.png"
     },
     {
       "acronym": "RO",
@@ -6686,7 +6686,7 @@
       "mci_volume": 0.015,
       "wt_volume": 2.36,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/RO/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/RO/coronal_.png"
     },
     {
       "acronym": "LING",
@@ -6710,7 +6710,7 @@
       "mci_volume": 0.05,
       "wt_volume": 0.066,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/LING/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/LING/coronal_.png"
     },
     {
       "acronym": "CENT",
@@ -6734,7 +6734,7 @@
       "mci_volume": 1.516,
       "wt_volume": 0.296,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/CENT/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CENT/coronal_.png"
     },
     {
       "acronym": "CUL",
@@ -6758,7 +6758,7 @@
       "mci_volume": 2.841,
       "wt_volume": 0.516,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/CUL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/CUL/coronal_.png"
     },
     {
       "acronym": "DEC",
@@ -6782,7 +6782,7 @@
       "mci_volume": 1.61,
       "wt_volume": 0.188,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/DEC/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DEC/coronal_.png"
     },
     {
       "acronym": "FOTU",
@@ -6806,7 +6806,7 @@
       "mci_volume": 0.407,
       "wt_volume": 0.044,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/FOTU/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/FOTU/coronal_.png"
     },
     {
       "acronym": "PYR",
@@ -6830,7 +6830,7 @@
       "mci_volume": 0.33,
       "wt_volume": 0.115,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PYR/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PYR/coronal_.png"
     },
     {
       "acronym": "UVU",
@@ -6854,7 +6854,7 @@
       "mci_volume": 0.828,
       "wt_volume": 0.074,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/UVU/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/UVU/coronal_.png"
     },
     {
       "acronym": "NOD",
@@ -6878,7 +6878,7 @@
       "mci_volume": 0.472,
       "wt_volume": 0.476,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/NOD/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/NOD/coronal_.png"
     },
     {
       "acronym": "SIM",
@@ -6902,7 +6902,7 @@
       "mci_volume": 2.273,
       "wt_volume": 0.891,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/SIM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/SIM/coronal_.png"
     },
     {
       "acronym": "AN",
@@ -6926,7 +6926,7 @@
       "mci_volume": 4.196,
       "wt_volume": 0.978,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AN/coronal_.png"
     },
     {
       "acronym": "PRM",
@@ -6950,7 +6950,7 @@
       "mci_volume": 2.012,
       "wt_volume": 0.494,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PRM/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PRM/coronal_.png"
     },
     {
       "acronym": "COPY",
@@ -6966,7 +6966,7 @@
       "mci_volume": 1.071,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/COPY/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/COPY/coronal_.png"
     },
     {
       "acronym": "PFL",
@@ -6990,7 +6990,7 @@
       "mci_volume": 1.167,
       "wt_volume": 0.016,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/PFL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/PFL/coronal_.png"
     },
     {
       "acronym": "FL",
@@ -7014,7 +7014,7 @@
       "mci_volume": 0.386,
       "wt_volume": 0.448,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/FL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/FL/coronal_.png"
     },
     {
       "acronym": "FN",
@@ -7038,7 +7038,7 @@
       "mci_volume": 0.202,
       "wt_volume": 0.002,
       "significance_volume": 0.0014,
-      "src": "src/assets/Centers/FN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/FN/coronal_.png"
     },
     {
       "acronym": "IP",
@@ -7062,7 +7062,7 @@
       "mci_volume": 0.313,
       "wt_volume": 0.011,
       "significance_volume": 0.0673,
-      "src": "src/assets/Centers/IP/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IP/coronal_.png"
     },
     {
       "acronym": "DN",
@@ -7086,7 +7086,7 @@
       "mci_volume": 0.125,
       "wt_volume": 0.013,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/DN/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/DN/coronal_.png"
     },
     {
       "acronym": "fiber tracts",
@@ -7110,7 +7110,7 @@
       "mci_volume": 1.434,
       "wt_volume": 0.095,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/fiber tracts/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/fiber tracts/coronal_.png"
     },
     {
       "acronym": "von",
@@ -7134,7 +7134,7 @@
       "mci_volume": 0.0,
       "wt_volume": 1.194,
       "significance_volume": 0.8793,
-      "src": "src/assets/Centers/von/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/von/coronal_.png"
     },
     {
       "acronym": "In",
@@ -7158,7 +7158,7 @@
       "mci_volume": 1.657,
       "wt_volume": 0.027,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/In/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/In/coronal_.png"
     },
     {
       "acronym": "lot",
@@ -7182,7 +7182,7 @@
       "mci_volume": 0.593,
       "wt_volume": 0.262,
       "significance_volume": 0.2007,
-      "src": "src/assets/Centers/lot/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/lot/coronal_.png"
     },
     {
       "acronym": "aco",
@@ -7206,7 +7206,7 @@
       "mci_volume": 0.331,
       "wt_volume": 1.515,
       "significance_volume": 0.012,
-      "src": "src/assets/Centers/aco/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/aco/coronal_.png"
     },
     {
       "acronym": "IIn",
@@ -7230,7 +7230,7 @@
       "mci_volume": 0.032,
       "wt_volume": 0.004,
       "significance_volume": 0.6216,
-      "src": "src/assets/Centers/IIn/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IIn/coronal_.png"
     },
     {
       "acronym": "och",
@@ -7254,7 +7254,7 @@
       "mci_volume": 0.135,
       "wt_volume": 0.033,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/och/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/och/coronal_.png"
     },
     {
       "acronym": "opt",
@@ -7270,7 +7270,7 @@
       "mci_volume": 0.297,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/opt/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/opt/coronal_.png"
     },
     {
       "acronym": "mlf",
@@ -7286,7 +7286,7 @@
       "mci_volume": 1.033,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/mlf/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/mlf/coronal_.png"
     },
     {
       "acronym": "pc",
@@ -7310,7 +7310,7 @@
       "mci_volume": 0.025,
       "wt_volume": 0.288,
       "significance_volume": 0.24,
-      "src": "src/assets/Centers/pc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/pc/coronal_.png"
     },
     {
       "acronym": "IVn",
@@ -7334,7 +7334,7 @@
       "mci_volume": 0.003,
       "wt_volume": 0.578,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/IVn/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/IVn/coronal_.png"
     },
     {
       "acronym": "moV",
@@ -7358,7 +7358,7 @@
       "mci_volume": 0.019,
       "wt_volume": 0.506,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/moV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/moV/coronal_.png"
     },
     {
       "acronym": "mtV",
@@ -7382,7 +7382,7 @@
       "mci_volume": 0.005,
       "wt_volume": 1.146,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/mtV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/mtV/coronal_.png"
     },
     {
       "acronym": "sptV",
@@ -7406,7 +7406,7 @@
       "mci_volume": 0.578,
       "wt_volume": 0.016,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/sptV/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/sptV/coronal_.png"
     },
     {
       "acronym": "VIIn",
@@ -7430,7 +7430,7 @@
       "mci_volume": 0.044,
       "wt_volume": 0.127,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/VIIn/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VIIn/coronal_.png"
     },
     {
       "acronym": "vVIIIn",
@@ -7454,7 +7454,7 @@
       "mci_volume": 0.091,
       "wt_volume": 0.359,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/vVIIIn/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/vVIIIn/coronal_.png"
     },
     {
       "acronym": "tb",
@@ -7478,7 +7478,7 @@
       "mci_volume": 0.076,
       "wt_volume": 0.02,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/tb/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/tb/coronal_.png"
     },
     {
       "acronym": "ll",
@@ -7502,7 +7502,7 @@
       "mci_volume": 0.429,
       "wt_volume": 0.137,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ll/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ll/coronal_.png"
     },
     {
       "acronym": "cic",
@@ -7526,7 +7526,7 @@
       "mci_volume": 0.009,
       "wt_volume": 0.045,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/cic/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/cic/coronal_.png"
     },
     {
       "acronym": "bic",
@@ -7550,7 +7550,7 @@
       "mci_volume": 0.167,
       "wt_volume": 0.15,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/bic/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/bic/coronal_.png"
     },
     {
       "acronym": "ts",
@@ -7574,7 +7574,7 @@
       "mci_volume": 0.005,
       "wt_volume": 0.987,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/ts/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ts/coronal_.png"
     },
     {
       "acronym": "cuf",
@@ -7598,7 +7598,7 @@
       "mci_volume": 0.013,
       "wt_volume": 0.392,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/cuf/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/cuf/coronal_.png"
     },
     {
       "acronym": "grf",
@@ -7622,7 +7622,7 @@
       "mci_volume": 0.002,
       "wt_volume": 0.181,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/grf/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/grf/coronal_.png"
     },
     {
       "acronym": "ml",
@@ -7646,7 +7646,7 @@
       "mci_volume": 0.228,
       "wt_volume": 0.026,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/ml/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/ml/coronal_.png"
     },
     {
       "acronym": "scp",
@@ -7670,7 +7670,7 @@
       "mci_volume": 0.211,
       "wt_volume": 0.158,
       "significance_volume": 0.0007,
-      "src": "src/assets/Centers/scp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/scp/coronal_.png"
     },
     {
       "acronym": "mcp",
@@ -7694,7 +7694,7 @@
       "mci_volume": 0.338,
       "wt_volume": 0.01,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/mcp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/mcp/coronal_.png"
     },
     {
       "acronym": "icp",
@@ -7718,7 +7718,7 @@
       "mci_volume": 0.269,
       "wt_volume": 0.131,
       "significance_volume": 0.0689,
-      "src": "src/assets/Centers/icp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/icp/coronal_.png"
     },
     {
       "acronym": "arb",
@@ -7742,7 +7742,7 @@
       "mci_volume": 2.606,
       "wt_volume": 0.065,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/arb/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/arb/coronal_.png"
     },
     {
       "acronym": "cc",
@@ -7766,7 +7766,7 @@
       "mci_volume": 3.046,
       "wt_volume": 0.062,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/cc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/cc/coronal_.png"
     },
     {
       "acronym": "cst",
@@ -7782,7 +7782,7 @@
       "mci_volume": 0.018,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/cst/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/cst/coronal_.png"
     },
     {
       "acronym": "int",
@@ -7806,7 +7806,7 @@
       "mci_volume": 0.823,
       "wt_volume": 0.064,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/int/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/int/coronal_.png"
     },
     {
       "acronym": "cpd",
@@ -7822,7 +7822,7 @@
       "mci_volume": 0.551,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/cpd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/cpd/coronal_.png"
     },
     {
       "acronym": "py",
@@ -7838,7 +7838,7 @@
       "mci_volume": 0.185,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/py/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/py/coronal_.png"
     },
     {
       "acronym": "em",
@@ -7854,7 +7854,7 @@
       "mci_volume": 0.046,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/em/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/em/coronal_.png"
     },
     {
       "acronym": "im",
@@ -7878,7 +7878,7 @@
       "mci_volume": 0.001,
       "wt_volume": 1.804,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/im/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/im/coronal_.png"
     },
     {
       "acronym": "tsp",
@@ -7902,7 +7902,7 @@
       "mci_volume": 0.08,
       "wt_volume": 0.615,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/tsp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/tsp/coronal_.png"
     },
     {
       "acronym": "dtd",
@@ -7926,7 +7926,7 @@
       "mci_volume": 0.018,
       "wt_volume": 0.841,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/dtd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/dtd/coronal_.png"
     },
     {
       "acronym": "rust",
@@ -7950,7 +7950,7 @@
       "mci_volume": 0.14,
       "wt_volume": 1.255,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/rust/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/rust/coronal_.png"
     },
     {
       "acronym": "vtd",
@@ -7974,7 +7974,7 @@
       "mci_volume": 0.03,
       "wt_volume": 0.83,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/vtd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/vtd/coronal_.png"
     },
     {
       "acronym": "amc",
@@ -7998,7 +7998,7 @@
       "mci_volume": 0.024,
       "wt_volume": 2.948,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/amc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/amc/coronal_.png"
     },
     {
       "acronym": "act",
@@ -8014,7 +8014,7 @@
       "mci_volume": 0.06,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/act/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/act/coronal_.png"
     },
     {
       "acronym": "cing",
@@ -8030,7 +8030,7 @@
       "mci_volume": 0.329,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/cing/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/cing/coronal_.png"
     },
     {
       "acronym": "alv",
@@ -8054,7 +8054,7 @@
       "mci_volume": 0.194,
       "wt_volume": 2.426,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/alv/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/alv/coronal_.png"
     },
     {
       "acronym": "df",
@@ -8078,7 +8078,7 @@
       "mci_volume": 0.051,
       "wt_volume": 1.342,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/df/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/df/coronal_.png"
     },
     {
       "acronym": "fi",
@@ -8102,7 +8102,7 @@
       "mci_volume": 0.571,
       "wt_volume": 2.956,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/fi/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/fi/coronal_.png"
     },
     {
       "acronym": "fx",
@@ -8126,7 +8126,7 @@
       "mci_volume": 0.127,
       "wt_volume": 0.674,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/fx/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/fx/coronal_.png"
     },
     {
       "acronym": "dhc",
@@ -8150,7 +8150,7 @@
       "mci_volume": 0.346,
       "wt_volume": 0.25,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/dhc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/dhc/coronal_.png"
     },
     {
       "acronym": "vhc",
@@ -8174,7 +8174,7 @@
       "mci_volume": 0.05,
       "wt_volume": 0.444,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/vhc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/vhc/coronal_.png"
     },
     {
       "acronym": "st",
@@ -8198,7 +8198,7 @@
       "mci_volume": 0.264,
       "wt_volume": 0.157,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/st/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/st/coronal_.png"
     },
     {
       "acronym": "smd",
@@ -8214,7 +8214,7 @@
       "mci_volume": 0.008,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/smd/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/smd/coronal_.png"
     },
     {
       "acronym": "pm",
@@ -8238,7 +8238,7 @@
       "mci_volume": 0.0,
       "wt_volume": 0.504,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/pm/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/pm/coronal_.png"
     },
     {
       "acronym": "mtt",
@@ -8262,7 +8262,7 @@
       "mci_volume": 0.081,
       "wt_volume": 0.006,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/mtt/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/mtt/coronal_.png"
     },
     {
       "acronym": "mtg",
@@ -8286,7 +8286,7 @@
       "mci_volume": 0.077,
       "wt_volume": 2.15,
       "significance_volume": 0.0021,
-      "src": "src/assets/Centers/mtg/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/mtg/coronal_.png"
     },
     {
       "acronym": "mp",
@@ -8310,7 +8310,7 @@
       "mci_volume": 0.015,
       "wt_volume": 0.433,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/mp/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/mp/coronal_.png"
     },
     {
       "acronym": "sm",
@@ -8326,7 +8326,7 @@
       "mci_volume": 0.125,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/sm/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/sm/coronal_.png"
     },
     {
       "acronym": "fr",
@@ -8350,7 +8350,7 @@
       "mci_volume": 0.08,
       "wt_volume": 0.381,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/fr/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/fr/coronal_.png"
     },
     {
       "acronym": "hbc",
@@ -8374,7 +8374,7 @@
       "mci_volume": 0.022,
       "wt_volume": 0.03,
       "significance_volume": 0.4448,
-      "src": "src/assets/Centers/hbc/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/hbc/coronal_.png"
     },
     {
       "acronym": "VS",
@@ -8390,7 +8390,7 @@
       "mci_volume": 0.244,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/VS/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VS/coronal_.png"
     },
     {
       "acronym": "VL",
@@ -8406,7 +8406,7 @@
       "mci_volume": 0.925,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/VL/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/VL/coronal_.png"
     },
     {
       "acronym": "V3",
@@ -8430,7 +8430,7 @@
       "mci_volume": 1.067,
       "wt_volume": 0.159,
       "significance_volume": 0.1755,
-      "src": "src/assets/Centers/V3/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/V3/coronal_.png"
     },
     {
       "acronym": "AQ",
@@ -8454,7 +8454,7 @@
       "mci_volume": 0.431,
       "wt_volume": 0.367,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/AQ/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/AQ/coronal_.png"
     },
     {
       "acronym": "V4",
@@ -8470,7 +8470,7 @@
       "mci_volume": 0.354,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/V4/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/V4/coronal_.png"
     },
     {
       "acronym": "V4r",
@@ -8494,7 +8494,7 @@
       "mci_volume": 0.379,
       "wt_volume": 0.189,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/V4r/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/V4r/coronal_.png"
     },
     {
       "acronym": "c",
@@ -8518,7 +8518,7 @@
       "mci_volume": 0.001,
       "wt_volume": 0.027,
       "significance_volume": 0.0019,
-      "src": "src/assets/Centers/c/coronal_.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/c/coronal_.png"
     },
     {
       "acronym": "SSp",
@@ -8542,7 +8542,7 @@
       "mci_volume": 1.347,
       "wt_volume": 0.002,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "VIS",
@@ -8566,7 +8566,7 @@
       "mci_volume": 0.284,
       "wt_volume": 0.026,
       "significance_volume": 0.0001,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "ACA",
@@ -8582,7 +8582,7 @@
       "mci_volume": 0.824,
       "wt_volume": null,
       "significance_volume": null,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "ORB",
@@ -8606,7 +8606,7 @@
       "mci_volume": 0.661,
       "wt_volume": 0.776,
       "significance_volume": 0.0,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     },
     {
       "acronym": "PTLp",
@@ -8630,7 +8630,7 @@
       "mci_volume": 0.281,
       "wt_volume": 0.037,
       "significance_volume": 0.0233,
-      "src": "src/assets/Centers/brain_match_9.png"
+      "src": "https://neuroframe-s3-bucket.s3.eu-north-1.amazonaws.com/assets/Centers/brain_match_9.png"
     }
   ]
 }
