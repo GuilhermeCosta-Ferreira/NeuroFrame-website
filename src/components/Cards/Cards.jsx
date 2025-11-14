@@ -1,13 +1,13 @@
 import './Cards.css'
 
-function CardCollection() {
+export function CardCollection() {
   return (
     <div className="card-grid">
       <Card
         title="The Source Code"
         src="src/assets/Home Page/code.png"
         alt="Code editor on screen"
-        href="/dev"
+        href="https://github.com/NR-NeuroFrame"
       />
       <Card
         title="Parkinsonian Atlas"

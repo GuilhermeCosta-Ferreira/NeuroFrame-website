@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import './NavBar.css'
 
-function NavBar(){
+export function NavBar(){
     return (
     <div>
         <div className="nav-bar">
@@ -27,5 +27,3 @@ function NavButton(props){
 
     return <Link to={props.target}><span className="nav-button">{props.name}</span></Link>
 }
-
-export default NavBar

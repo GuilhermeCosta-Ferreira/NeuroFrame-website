@@ -1,6 +1,6 @@
 import './Introduction.css'
 
-function ProjectBlock(){
+export function ProjectBlock(){
     return (
         <div className="project-block">
             <img 
@@ -24,5 +24,3 @@ function ProjectCorpus(){
         </div>
     )
 }
-
-export default ProjectBlock;

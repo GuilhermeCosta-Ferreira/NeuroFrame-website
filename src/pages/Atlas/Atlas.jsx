@@ -2,7 +2,7 @@ import atlas_data from "./brain_locations.json";
 import { useState } from "react";
 import "./Atlas.css";
 
-export default function Atlas() {
+export function Atlas() {
   const [selected, setSelected] = useState([]); // array of names
 
   const addCenter = ({ target }) => {

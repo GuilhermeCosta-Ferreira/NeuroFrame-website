@@ -1,11 +1,8 @@
-import './App.css'
-
-import NavBar from './NavBar/NavBar'
-import ProjectBlock from './Introduction/Introduction'
-import CardCollection from './Cards/Cards'
-import Atlas from './Atlas/atlas'
-
-import { Route, Routes } from 'react-router-dom'
+import { NavBar } from '@/components/NavBar'        // or default import if exported default
+import { ProjectBlock } from '@/components/Introduction'
+import { CardCollection } from '@/components/Cards'
+import { Atlas } from '@/pages/Atlas'
+import { Routes, Route } from 'react-router-dom'
 
 function App(props) {
  return (
