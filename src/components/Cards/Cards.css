@@ -1,0 +1,70 @@
+.card-grid {
+  margin: 3.12rem 3.90%;
+  display: grid;
+  gap: 3.90%;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: stretch; /* Ensures equal height for all cards */
+}
+
+/* collapse to fewer columns on smaller screens
+@media (max-width: 1000px) {
+  .card-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 640px) {
+  .card-grid { grid-template-columns: 1fr; }
+}
+*/
+
+.card {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 18.38rem;
+  overflow: hidden;
+  border-radius: 10px;
+  
+  
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.card:hover,
+.card:focus-visible {
+  transform: translateY(-2px);
+  filter: drop-shadow(0px 6px 2px #090909);
+}
+
+.card__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    display: block;
+}
+
+/* bottom-strong gradient with smoother transitions */
+.card__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+        to bottom,
+        rgba(0,0,0,0.05) 0%,
+        rgba(0,0,0,0.15) 25%,
+        rgba(0,0,0,0.4) 50%,
+        rgba(0,0,0,0.75) 75%,
+        rgba(0,0,0,0.9) 100%
+    );
+    
+}
+
+/* title on the bottom-center, fluid size */
+.card__title {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: clamp(12px, 2vw, 24px);
+    margin: 0;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.2srem;
+    line-height: 1.25;
+}

@@ -1,0 +1,47 @@
+.project-block{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+
+    margin: 0% 3.12rem;
+
+    height: auto;  
+}
+
+.project-corpus{
+    background-color: white;
+    opacity: 100%;
+
+    border-radius: 10px;
+    filter: drop-shadow(10px 10px 4px #090909);
+}
+
+.schematic{
+    width: 100%;
+
+    margin-bottom: 3.90%;
+}
+
+.project-title{
+    font-size: 1.88rem;
+    margin: 1.56rem 1.96%;
+    margin-bottom: 0;
+}
+
+.project-text{
+    margin-bottom: 1.25rem;
+    text-align: justify;
+    text-indent: 1.5em;
+}
+
+#project-1-p{
+    margin: 0% 1.96%;
+    margin-bottom: 0.62rem;
+    margin-top: 0.94rem;
+}
+
+#project-2-p{
+    margin: 0% 1.96%;
+    margin-bottom: 1.87rem;
+}
