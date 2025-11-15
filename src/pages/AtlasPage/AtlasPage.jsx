@@ -23,12 +23,16 @@ export function AtlasPage() {
 
   return (
     <div className="atlas-page">
-      <SearchBar selected_options={selected} onAddOption={addCenter} />
+      <div className="container">
+        <SearchBar selected_options={selected} onAddOption={addCenter} />
+      </div>
+
       <div className="container">
         <h1 className="title-1">
           {selected.length > 0 ? "Selected Centers " : ""}
         </h1>
-        <div className="selected-info">
+
+        <div>
           {selected.map((name) => {
             // ideally look in full sampleData here, not only `data`
             const loc = data.find((l) => l.name === name);

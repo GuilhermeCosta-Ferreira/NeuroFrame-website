@@ -1,11 +1,10 @@
-import React, { useState, useCallback, useEffect } from "react";
-import { Search, Mic } from "lucide-react";
-import sampleData_full from "../../assets/brain_locations.json";
-import { SearchSuggestion } from "./SearchSuggestions";
 import "./SearchBar.css";
-
+import sampleData_full from "../../assets/brain_locations.json";
 const sampleData = sampleData_full["brain_locations"];
-console.log("Sample Data:", sampleData); // remember: access ['brain_locations'] key if needed
+
+import { useState, useCallback, useEffect } from "react";
+import { Search } from "lucide-react";
+import { SearchSuggestion } from "./SearchSuggestions";
 
 export function SearchBar({ selected_options = [], onAddOption = () => {} }) {
   const [searchTerm, setSearchTerm] = useState("");
@@ -64,6 +63,7 @@ export function SearchBar({ selected_options = [], onAddOption = () => {} }) {
           selected={selected_options}
           data={searchResults}
           onChangeSelected={onAddOption}
+          className="results"
         />
       )}
     </div>
