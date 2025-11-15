@@ -3,10 +3,10 @@ import './Introduction.css'
 export function ProjectBlock(){
     return (
         <div className="project-block">
+            <ProjectCorpus></ProjectCorpus>
             <img 
             className="schematic"
-            src="src/assets/Home Page/Simple Flow - Website.jpg"/>
-            <ProjectCorpus></ProjectCorpus>
+            src="src/assets/Home Page/Simple Flow - Website.png"/>
         </div>
     )
 }

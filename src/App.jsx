@@ -1,7 +1,7 @@
 import { NavBar } from '@/components/NavBar'        // or default import if exported default
 import { ProjectBlock } from '@/components/Introduction'
 import { CardCollection } from '@/components/Cards'
-import { Atlas } from '@/pages/Atlas'
+import { AtlasPage } from '@/pages/AtlasPage'
 import { Routes, Route } from 'react-router-dom'
 
 function App(props) {
@@ -13,6 +13,7 @@ function App(props) {
             <Route path="/papers" element={<NavBar />} />
             <Route path="/dev" element={<NavBar />} />
         </Routes>
+
         <Routes>
             <Route path="/" element={<ProjectBlock />} />
         </Routes>
@@ -20,7 +21,7 @@ function App(props) {
             <Route path="/" element={<CardCollection />} />
         </Routes>
         <Routes>
-            <Route path="/atlas" element={<Atlas />} />
+            <Route path="/atlas" element={<AtlasPage />} />
         </Routes>
     </div>
  )

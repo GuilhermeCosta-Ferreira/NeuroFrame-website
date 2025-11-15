@@ -1,0 +1,30 @@
+:root {
+    --spacing: 5px;
+}
+
+.search-input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: calc(var(--spacing) * 2);
+    padding: calc(var(--spacing) * 2);
+    border-radius: calc(var(--spacing) * 2);
+    width: 100%;
+}
+.search-input {
+
+    gap: calc(var(--spacing) * 2);
+    padding: calc(var(--spacing) * 2);
+    border: none;
+    border-radius: calc(var(--spacing) * 2);
+    width: 100%;
+}
+
+.result-card {
+    background-color: blue;
+}
+
+.results {
+    flex: auto;
+    flex-direction: row;
+}
