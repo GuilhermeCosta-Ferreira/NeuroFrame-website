@@ -2,7 +2,8 @@ import "./AtlasPage.css";
 import sampleData_full from "../../assets/brain_locations.json";
 const data = sampleData_full["brain_locations"];
 
-import { SearchBar, SelectedCenter } from "@/components/SearchBar";
+import { SearchBar } from "@/components/SearchBar";
+import { CenterCard } from "../../components/CenterCard";
 import { useState } from "react";
 
 export function AtlasPage() {
@@ -31,14 +32,7 @@ export function AtlasPage() {
           {selected.map((name) => {
             // ideally look in full sampleData here, not only `data`
             const loc = data.find((l) => l.name === name);
-            if (!loc) {
-              return (
-                <div key={name} className="selected-center">
-                  {name}
-                </div>
-              );
-            }
-            return <SelectedCenter key={loc.name} location={loc} />;
+            return <CenterCard key={loc.name} location={loc} />;
           })}
         </div>
       </div>

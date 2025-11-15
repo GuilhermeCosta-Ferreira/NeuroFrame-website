@@ -1,4 +1,6 @@
-export function SelectedCenter({ location }) {
+import "./CenterCard.css";
+
+export function CenterCard({ location }) {
   return (
     <div className="center-card">
       <img src={location.src} alt={location.name} className="center-image" />
