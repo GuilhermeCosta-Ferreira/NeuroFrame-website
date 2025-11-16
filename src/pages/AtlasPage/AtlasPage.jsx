@@ -36,7 +36,13 @@ export function AtlasPage() {
           {selected.map((name) => {
             // ideally look in full sampleData here, not only `data`
             const loc = data.find((l) => l.name === name);
-            return <CenterCard key={loc.name} location={loc} />;
+            return (
+              <CenterCard
+                key={loc.name}
+                location={loc}
+                onChangeSelected={addCenter}
+              />
+            );
           })}
         </div>
       </div>

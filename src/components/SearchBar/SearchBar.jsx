@@ -44,6 +44,11 @@ export function SearchBar({ selected_options = [], onAddOption = () => {} }) {
     <div className="search-bar">
       <form className="search-container" onSubmit={(e) => e.preventDefault()}>
         <div className="search-input-container">
+          <div>
+            <button type="submit" className="search-button">
+              <Search />
+            </button>
+          </div>
           <input
             type="text"
             className="search-input"
@@ -51,11 +56,6 @@ export function SearchBar({ selected_options = [], onAddOption = () => {} }) {
             onChange={handleInputChange}
             placeholder="Search up to 5 locations"
           />
-          <div>
-            <button type="submit">
-              <Search size={20} />
-            </button>
-          </div>
         </div>
       </form>
       {searchResults.length > 0 && (

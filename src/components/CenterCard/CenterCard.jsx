@@ -1,6 +1,6 @@
 import "./CenterCard.css";
 
-export function CenterCard({ location }) {
+export function CenterCard({ location, onChangeSelected = () => {} }) {
   return (
     <div className="center-card">
       <img src={location.src} alt={location.name} className="center-image" />
@@ -9,12 +9,36 @@ export function CenterCard({ location }) {
         <p>
           {location.acronym}, {location.id}
         </p>
-        <ul className="center-details">
-          <li>X Coordinate: {location.mci_coords.x} mm</li>
-          <li>Y Coordinate: {location.mci_coords.y} mm</li>
-          <li>Z Coordinate: {location.mci_coords.z} mm</li>
-        </ul>
+        <div className="all-center-details">
+          <div>
+            <b>MCI Coordinates</b>
+            <ul className="mci-center-details">
+              <li>LR Coordinate: {location.mci_coords.x} mm</li>
+              <li>AP Coordinate: {location.mci_coords.y} mm</li>
+              <li>IS Coordinate: {location.mci_coords.z} mm</li>
+            </ul>
+          </div>
+
+          {location.wt_coords?.x != null && (
+            <div>
+              <b>WT Coordinates</b>
+              <ul className="wt-center-details">
+                <li>LR Coordinate: {location.wt_coords.x} mm</li>
+                <li>AP Coordinate: {location.wt_coords.y} mm</li>
+                <li>IS Coordinate: {location.wt_coords.z} mm</li>
+              </ul>
+            </div>
+          )}
+        </div>
       </div>
+      <button
+        className="center-close-btn"
+        title="Close"
+        aria-label={`Close ${location.name}`}
+        onClick={() => onChangeSelected(location.name)}
+      >
+        X
+      </button>
     </div>
   );
 }
