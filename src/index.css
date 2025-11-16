@@ -1,6 +1,7 @@
 :root{
     background-color: #1E1E1E;
     font-family: 'Raleway', sans-serif;
+    font-variant-numeric: lining-nums;
     font-size: 16px; /* optional, keeps 1rem = 16px */
 }
 

@@ -1,6 +1,6 @@
 .center-card {
     display: flex;
-    align-items: center;
+    align-items: flex-start; /* align children to top */
     justify-content: flex-start;
     gap: 1.5rem;
 
@@ -9,6 +9,15 @@
     padding: 10px;
 
     margin-bottom: 1.5rem;
+    position: relative; /* create positioning context for the close button */
+}
+
+/* position the last child (close button) at the top-right of the card */
+.center-card > :last-child {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    margin: 0;
 }
 
 .center-image {
@@ -27,6 +36,23 @@
     width: 100%;
 }
 
-.center-details {
+.all-center-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+
+    gap: 2rem;
+}
+
+.mci-center-details {
+    margin: 0; 
+    padding-left: 1rem;
+    padding-inline-start: 1rem;
+}
+
+.wt-center-details {
     margin: 0;
+    padding-left: 1rem;
+    padding-inline-start: 1rem;
 }
