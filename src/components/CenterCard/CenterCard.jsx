@@ -13,9 +13,9 @@ export function CenterCard({ location, onChangeSelected = () => {} }) {
           <div>
             <b>MCI Coordinates</b>
             <ul className="mci-center-details">
-              <li>X Coordinate: {location.mci_coords.x} mm</li>
-              <li>Y Coordinate: {location.mci_coords.y} mm</li>
-              <li>Z Coordinate: {location.mci_coords.z} mm</li>
+              <li>LR Coordinate: {location.mci_coords.x} mm</li>
+              <li>AP Coordinate: {location.mci_coords.y} mm</li>
+              <li>IS Coordinate: {location.mci_coords.z} mm</li>
             </ul>
           </div>
 
@@ -23,9 +23,9 @@ export function CenterCard({ location, onChangeSelected = () => {} }) {
             <div>
               <b>WT Coordinates</b>
               <ul className="wt-center-details">
-                <li>X Coordinate: {location.wt_coords.x} mm</li>
-                <li>Y Coordinate: {location.wt_coords.y} mm</li>
-                <li>Z Coordinate: {location.wt_coords.z} mm</li>
+                <li>LR Coordinate: {location.wt_coords.x} mm</li>
+                <li>AP Coordinate: {location.wt_coords.y} mm</li>
+                <li>IS Coordinate: {location.wt_coords.z} mm</li>
               </ul>
             </div>
           )}
